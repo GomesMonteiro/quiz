@@ -1,0 +1,533 @@
+{
+    "categorias": [
+      {
+        "nome": "Arquitetura de Computadores",
+        "icone": "💻",
+        "perguntas": [
+          {
+            "enunciado": "Qual componente é responsável por buscar, decodificar e executar instruções?",
+            "opcoes": [
+              "Unidade de Controle (UC)",
+              "Unidade Lógica e Aritmética (ULA)",
+              "Memória RAM",
+              "Barramento de Dados"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle (UC) coordena a busca, decodificação e execução de instruções."
+          },
+          {
+            "enunciado": "Qual tipo de memória é volátil e armazena dados temporariamente durante a execução de programas?",
+            "opcoes": [
+              "ROM",
+              "SSD",
+              "RAM",
+              "HD"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "A RAM (Random Access Memory) perde seus dados quando o computador é desligado."
+          },
+          {
+            "enunciado": "Qual componente executa operações matemáticas e lógicas na CPU?",
+            "opcoes": [
+              "Registradores",
+              "Unidade de Controle (UC)",
+              "Unidade Lógica e Aritmética (ULA)",
+              "Barramento de Endereço"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A ULA é responsável por realizar cálculos aritméticos e operações lógicas."
+          },
+          {
+            "enunciado": "Qual função do contador de programa (PC)?",
+            "opcoes": [
+              "Armazenar resultados intermediários",
+              "Controlar periféricos",
+              "Indicar o endereço da próxima instrução",
+              "Gerenciar a memória secundária"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O PC armazena o endereço da próxima instrução a ser executada na memória."
+          },
+          {
+            "enunciado": "Qual grupo de instruções altera o fluxo de execução de um programa?",
+            "opcoes": [
+              "Instruções de transferência",
+              "Instruções de processamento",
+              "Instruções de controle",
+              "Instruções de armazenamento"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Instruções de controle (como Jump) alteram a sequência de execução."
+          },
+          {
+            "enunciado": "Qual dispositivo é considerado um periférico de entrada e saída?",
+            "opcoes": [
+              "HD",
+              "Monitor Touchscreen",
+              "Placa de Vídeo",
+              "Fonte de Alimentação"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Monitores touchscreen permitem entrada (toque) e saída (exibição visual)."
+          },
+          {
+            "enunciado": "O que é o barramento de endereços?",
+            "opcoes": [
+              "Canal de comunicação entre a CPU e os periféricos",
+              "Conjunto de linhas que transporta instruções",
+              "Sistema que transporta dados entre os registradores",
+              "Conjunto de linhas que indica a posição da memória a ser acessada"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O barramento de endereços leva o endereço da memória onde a CPU irá ler ou escrever dados."
+          },
+          {
+            "enunciado": "Qual é a função dos registradores dentro da CPU?",
+            "opcoes": [
+              "Armazenar dados temporários e resultados de operações",
+              "Gerar sinais de controle para os dispositivos",
+              "Controlar o barramento de dados",
+              "Armazenar arquivos do usuário"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Registradores são pequenas áreas de armazenamento ultrarrápidas usadas durante o processamento."
+          },
+          {
+            "enunciado": "O que é a arquitetura de von Neumann?",
+            "opcoes": [
+              "Um modelo de rede de computadores",
+              "Uma linguagem de programação",
+              "Um conceito onde dados e instruções compartilham o mesmo espaço de memória",
+              "Um tipo de compilador"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na arquitetura de von Neumann, os dados e as instruções são armazenados na mesma memória."
+          },
+          {
+            "enunciado": "Qual das opções representa um exemplo de memória não volátil?",
+            "opcoes": [
+              "RAM",
+              "Cache",
+              "Registradores",
+              "ROM"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A ROM (Read-Only Memory) mantém os dados mesmo quando o computador é desligado."
+          },
+          {
+            "enunciado": "Qual é a principal função do barramento de dados?",
+            "opcoes": [
+              "Transportar sinais de controle",
+              "Transportar endereços de memória",
+              "Transportar informações entre os componentes",
+              "Fornecer energia aos componentes"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "O barramento de dados é responsável por transportar dados entre a CPU, a memória e os periféricos."
+          },
+          {
+            "enunciado": "O que significa a sigla ULA?",
+            "opcoes": [
+              "Unidade de Linguagem Avançada",
+              "Unidade de Leitura de Arquivos",
+              "Unidade Lógica e Aritmética",
+              "Unidade de Largura de Banda"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "ULA significa Unidade Lógica e Aritmética, responsável por operações matemáticas e lógicas."
+          },
+          {
+            "enunciado": "Qual das opções abaixo não é considerada parte da CPU?",
+            "opcoes": [
+              "Unidade de Controle",
+              "Unidade Lógica e Aritmética",
+              "Barramento de Dados",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O barramento de dados é um meio de comunicação entre componentes, não parte da CPU."
+          },
+          {
+            "enunciado": "O que o ciclo de instrução representa em um processador?",
+            "opcoes": [
+              "Processo de carregamento do sistema operacional",
+              "Etapas de entrada e saída de dados",
+              "Sequência de buscar, decodificar e executar uma instrução",
+              "Transferência de arquivos entre dispositivos"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O ciclo de instrução é o conjunto de etapas para processar uma instrução: buscar, decodificar e executar."
+          },
+          {
+            "enunciado": "Qual é a função principal dos registradores dentro da CPU?",
+            "opcoes": [
+              "Armazenar arquivos temporários",
+              "Controlar dispositivos periféricos",
+              "Executar instruções lógicas",
+              "Armazenar dados temporários de forma extremamente rápida"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Registradores são memórias pequenas e rápidas usadas para armazenar dados temporários durante o processamento."
+          },
+          {
+            "enunciado": "O que diferencia a memória cache da memória RAM?",
+            "opcoes": [
+              "A cache é mais lenta que a RAM",
+              "A RAM é usada para armazenamento permanente",
+              "A cache é mais rápida e próxima do processador",
+              "A cache é usada apenas por dispositivos externos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A memória cache é menor, mais rápida e fica mais próxima da CPU, agilizando o acesso a dados frequentes."
+          },
+          {
+            "enunciado": "Qual barramento é responsável por enviar sinais que controlam as operações dos componentes?",
+            "opcoes": [
+              "Barramento de controle",
+              "Barramento de dados",
+              "Barramento de endereço",
+              "Barramento lógico"
+            ],
+            "correta": 0,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O barramento de controle envia sinais que determinam o que cada componente deve fazer em determinado momento."
+          },
+          {
+            "enunciado": "O que caracteriza a memória RAM como 'volátil'?",
+            "opcoes": [
+              "Ela precisa de atualização constante",
+              "Ela perde os dados quando o computador é desligado",
+              "Ela armazena o sistema operacional permanentemente",
+              "Ela não permite leitura e escrita rápidas"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Memórias voláteis, como a RAM, perdem seus dados quando a alimentação elétrica é interrompida."
+          },
+          {
+            "enunciado": "O que são instruções do tipo 'fetch' no ciclo de instrução?",
+            "opcoes": [
+              "Instruções que armazenam dados no disco",
+              "Instruções que transferem dados entre dispositivos",
+              "Instruções que buscam a próxima instrução da memória",
+              "Instruções que apagam registros antigos"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 25,
+            "explicacao": "A etapa 'fetch' busca a próxima instrução da memória para ser decodificada e executada."
+          },
+          {
+            "enunciado": "Qual componente gerencia o envio de sinais de controle entre as partes do computador?",
+            "opcoes": [
+              "Memória RAM",
+              "Unidade de Controle",
+              "Cache",
+              "HD"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle gerencia os sinais que coordenam o funcionamento dos componentes do computador."
+          },
+          {
+            "enunciado": "Qual das opções é considerada uma memória não volátil?",
+            "opcoes": [
+              "Cache",
+              "RAM",
+              "ROM",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A ROM mantém os dados mesmo sem energia, por isso é classificada como memória não volátil."
+          },
+          {
+            "enunciado": "O que representa o barramento de endereços em um computador?",
+            "opcoes": [
+              "Conjunto de vias que transporta dados",
+              "Linhas que determinam a localização na memória",
+              "Canal de transmissão de energia elétrica",
+              "Sistema de conexão com a internet"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "O barramento de endereços indica onde os dados devem ser lidos ou gravados na memória."
+          },
+          {
+            "enunciado": "Qual etapa do ciclo de instrução envolve a execução da operação pela ULA?",
+            "opcoes": [
+              "Fetch",
+              "Decode",
+              "Execute",
+              "Write-back"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A etapa Execute é quando a CPU realiza a operação desejada por meio da ULA."
+          },
+          {
+            "enunciado": "Qual é a principal função da ROM?",
+            "opcoes": [
+              "Armazenar arquivos temporários",
+              "Executar aplicativos do usuário",
+              "Conter instruções permanentes de inicialização",
+              "Guardar imagens e vídeos"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A ROM contém instruções essenciais, como a BIOS, usadas na inicialização do computador."
+          },
+          {
+            "enunciado": "Como são classificadas as instruções que transferem dados entre registradores e memória?",
+            "opcoes": [
+              "Instruções de controle",
+              "Instruções lógicas",
+              "Instruções aritméticas",
+              "Instruções de transferência"
+            ],
+            "correta": 3,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "As instruções de transferência movem dados entre registradores, memória e dispositivos."
+          },
+          {
+            "enunciado": "Qual componente executa operações lógicas como AND, OR e NOT?",
+            "opcoes": [
+              "Memória Cache",
+              "ROM",
+              "ULA",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A Unidade Lógica e Aritmética executa operações matemáticas e lógicas simples."
+          },
+          {
+            "enunciado": "O que determina a largura de um barramento?",
+            "opcoes": [
+              "O tipo de processador usado",
+              "O número de periféricos conectados",
+              "A quantidade de bits que pode transportar simultaneamente",
+              "O tamanho da memória RAM"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "A largura de um barramento define quantos bits podem ser transportados por vez."
+          },
+          {
+            "enunciado": "Qual dos seguintes itens é considerado um dispositivo de armazenamento secundário?",
+            "opcoes": [
+              "Cache",
+              "RAM",
+              "Registrador",
+              "Disco rígido"
+            ],
+            "correta": 3,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "O disco rígido (HD) é um tipo de memória secundária, usada para armazenar dados permanentemente."
+          },
+          {
+            "enunciado": "Por que o processador precisa de memória cache?",
+            "opcoes": [
+              "Para aumentar a capacidade de armazenamento",
+              "Para executar programas gráficos",
+              "Para acelerar o acesso a dados frequentes",
+              "Para controlar dispositivos externos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A memória cache serve para armazenar dados frequentemente usados, reduzindo o tempo de acesso."
+          },
+          {
+            "enunciado": "O que define um ciclo de instrução?",
+            "opcoes": [
+              "O tempo entre o ligar e desligar do computador",
+              "O processo de entrada e saída de dados",
+              "O conjunto de etapas necessárias para executar uma instrução",
+              "O carregamento do sistema operacional"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Um ciclo de instrução envolve buscar, decodificar, executar e armazenar uma instrução."
+          },
+          {
+            "enunciado": "Qual é a principal característica da arquitetura de Von Neumann?",
+            "opcoes": [
+              "Separação entre memória e CPU",
+              "Processamento paralelo de dados",
+              "Instruções e dados na mesma memória",
+              "Memória separada para controle e dados"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na arquitetura de Von Neumann, dados e instruções são armazenados na mesma memória."
+          },
+          {
+            "enunciado": "Qual unidade da CPU é responsável por decodificar as instruções?",
+            "opcoes": [
+              "Unidade de Controle",
+              "Memória RAM",
+              "Registradores",
+              "Barramento de dados"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle interpreta e organiza a execução das instruções."
+          },
+          {
+            "enunciado": "Qual dispositivo pode ser usado tanto para entrada quanto para saída de dados?",
+            "opcoes": [
+              "Teclado",
+              "Impressora",
+              "Microfone",
+              "Tela sensível ao toque"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "Uma tela sensível ao toque permite entrada (toque) e saída (exibição) de dados."
+          },
+          {
+            "enunciado": "Qual a função do contador de programa (PC)?",
+            "opcoes": [
+              "Contar o número de instruções executadas",
+              "Armazenar o código-fonte",
+              "Indicar o endereço da próxima instrução",
+              "Executar cálculos complexos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "O PC aponta para o endereço da próxima instrução que a CPU deverá executar."
+          },
+          {
+            "enunciado": "O que ocorre na fase de 'write-back' do ciclo de instrução?",
+            "opcoes": [
+              "A CPU busca a instrução da memória",
+              "A CPU decodifica a instrução",
+              "O resultado é armazenado no destino",
+              "A CPU é desligada"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na etapa de write-back, os resultados da execução são gravados de volta no registrador ou memória."
+          },
+          {
+            "enunciado": "O que são periféricos?",
+            "opcoes": [
+              "Programas do sistema operacional",
+              "Partes internas do processador",
+              "Dispositivos conectados ao computador",
+              "Sistemas de gerenciamento de memória"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Periféricos são dispositivos externos como teclado, mouse, impressora, entre outros."
+          },
+          {
+            "enunciado": "Quais são as três principais categorias de barramentos?",
+            "opcoes": [
+              "Principal, auxiliar e virtual",
+              "Endereço, dados e controle",
+              "Digital, analógico e lógico",
+              "Serial, paralelo e contínuo"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "Os principais barramentos são: de dados, de endereços e de controle."
+          },
+          {
+            "enunciado": "Qual unidade executa cálculos matemáticos e lógicos básicos?",
+            "opcoes": [
+              "Memória ROM",
+              "Unidade de Controle",
+              "ULA",
+              "Registrador"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A Unidade Lógica e Aritmética (ULA) executa cálculos simples e operações lógicas."
+          },
+          {
+            "enunciado": "Qual componente fornece energia elétrica a todo o sistema?",
+            "opcoes": [
+              "Fonte de alimentação",
+              "Memória RAM",
+              "Placa-mãe",
+              "Disco rígido"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 10,
+            "explicacao": "A fonte de alimentação converte energia da rede elétrica para alimentar os componentes do computador."
+          },
+          
+          
+          
+          {
+            "enunciado": "O que são 'portas lógicas' na arquitetura de computadores?",
+            "opcoes": [
+              "Dispositivos de armazenamento de dados",
+              "Circuitos que tomam decisões binárias",
+              "Interfaces para periféricos",
+              "Conexões físicas entre componentes"
+            ],
+            "correta": 1,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Portas lógicas são circuitos que realizam operações booleanas (AND, OR, NOT)."
+          }
+        ]
+      }
+    ]
+  }
