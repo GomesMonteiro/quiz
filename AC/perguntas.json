@@ -1,0 +1,2089 @@
+{
+    "categorias": [
+      {
+        "nome": "Arquitetura de Computadores",
+        "icone": "💻",
+        "perguntas": [
+          {
+            "enunciado": "Qual componente é responsável por buscar, decodificar e executar instruções?",
+            "opcoes": [
+              "Unidade de Controle (UC)",
+              "Unidade Lógica e Aritmética (ULA)",
+              "Memória RAM",
+              "Barramento de Dados"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle (UC) coordena a busca, decodificação e execução de instruções."
+          },
+          {
+            "enunciado": "Qual tipo de memória é volátil e armazena dados temporariamente durante a execução de programas?",
+            "opcoes": [
+              "ROM",
+              "SSD",
+              "RAM",
+              "HD"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "A RAM (Random Access Memory) perde seus dados quando o computador é desligado."
+          },
+          {
+            "enunciado": "Qual componente executa operações matemáticas e lógicas na CPU?",
+            "opcoes": [
+              "Registradores",
+              "Unidade de Controle (UC)",
+              "Unidade Lógica e Aritmética (ULA)",
+              "Barramento de Endereço"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A ULA é responsável por realizar cálculos aritméticos e operações lógicas."
+          },
+          {
+            "enunciado": "Qual função do contador de programa (PC)?",
+            "opcoes": [
+              "Armazenar resultados intermediários",
+              "Controlar periféricos",
+              "Indicar o endereço da próxima instrução",
+              "Gerenciar a memória secundária"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O PC armazena o endereço da próxima instrução a ser executada na memória."
+          },
+          {
+            "enunciado": "Qual grupo de instruções altera o fluxo de execução de um programa?",
+            "opcoes": [
+              "Instruções de transferência",
+              "Instruções de processamento",
+              "Instruções de controle",
+              "Instruções de armazenamento"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Instruções de controle (como Jump) alteram a sequência de execução."
+          },
+          {
+            "enunciado": "Qual dispositivo é considerado um periférico de entrada e saída?",
+            "opcoes": [
+              "HD",
+              "Monitor Touchscreen",
+              "Placa de Vídeo",
+              "Fonte de Alimentação"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Monitores touchscreen permitem entrada (toque) e saída (exibição visual)."
+          },
+          {
+            "enunciado": "O que é o barramento de endereços?",
+            "opcoes": [
+              "Canal de comunicação entre a CPU e os periféricos",
+              "Conjunto de linhas que transporta instruções",
+              "Sistema que transporta dados entre os registradores",
+              "Conjunto de linhas que indica a posição da memória a ser acessada"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O barramento de endereços leva o endereço da memória onde a CPU irá ler ou escrever dados."
+          },
+          {
+            "enunciado": "Qual é a função dos registradores dentro da CPU?",
+            "opcoes": [
+              "Armazenar dados temporários e resultados de operações",
+              "Gerar sinais de controle para os dispositivos",
+              "Controlar o barramento de dados",
+              "Armazenar arquivos do usuário"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Registradores são pequenas áreas de armazenamento ultrarrápidas usadas durante o processamento."
+          },
+          {
+            "enunciado": "O que é a arquitetura de von Neumann?",
+            "opcoes": [
+              "Um modelo de rede de computadores",
+              "Uma linguagem de programação",
+              "Um conceito onde dados e instruções compartilham o mesmo espaço de memória",
+              "Um tipo de compilador"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na arquitetura de von Neumann, os dados e as instruções são armazenados na mesma memória."
+          },
+          {
+            "enunciado": "Qual das opções representa um exemplo de memória não volátil?",
+            "opcoes": [
+              "RAM",
+              "Cache",
+              "Registradores",
+              "ROM"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A ROM (Read-Only Memory) mantém os dados mesmo quando o computador é desligado."
+          },
+          {
+            "enunciado": "Qual é a principal função do barramento de dados?",
+            "opcoes": [
+              "Transportar sinais de controle",
+              "Transportar endereços de memória",
+              "Transportar informações entre os componentes",
+              "Fornecer energia aos componentes"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "O barramento de dados é responsável por transportar dados entre a CPU, a memória e os periféricos."
+          },
+          {
+            "enunciado": "O que significa a sigla ULA?",
+            "opcoes": [
+              "Unidade de Linguagem Avançada",
+              "Unidade de Leitura de Arquivos",
+              "Unidade Lógica e Aritmética",
+              "Unidade de Largura de Banda"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "ULA significa Unidade Lógica e Aritmética, responsável por operações matemáticas e lógicas."
+          },
+          {
+            "enunciado": "Qual das opções abaixo não é considerada parte da CPU?",
+            "opcoes": [
+              "Unidade de Controle",
+              "Unidade Lógica e Aritmética",
+              "Barramento de Dados",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O barramento de dados é um meio de comunicação entre componentes, não parte da CPU."
+          },
+          {
+            "enunciado": "O que o ciclo de instrução representa em um processador?",
+            "opcoes": [
+              "Processo de carregamento do sistema operacional",
+              "Etapas de entrada e saída de dados",
+              "Sequência de buscar, decodificar e executar uma instrução",
+              "Transferência de arquivos entre dispositivos"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O ciclo de instrução é o conjunto de etapas para processar uma instrução: buscar, decodificar e executar."
+          },
+          {
+            "enunciado": "Qual é a função principal dos registradores dentro da CPU?",
+            "opcoes": [
+              "Armazenar arquivos temporários",
+              "Controlar dispositivos periféricos",
+              "Executar instruções lógicas",
+              "Armazenar dados temporários de forma extremamente rápida"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Registradores são memórias pequenas e rápidas usadas para armazenar dados temporários durante o processamento."
+          },
+          {
+            "enunciado": "O que diferencia a memória cache da memória RAM?",
+            "opcoes": [
+              "A cache é mais lenta que a RAM",
+              "A RAM é usada para armazenamento permanente",
+              "A cache é mais rápida e próxima do processador",
+              "A cache é usada apenas por dispositivos externos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A memória cache é menor, mais rápida e fica mais próxima da CPU, agilizando o acesso a dados frequentes."
+          },
+          {
+            "enunciado": "Qual barramento é responsável por enviar sinais que controlam as operações dos componentes?",
+            "opcoes": [
+              "Barramento de controle",
+              "Barramento de dados",
+              "Barramento de endereço",
+              "Barramento lógico"
+            ],
+            "correta": 0,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "O barramento de controle envia sinais que determinam o que cada componente deve fazer em determinado momento."
+          },
+          {
+            "enunciado": "O que caracteriza a memória RAM como 'volátil'?",
+            "opcoes": [
+              "Ela precisa de atualização constante",
+              "Ela perde os dados quando o computador é desligado",
+              "Ela armazena o sistema operacional permanentemente",
+              "Ela não permite leitura e escrita rápidas"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Memórias voláteis, como a RAM, perdem seus dados quando a alimentação elétrica é interrompida."
+          },
+          {
+            "enunciado": "O que são instruções do tipo 'fetch' no ciclo de instrução?",
+            "opcoes": [
+              "Instruções que armazenam dados no disco",
+              "Instruções que transferem dados entre dispositivos",
+              "Instruções que buscam a próxima instrução da memória",
+              "Instruções que apagam registros antigos"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 25,
+            "explicacao": "A etapa 'fetch' busca a próxima instrução da memória para ser decodificada e executada."
+          },
+          {
+            "enunciado": "Qual componente gerencia o envio de sinais de controle entre as partes do computador?",
+            "opcoes": [
+              "Memória RAM",
+              "Unidade de Controle",
+              "Cache",
+              "HD"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle gerencia os sinais que coordenam o funcionamento dos componentes do computador."
+          },
+          {
+            "enunciado": "Qual das opções é considerada uma memória não volátil?",
+            "opcoes": [
+              "Cache",
+              "RAM",
+              "ROM",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A ROM mantém os dados mesmo sem energia, por isso é classificada como memória não volátil."
+          },
+          {
+            "enunciado": "O que representa o barramento de endereços em um computador?",
+            "opcoes": [
+              "Conjunto de vias que transporta dados",
+              "Linhas que determinam a localização na memória",
+              "Canal de transmissão de energia elétrica",
+              "Sistema de conexão com a internet"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "O barramento de endereços indica onde os dados devem ser lidos ou gravados na memória."
+          },
+          {
+            "enunciado": "Qual etapa do ciclo de instrução envolve a execução da operação pela ULA?",
+            "opcoes": [
+              "Fetch",
+              "Decode",
+              "Execute",
+              "Write-back"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A etapa Execute é quando a CPU realiza a operação desejada por meio da ULA."
+          },
+          {
+            "enunciado": "Qual é a principal função da ROM?",
+            "opcoes": [
+              "Armazenar arquivos temporários",
+              "Executar aplicativos do usuário",
+              "Conter instruções permanentes de inicialização",
+              "Guardar imagens e vídeos"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A ROM contém instruções essenciais, como a BIOS, usadas na inicialização do computador."
+          },
+          {
+            "enunciado": "Como são classificadas as instruções que transferem dados entre registradores e memória?",
+            "opcoes": [
+              "Instruções de controle",
+              "Instruções lógicas",
+              "Instruções aritméticas",
+              "Instruções de transferência"
+            ],
+            "correta": 3,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "As instruções de transferência movem dados entre registradores, memória e dispositivos."
+          },
+          {
+            "enunciado": "Qual componente executa operações lógicas como AND, OR e NOT?",
+            "opcoes": [
+              "Memória Cache",
+              "ROM",
+              "ULA",
+              "Registradores"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A Unidade Lógica e Aritmética executa operações matemáticas e lógicas simples."
+          },
+          {
+            "enunciado": "O que determina a largura de um barramento?",
+            "opcoes": [
+              "O tipo de processador usado",
+              "O número de periféricos conectados",
+              "A quantidade de bits que pode transportar simultaneamente",
+              "O tamanho da memória RAM"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "A largura de um barramento define quantos bits podem ser transportados por vez."
+          },
+          {
+            "enunciado": "Qual dos seguintes itens é considerado um dispositivo de armazenamento secundário?",
+            "opcoes": [
+              "Cache",
+              "RAM",
+              "Registrador",
+              "Disco rígido"
+            ],
+            "correta": 3,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "O disco rígido (HD) é um tipo de memória secundária, usada para armazenar dados permanentemente."
+          },
+          {
+            "enunciado": "Por que o processador precisa de memória cache?",
+            "opcoes": [
+              "Para aumentar a capacidade de armazenamento",
+              "Para executar programas gráficos",
+              "Para acelerar o acesso a dados frequentes",
+              "Para controlar dispositivos externos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A memória cache serve para armazenar dados frequentemente usados, reduzindo o tempo de acesso."
+          },
+          {
+            "enunciado": "O que define um ciclo de instrução?",
+            "opcoes": [
+              "O tempo entre o ligar e desligar do computador",
+              "O processo de entrada e saída de dados",
+              "O conjunto de etapas necessárias para executar uma instrução",
+              "O carregamento do sistema operacional"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "Um ciclo de instrução envolve buscar, decodificar, executar e armazenar uma instrução."
+          },
+          {
+            "enunciado": "Qual é a principal característica da arquitetura de Von Neumann?",
+            "opcoes": [
+              "Separação entre memória e CPU",
+              "Processamento paralelo de dados",
+              "Instruções e dados na mesma memória",
+              "Memória separada para controle e dados"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na arquitetura de Von Neumann, dados e instruções são armazenados na mesma memória."
+          },
+          {
+            "enunciado": "Qual unidade da CPU é responsável por decodificar as instruções?",
+            "opcoes": [
+              "Unidade de Controle",
+              "Memória RAM",
+              "Registradores",
+              "Barramento de dados"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "A Unidade de Controle interpreta e organiza a execução das instruções."
+          },
+          {
+            "enunciado": "Qual dispositivo pode ser usado tanto para entrada quanto para saída de dados?",
+            "opcoes": [
+              "Teclado",
+              "Impressora",
+              "Microfone",
+              "Tela sensível ao toque"
+            ],
+            "correta": 3,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "Uma tela sensível ao toque permite entrada (toque) e saída (exibição) de dados."
+          },
+          {
+            "enunciado": "Qual a função do contador de programa (PC)?",
+            "opcoes": [
+              "Contar o número de instruções executadas",
+              "Armazenar o código-fonte",
+              "Indicar o endereço da próxima instrução",
+              "Executar cálculos complexos"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 25,
+            "explicacao": "O PC aponta para o endereço da próxima instrução que a CPU deverá executar."
+          },
+          {
+            "enunciado": "O que ocorre na fase de 'write-back' do ciclo de instrução?",
+            "opcoes": [
+              "A CPU busca a instrução da memória",
+              "A CPU decodifica a instrução",
+              "O resultado é armazenado no destino",
+              "A CPU é desligada"
+            ],
+            "correta": 2,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Na etapa de write-back, os resultados da execução são gravados de volta no registrador ou memória."
+          },
+          {
+            "enunciado": "O que são periféricos?",
+            "opcoes": [
+              "Programas do sistema operacional",
+              "Partes internas do processador",
+              "Dispositivos conectados ao computador",
+              "Sistemas de gerenciamento de memória"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "Periféricos são dispositivos externos como teclado, mouse, impressora, entre outros."
+          },
+          {
+            "enunciado": "Quais são as três principais categorias de barramentos?",
+            "opcoes": [
+              "Principal, auxiliar e virtual",
+              "Endereço, dados e controle",
+              "Digital, analógico e lógico",
+              "Serial, paralelo e contínuo"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "Os principais barramentos são: de dados, de endereços e de controle."
+          },
+          {
+            "enunciado": "Qual unidade executa cálculos matemáticos e lógicos básicos?",
+            "opcoes": [
+              "Memória ROM",
+              "Unidade de Controle",
+              "ULA",
+              "Registrador"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "A Unidade Lógica e Aritmética (ULA) executa cálculos simples e operações lógicas."
+          },
+          {
+            "enunciado": "Qual componente fornece energia elétrica a todo o sistema?",
+            "opcoes": [
+              "Fonte de alimentação",
+              "Memória RAM",
+              "Placa-mãe",
+              "Disco rígido"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 10,
+            "explicacao": "A fonte de alimentação converte energia da rede elétrica para alimentar os componentes do computador."
+          },
+          
+          
+          
+          {
+            "enunciado": "O que são 'portas lógicas' na arquitetura de computadores?",
+            "opcoes": [
+              "Dispositivos de armazenamento de dados",
+              "Circuitos que tomam decisões binárias",
+              "Interfaces para periféricos",
+              "Conexões físicas entre componentes"
+            ],
+            "correta": 1,
+            "dificuldade": "Difícil",
+            "tempo": 30,
+            "explicacao": "Portas lógicas são circuitos que realizam operações booleanas (AND, OR, NOT)."
+          }
+        ]
+      },
+   
+      {
+        "nome": "Arquitetura de Computadores 2",
+        "icone": "🖥️",
+        "perguntas": [
+          {
+            "enunciado": "O que significa a sigla CPU?",
+            "opcoes": [
+              "Control Processing Unit",
+              "Central Processing Unit",
+              "Computer Performance Unit",
+              "Central Power Unit"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "CPU é a Unidade Central de Processamento (Central Processing Unit)."
+          },
+          {
+            "enunciado": "Qual parte do computador é considerada o “próprio computador”?",
+            "opcoes": [
+              "Monitor",
+              "Gabinete (CPU)",
+              "Teclado",
+              "Placa de vídeo"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "O gabinete que contém a CPU é considerado o próprio computador."
+          },
+          {
+            "enunciado": "Em gabinetes no estilo 'desktop', qual é a orientação mais comum?",
+            "opcoes": [
+              "Vertical",
+              "Horizontal",
+              "Diagonal",
+              "Circular"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O gabinete desktop é disposto na horizontal."
+          },
+          {
+            "enunciado": "Como é normalmente chamado o gabinete disposto na vertical?",
+            "opcoes": [
+              "Desktop",
+              "Tower",
+              "Rack",
+              "Blade"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O gabinete vertical é conhecido como 'tower'."
+          },
+          {
+            "enunciado": "Qual destes componentes NÃO fica dentro do gabinete/CPU?",
+            "opcoes": [
+              "Placa-mãe",
+              "Memórias",
+              "Monitor",
+              "Disco rígido"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "O monitor é um periférico externo, não fica dentro do gabinete."
+          },
+          {
+            "enunciado": "Qual é a função da placa-mãe dentro do gabinete?",
+            "opcoes": [
+              "Armazenar dados permanentemente",
+              "Executar operações lógicas",
+              "Interligar todos os componentes internos",
+              "Fornecer energia elétrica"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A placa-mãe conecta e permite a comunicação entre todos os componentes."
+          },
+          {
+            "enunciado": "Qual componente dentro do gabinete é responsável pelo armazenamento permanente de arquivos?",
+            "opcoes": [
+              "Memória RAM",
+              "Processador",
+              "Disco rígido (HD)",
+              "Drive de CD/DVD"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 15,
+            "explicacao": "O disco rígido (HD) armazena dados permanentemente."
+          },
+          {
+            "enunciado": "Para que serve o drive de CD/DVD no gabinete?",
+            "opcoes": [
+              "Executar instruções da CPU",
+              "Conectar periféricos externos",
+              "Ler e gravar discos ópticos",
+              "Controlar a velocidade da ventoinha"
+            ],
+            "correta": 2,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "O drive de CD/DVD lê e grava mídias ópticas."
+          },
+          
+            {
+              "enunciado": "Qual é a função principal da placa-mãe?",
+              "opcoes": [
+                "Processar dados lógicos",
+                "Armazenar dados permanentemente",
+                "Interligar e acomodar todos os periféricos",
+                "Controlar dispositivos de entrada"
+              ],
+              "correta": 2,
+              "dificuldade": "Médio",
+              "tempo": 30,
+              "explicacao": "A placa-mãe conecta e fornece slots para todos os componentes internos do computador."
+            },
+            {
+              "enunciado": "Qual destes é um slot de expansão inicial para placas gráficas?",
+              "opcoes": [
+                "ISA",
+                "PCI",
+                "AGP",
+                "PCI-Express"
+              ],
+              "correta": 2,
+              "dificuldade": "Difícil",
+              "tempo": 30,
+              "explicacao": "O AGP (Accelerated Graphics Port) foi o padrão dedicado para placas de vídeo antes do PCI-Express."
+            },
+            {
+              "enunciado": "Qual slot foi amplamente usado para placas de som e rede antes do PCI?",
+              "opcoes": [
+                "AGP-PRO",
+                "ISA",
+                "PCI",
+                "USB"
+              ],
+              "correta": 1,
+              "dificuldade": "Médio",
+              "tempo": 20,
+              "explicacao": "O ISA (Industry Standard Architecture) era o padrão antigo para placas de som, rede e outros periféricos."
+            },
+            {
+              "enunciado": "O que diferencia o slot AGP-PRO do AGP comum?",
+              "opcoes": [
+                "Maior largura de banda e suporte a mais voltagem",
+                "Compatibilidade apenas com placas de som",
+                "Uso exclusivo em servidores",
+                "Suporte a conexão hot-swap"
+              ],
+              "correta": 0,
+              "dificuldade": "Difícil",
+              "tempo": 30,
+              "explicacao": "O AGP-PRO oferecia maior largura de banda e fornecimento de energia extra para placas profissionais."
+            },
+            {
+              "enunciado": "Qual slot tornou-se padrão universal para quase todas as placas de expansão a partir dos anos 1990?",
+              "opcoes": [
+                "ISA",
+                "AGP",
+                "PCI",
+                "ISA-2"
+              ],
+              "correta": 2,
+              "dificuldade": "Médio",
+              "tempo": 20,
+              "explicacao": "O PCI (Peripheral Component Interconnect) tornou-se o slot universal para vídeo, som, rede e outros periféricos."
+            },
+            {
+              "enunciado": "Qual função principal do processador (CPU)?",
+              "opcoes": [
+                "Armazenar grandes volumes de dados",
+                "Interpretar comandos e executar cálculos",
+                "Gerenciar conexões de rede",
+                "Controlar dispositivos externos"
+              ],
+              "correta": 1,
+              "dificuldade": "Fácil",
+              "tempo": 20,
+              "explicacao": "O processador interpreta instruções e realiza cálculos, gerenciando o fluxo de informações no computador."
+            },
+            {
+              "enunciado": "Por que o processador é considerado o 'cérebro' do computador?",
+              "opcoes": [
+                "Porque armazena permanentemente o sistema operacional",
+                "Porque executa decisões lógicas e cálculos essenciais",
+                "Porque distribui energia elétrica aos componentes",
+                "Porque controla somente o fluxo de dados na rede"
+              ],
+              "correta": 1,
+              "dificuldade": "Médio",
+              "tempo": 30,
+              "explicacao": "Assim como o cérebro, a CPU toma decisões lógicas, executa operações aritméticas e coordena todas as atividades do sistema."
+            },
+            {
+              "enunciado": "Como a CPU devolve resultados ao usuário?",
+              "opcoes": [
+                "Somente exibindo na tela",
+                "Armazenando em disco rígido",
+                "Imprimindo em papel",
+                "Todas as anteriores"
+              ],
+              "correta": 3,
+              "dificuldade": "Médio",
+              "tempo": 20,
+              "explicacao": "A CPU pode enviar resultados para a tela, gravar em disco ou encaminhar a dispositivos de saída como impressoras."
+            },
+            {
+              "enunciado": "Por que é necessário um sistema de refrigeração no processador?",
+              "opcoes": [
+                "Para aumentar a velocidade de clock",
+                "Para reduzir o consumo de energia",
+                "Para dissipar o calor gerado e evitar superaquecimento",
+                "Para proteger dados na memória cache"
+              ],
+              "correta": 2,
+              "dificuldade": "Fácil",
+              "tempo": 20,
+              "explicacao": "A CPU gera muito calor durante o processamento; dissipadores e ventoinhas mantêm a temperatura adequada."
+            },
+            {
+              "enunciado": "Qual componente combina com ventoinhas para manter a CPU refrigerada?",
+              "opcoes": [
+                "Célula de memória",
+                "Dissipador de calor",
+                "Unidade de controle",
+                "Barramento de dados"
+              ],
+              "correta": 1,
+              "dificuldade": "Médio",
+              "tempo": 20,
+              "explicacao": "O dissipador de calor, junto das ventoinhas, retira o calor da superfície do chip, garantindo seu funcionamento estável."
+            },
+            
+  {
+    "enunciado": "Qual função principal do processador (CPU)?",
+    "opcoes": [
+      "Armazenar grandes volumes de dados",
+      "Interpretar comandos e executar cálculos",
+      "Gerenciar conexões de rede",
+      "Controlar dispositivos externos"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O processador interpreta instruções e realiza cálculos, gerenciando o fluxo de informações no computador."
+  },
+  {
+    "enunciado": "Por que o processador é considerado o 'cérebro' do computador?",
+    "opcoes": [
+      "Porque armazena permanentemente o sistema operacional",
+      "Porque executa decisões lógicas e cálculos essenciais",
+      "Porque distribui energia elétrica aos componentes",
+      "Porque controla somente o fluxo de dados na rede"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Assim como o cérebro, a CPU toma decisões lógicas, executa operações aritméticas e coordena todas as atividades do sistema."
+  },
+  {
+    "enunciado": "Como a CPU devolve resultados ao usuário?",
+    "opcoes": [
+      "Somente exibindo na tela",
+      "Armazenando em disco rígido",
+      "Imprimindo em papel",
+      "Todas as anteriores"
+    ],
+    "correta": 3,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "A CPU pode enviar resultados para a tela, gravar em disco ou encaminhar a dispositivos de saída como impressoras."
+  },
+  {
+    "enunciado": "Por que é necessário um sistema de refrigeração no processador?",
+    "opcoes": [
+      "Para aumentar a velocidade de clock",
+      "Para reduzir o consumo de energia",
+      "Para dissipar o calor gerado e evitar superaquecimento",
+      "Para proteger dados na memória cache"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A CPU gera muito calor durante o processamento; dissipadores e ventoinhas mantêm a temperatura adequada."
+  },
+  {
+    "enunciado": "Qual componente combina com ventoinhas para manter a CPU refrigerada?",
+    "opcoes": [
+      "Célula de memória",
+      "Dissipador de calor",
+      "Unidade de controle",
+      "Barramento de dados"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "O dissipador de calor, junto das ventoinhas, retira o calor da superfície do chip, garantindo seu funcionamento estável."
+  },
+  
+  {
+    "enunciado": "Qual foi uma das primeiras famílias de processadores Intel mencionadas?",
+    "opcoes": [
+      "Core i3",
+      "Pentium 1",
+      "Dual Core",
+      "Core 2 Duo"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Pentium 1 foi uma das gerações iniciais de processadores Intel."
+  },
+  {
+    "enunciado": "Qual geração de processador é considerada ideal segundo a matéria?",
+    "opcoes": [
+      "Dual Core",
+      "Pentium 3",
+      "Core 2 Duo",
+      "Core i7"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "O Core 2 Duo foi destacado como ideal para uso geral."
+  },
+  {
+    "enunciado": "Qual destes processadores é da linha mais recente citada?",
+    "opcoes": [
+      "Pentium 2",
+      "Core i5",
+      "Pentium 3",
+      "Dual Core"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Core i5 faz parte da família mais recente de CPUs mencionadas."
+  },
+  {
+    "enunciado": "Qual tipo de memória perde seus dados quando falta energia elétrica?",
+    "opcoes": [
+      "ROM",
+      "Cache",
+      "RAM",
+      "Disco rígido"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A RAM é volátil: seu conteúdo é perdido sem energia."
+  },
+  {
+    "enunciado": "Qual memória vem embutida na placa-mãe e só pode ser lida pelo computador?",
+    "opcoes": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "SSD"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "A ROM já vem gravada na placa-mãe e não pode ser apagada, apenas lida."
+  },
+  {
+    "enunciado": "Por que é importante salvar periodicamente os dados em um computador?",
+    "opcoes": [
+      "Para evitar corrupção de memória ROM",
+      "Para carregar o sistema operacional mais rápido",
+      "Para não perder dados na RAM em caso de falta de energia",
+      "Para aumentar a velocidade do processador"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Salvar periodicamente evita perda de dados que estão na memória volátil (RAM) se faltar energia."
+  },
+  
+  {
+    "enunciado": "Qual destas capacidades de memória RAM é considerada antiga e rara atualmente?",
+    "opcoes": [
+      "2 GB",
+      "4 GB",
+      "8 GB",
+      "128 MB"
+    ],
+    "correta": 3,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Memórias de apenas 128 MB eram comuns décadas atrás, mas hoje são raras."
+  },
+  {
+    "enunciado": "Qual é a função principal do disco rígido (HD)?",
+    "opcoes": [
+      "Processar instruções da CPU",
+      "Armazenar dados e programas permanentemente",
+      "Gerenciar a memória RAM",
+      "Controlar a velocidade das ventoinhas"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O HD armazena o sistema operacional, aplicativos e arquivos de forma permanente."
+  },
+  {
+    "enunciado": "Onde geralmente está instalado o sistema operacional Windows?",
+    "opcoes": [
+      "Em um pendrive USB",
+      "No disco rígido (HD)",
+      "Na memória RAM",
+      "Na ROM da placa-mãe"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O Windows é tipicamente instalado no HD, que mantém os dados mesmo sem energia."
+  },
+  {
+    "enunciado": "O que significa a sigla HD?",
+    "opcoes": [
+      "Hard Drive",
+      "High Definition",
+      "Hard Disk",
+      "Heavy Data"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "HD vem de Hard Disk, ou disco rígido em português."
+  },
+  {
+    "enunciado": "O que acontece logo após ligarmos o computador, segundo a matéria?",
+    "opcoes": [
+      "A CPU começa a processar instruções",
+      "O Sistema Operativo é iniciado",
+      "O dissipador de calor é testado",
+      "O BIOS é apagado"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Assim que o computador liga, o sistema operacional (por exemplo Windows) é carregado do HD."
+  },
+  {
+    "enunciado": "Por que é importante salvar periodicamente o seu trabalho em um HD?",
+    "opcoes": [
+      "Para aumentar a velocidade da RAM",
+      "Para evitar perda de dados em caso de queda de energia",
+      "Para liberar espaço no processador",
+      "Para atualizar o BIOS automaticamente"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Salvar no HD evita que você perca dados armazenados na RAM, que é volátil."
+  },
+  {
+    "enunciado": "Qual das seguintes capacidades de memória RAM é comumente encontrada atualmente?",
+    "opcoes": [
+      "256 MB",
+      "2 GB",
+      "2 TB",
+      "512 KB"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Hoje em dia é comum encontrar módulos de RAM de 2 GB, 4 GB, 8 GB, 16 GB, 32 GB, etc."
+  },
+  
+  {
+    "enunciado": "Qual destas capacidades de disco rígido é considerada 'ideal' segundo a matéria?",
+    "opcoes": [
+      "160 GB",
+      "250 GB",
+      "320 GB",
+      "500 GB"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "A capacidade de 320 GB foi destacada como ideal."
+  },
+  {
+    "enunciado": "Quanto equivale 1000 GB em terabytes?",
+    "opcoes": [
+      "0,1 TB",
+      "1 TB",
+      "10 TB",
+      "100 TB"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "1000 GB correspondem a 1 TB (Terabyte)."
+  },
+  {
+    "enunciado": "Qual é a função principal da fonte de alimentação no gabinete?",
+    "opcoes": [
+      "Armazenar dados permanentemente",
+      "Fornecer energia elétrica à placa-mãe e componentes",
+      "Controlar a velocidade da ventoinha",
+      "Processar instruções da CPU"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A fonte de alimentação converte e fornece energia para toda a placa-mãe e demais componentes."
+  },
+  {
+    "enunciado": "O que pode acontecer se a fonte de alimentação não for bem dimensionada?",
+    "opcoes": [
+      "Aumentar o desempenho da CPU",
+      "Diminuir a velocidade do disco rígido",
+      "Causar danos à placa-mãe e outros componentes",
+      "Apagar permanentemente a ROM"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Uma fonte subdimensionada pode provocar quedas de tensão e danificar a placa-mãe e hardware."
+  },
+  {
+    "enunciado": "Qual destes itens NÃO faz parte da lista adicional de componentes internos mencionada?",
+    "opcoes": [
+      "Drive de CD/DVD",
+      "Portas de comunicação",
+      "Monitor",
+      "Fonte de alimentação"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "O monitor é um periférico externo, não um componente interno do gabinete."
+  },
+  {
+    "enunciado": "Por que é importante conhecer a capacidade de armazenamento do HD antes de instalar o sistema operacional?",
+    "opcoes": [
+      "Para ajustar a velocidade do processador",
+      "Para garantir espaço suficiente para o SO e programas",
+      "Para calibrar a memória RAM corretamente",
+      "Para escolher o tipo de slot de expansão"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Saber a capacidade do HD assegura que haja espaço adequado para o sistema operacional e arquivos."
+  },
+  {
+    "enunciado": "O que é um bit?",
+    "opcoes": [
+      "Um grupo de 8 bytes",
+      "A menor unidade de informação, com valor 0 ou 1",
+      "Um tipo de memória volátil",
+      "Uma medida de velocidade de clock"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O bit é a menor unidade de informação digital, podendo assumir 0 ou 1."
+  },
+  {
+    "enunciado": "Quantos bits existem em 1 byte?",
+    "opcoes": [
+      "4",
+      "8",
+      "16",
+      "32"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "1 byte é composto por exatamente 8 bits."
+  },
+  {
+    "enunciado": "Quanto vale 1 kilobyte (KB) em bytes?",
+    "opcoes": [
+      "1000 bytes",
+      "1024 bytes",
+      "100 bytes",
+      "2048 bytes"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "1 KB corresponde a 1 024 bytes, de acordo com a convenção binária."
+  },
+  {
+    "enunciado": "Quantos kilobytes existem em 1 megabyte (MB)?",
+    "opcoes": [
+      "1000 KB",
+      "1024 KB",
+      "512 KB",
+      "2048 KB"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "1 MB equivale a 1 024 KB segundo a hierarquia de unidades de memória."
+  },
+  {
+    "enunciado": "O que é um terabyte (TB)?",
+    "opcoes": [
+      "1 024 gigabytes",
+      "1 000 gigabytes",
+      "1 024 megabytes",
+      "1 000 megabytes"
+    ],
+    "correta": 0,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 TB é igual a 1 024 GB na escala binária de medidas de armazenamento."
+  },
+  {
+    "enunciado": "Qual das denominações abaixo NÃO é usada para gigabyte?",
+    "opcoes": [
+      "GB",
+      "Gbytes",
+      "Gb",
+      "GBY"
+    ],
+    "correta": 3,
+    "dificuldade": "Difícil",
+    "tempo": 20,
+    "explicacao": "As abreviações usuais são GB, Gbytes ou Gb; 'GBY' não é empregada."
+  },
+  {
+    "enunciado": "Quantos bits existem em 26 bytes?",
+    "opcoes": [
+      "156 bits",
+      "208 bits",
+      "256 bits",
+      "312 bits"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 byte = 8 bits → 26 × 8 = 208 bits."
+  },
+  {
+    "enunciado": "Quantos bytes existem em 45 KB (kilobytes)?",
+    "opcoes": [
+      "45 000 bytes",
+      "46 080 bytes",
+      "49 152 bytes",
+      "50 000 bytes"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 KB = 1 024 bytes → 45 × 1 024 = 46 080 bytes."
+  },
+  {
+    "enunciado": "Quantos KB existem em 70 MB (megabytes)?",
+    "opcoes": [
+      "70 000 KB",
+      "71 680 KB",
+      "72 000 KB",
+      "70 080 KB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 MB = 1 024 KB → 70 × 1 024 = 71 680 KB."
+  },
+  {
+    "enunciado": "Quantos MB existem em 95 GB (gigabytes)?",
+    "opcoes": [
+      "95 000 MB",
+      "97 280 MB",
+      "98 560 MB",
+      "100 480 MB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 GB = 1 024 MB → 95 × 1 024 = 97 280 MB."
+  },
+  {
+    "enunciado": "Quantos GB existem em 120 TB (terabytes)?",
+    "opcoes": [
+      "120 000 GB",
+      "122 880 GB",
+      "125 000 GB",
+      "130 000 GB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 TB = 1 024 GB → 120 × 1 024 = 122 880 GB."
+  },
+  {
+    "enunciado": "Quantos GB existem em 30 TB (terabytes)?",
+    "opcoes": [
+      "30 000 GB",
+      "30 720 GB",
+      "30 240 GB",
+      "30 480 GB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 TB = 1 024 GB → 30 × 1 024 = 30 720 GB."
+  },
+  {
+    "enunciado": "Quantos MB existem em 200 GB (gigabytes)?",
+    "opcoes": [
+      "200 000 MB",
+      "204 800 MB",
+      "210 000 MB",
+      "212 000 MB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 GB = 1 024 MB → 200 × 1 024 = 204 800 MB."
+  },
+  {
+    "enunciado": "Quantos KB existem em 150 MB (megabytes)?",
+    "opcoes": [
+      "150 000 KB",
+      "153 600 KB",
+      "156 000 KB",
+      "158 400 KB"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 MB = 1 024 KB → 150 × 1 024 = 153 600 KB."
+  },
+  {
+    "enunciado": "Quantos bytes existem em 74 KB (kilobytes)?",
+    "opcoes": [
+      "74 000 bytes",
+      "75 776 bytes",
+      "76 800 bytes",
+      "78 000 bytes"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 KB = 1 024 bytes → 74 × 1 024 = 75 776 bytes."
+  },
+  {
+    "enunciado": "Quantos bits existem em 180 bytes?",
+    "opcoes": [
+      "1 080 bits",
+      "1 440 bits",
+      "1 360 bits",
+      "1 520 bits"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "1 byte = 8 bits → 180 × 8 = 1 440 bits."
+  }
+          
+          
+        ]
+      },
+      {
+        "nome": "Arquitetura de Computadores 3",
+        "icone": "⚙️",
+        "perguntas": [
+          {
+            "enunciado": "Qual é outro nome para o microprocessador?",
+            "opcoes": [
+              "Placa-mãe",
+              "Memória RAM",
+              "CPU (Central Processing Unit)",
+              "HD (Hard Disk)"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "O microprocessador também é conhecido como CPU (Central Processing Unit)."
+          },
+          {
+            "enunciado": "Em português, qual sigla equivale a CPU?",
+            "opcoes": [
+              "UCP (Unidade Central de Processamento)",
+              "RAM (Random Access Memory)",
+              "ROM (Read-Only Memory)",
+              "GPU (Graphics Processing Unit)"
+            ],
+            "correta": 0,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "Em português usa-se UCP para Unidade Central de Processamento."
+          },
+          {
+            "enunciado": "Por que alguns técnicos usam 'processador' para microprocessador e 'CPU' para o PC?",
+            "opcoes": [
+              "Para simplificar a linguagem de programação",
+              "Para evitar confusões entre componentes e o computador completo",
+              "Para aumentar a velocidade do sistema",
+              "Porque CPU também significa placa-mãe"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 30,
+            "explicacao": "Essa distinção ajuda a evitar confusão entre o chip e o computador completo."
+          },
+          {
+            "enunciado": "Qual termo foi escolhido para se referir aos microprocessador segundo a nossa matéria de A.C?",
+            "opcoes": [
+              "UCP",
+              "Processador",
+              "PC",
+              "Microcontrolador"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "Neste material, usamos o termo 'Processador' para referir o microprocessador."
+          },
+          {
+            "enunciado": "O que significa a sigla PC no contexto de técnicos de informática?",
+            "opcoes": [
+              "Processador Central",
+              "Personal Computer",
+              "Placa de Circuito",
+              "Power Control"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 30,
+            "explicacao": "PC significa Personal Computer, ou computador pessoal."
+          },
+          {
+            "enunciado": "Qual delas NÃO é uma forma de se referir ao microprocessador?",
+            "opcoes": [
+              "Processador",
+              "CPU",
+              "UCP",
+              "Drive de DVD"
+            ],
+            "correta": 3,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "Drive de DVD é um componente de entrada/saída, não o microprocessador."
+          },
+          {
+            "enunciado": "Qual é a função principal do processador em um computador?",
+            "opcoes": [
+              "Armazenar arquivos permanentemente",
+              "Interpretar comandos e executar cálculos",
+              "Controlar a refrigeração do sistema",
+              "Exibir imagens na tela"
+            ],
+            "correta": 1,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "O processador interpreta instruções e realiza cálculos, gerenciando o fluxo de informações."
+          },
+          {
+            "enunciado": "Por que o processador é frequentemente chamado de 'cérebro' do computador?",
+            "opcoes": [
+              "Porque armazena todos os programas",
+              "Porque toma decisões lógicas e coordena operações",
+              "Porque gera calor durante o funcionamento",
+              "Porque gerencia as ventoinhas"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 30,
+            "explicacao": "Assim como o cérebro, a CPU processa dados, executa operações e coordena atividades."
+          },
+          {
+            "enunciado": "Quais são as formas de saída que o processador pode usar para devolver resultados ao usuário?",
+            "opcoes": [
+              "Somente pela tela",
+              "Tela, disco rígido ou impressora",
+              "Somente pelo disco rígido",
+              "Somente por impressora"
+            ],
+            "correta": 1,
+            "dificuldade": "Médio",
+            "tempo": 20,
+            "explicacao": "A CPU pode enviar resultados para a tela, armazenar no disco ou encaminhar a impressoras."
+          },
+          {
+            "enunciado": "Por que o processador requer um sistema de refrigeração?",
+            "opcoes": [
+              "Para melhorar a qualidade dos gráficos",
+              "Para reduzir o consumo de energia",
+              "Para dissipar o calor gerado e evitar danos",
+              "Para acelerar a velocidade dos ventiladores"
+            ],
+            "correta": 2,
+            "dificuldade": "Fácil",
+            "tempo": 20,
+            "explicacao": "O processador gera calor intenso, e o sistema de refrigeração evita superaquecimento."
+          },
+          {
+            "enunciado": "Quais componentes formam o sistema de refrigeração de um processador?",
+            "opcoes": [
+              "Dissipador de calor e ventoinha",
+              "Memória cache e dissipador",
+              "Placa-mãe e fonte de alimentação",
+              "Heat pipe e slot PCI"
+            ],
+            "correta": 0,
+            "dificuldade": "Médio",
+            "tempo": 30,
+            "explicacao": "O dissipador de calor e a ventoinha trabalham juntos para remover o calor da CPU."
+          },
+          
+  {
+    "enunciado": "Quais são as funções básicas desempenhadas pelo processador?",
+    "opcoes": [
+      "Tratamento de vídeo, impressão 3D e refrigeração",
+      "Funções matemáticas, lógicas, tratamento de áudio e vídeo",
+      "Armazenamento de arquivos, controle de rede e atualização de drivers",
+      "Gerenciamento de energia, interface gráfica e backup de dados"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O processador realiza funções matemáticas, lógicas, tratamento de vídeo, tratamento de áudio e gerencia dados e comunicações."
+  },
+  {
+    "enunciado": "Qual modelo simplificado é usado para estudar o funcionamento do processador?",
+    "opcoes": [
+      "Caixa-Preta",
+      "Rede Neural",
+      "Diagrama de Venn",
+      "Máquina de Turing"
+    ],
+    "correta": 0,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O processador é representado por uma Caixa-Preta para facilitar o estudo de entrada, processamento e saída."
+  },
+  {
+    "enunciado": "Em que ordem ocorrem as etapas dentro da Caixa-Preta?",
+    "opcoes": [
+      "Processamento → Saída → Entrada",
+      "Saída → Entrada → Processamento",
+      "Entrada → Processamento → Saída",
+      "Processamento → Entrada → Saída"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O dado entra na caixa-preta, é processado internamente e, por fim, é apresentado na saída."
+  },
+  {
+    "enunciado": "Por que não há passos simultâneos dentro da Caixa-Preta com um único núcleo?",
+    "opcoes": [
+      "Porque o clock alimenta apenas um passo por vez",
+      "Porque o processador não tem memória suficiente",
+      "Porque o barramento de dados é único",
+      "Porque a alimentação elétrica varia muito"
+    ],
+    "correta": 0,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Com um único núcleo, as etapas são sincronizadas pelo clock e ocorrem sequencialmente, nunca simultaneamente."
+  },
+  {
+    "enunciado": "Como a velocidade do processador afeta o tempo de espera entre passos?",
+    "opcoes": [
+      "Quanto maior a velocidade, maior o tempo de espera",
+      "Quanto maior a velocidade, menor o tempo de espera",
+      "A velocidade não afeta o tempo de espera",
+      "Mais velocidade gera instabilidade e aumenta o tempo de espera"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Maior velocidade de operação reduz o tempo necessário para cada passo, diminuindo a espera."
+  },
+  {
+    "enunciado": "Qual componente é responsável por gerar os pulsos de sincronização do processador?",
+    "opcoes": [
+      "Unidade Lógica e Aritmética",
+      "Relógio (clock) externo",
+      "Memória cache",
+      "Barramento de controle"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O circuito externo de relógio gera pulsos quadrados periódicos para sincronizar todos os passos."
+  },
+  {
+    "enunciado": "Por que os pulsos do clock possuem forma quadrada?",
+    "opcoes": [
+      "Para representar três níveis de tensão",
+      "Para facilitar a refrigeração do chip",
+      "Para representar claramente níveis digitais 0 e 1",
+      "Para gerar energia elétrica"
+    ],
+    "correta": 2,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "O formato quadrado garante dois níveis de tensão bem definidos, necessários em circuitos digitais."
+  },
+  {
+    "enunciado": "O que garante que todos os passos tenham o mesmo tempo de execução?",
+    "opcoes": [
+      "A frequência do clock ser constante e periódica",
+      "A memória RAM ser volátil",
+      "A fonte de alimentação ser bem dimensionada",
+      "O uso de múltiplos núcleos"
+    ],
+    "correta": 0,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Pulsos periódicos e de mesma duração asseguram tempo igual para cada etapa."
+  },
+  {
+    "enunciado": "Como o termpo de execução de tarefas está relacionado ao clock?",
+    "opcoes": [
+      "Clock maior → tarefas mais lentas",
+      "Clock maior → tarefas mais rápidas",
+      "Clock não influencia tempo de execução",
+      "Clock menor → tarefas mais rápidas"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Maior frequência de clock permite executar mais ciclos por segundo, acelerando as tarefas."
+  },
+  {
+    "enunciado": "Qual unidade mede a frequência de operação do processador?",
+    "opcoes": [
+      "Bits por segundo (bps)",
+      "Hertz (Hz)",
+      "Bytes (B)",
+      "Volts (V)"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A frequência do clock é medida em Hertz, representando ciclos por segundo."
+  },
+  {
+    "enunciado": "O que acontece se o clock não enviar pulsos suficientes?",
+    "opcoes": [
+      "O processador superaquec e acelera",
+      "As etapas perdem sincronização e falham",
+      "A RAM perde os dados",
+      "O barramento de dados é danificado"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "Sem pulsos regulares, o processador não consegue coordenar as etapas corretamente."
+  },
+  {
+    "enunciado": "Por que a performance de um processador não depende apenas da velocidade do clock?",
+    "opcoes": [
+      "Porque a fonte de alimentação consome muita energia",
+      "Porque também importam as tecnologias integradas (cache, pipelines)",
+      "Porque o sistema operacional limita sempre a performance",
+      "Porque o HD é o componente mais lento"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Elementos como cache, pipelines e núcleos múltiplos também influenciam a performance."
+  },
+  {
+    "enunciado": "Qual é o efeito de um clock instável no processador?",
+    "opcoes": [
+      "Maior desempenho geral",
+      "Reset constante e falhas de execução",
+      "Maior capacidade de armazenamento",
+      "Aumento da voltagem da memória RAM"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "Clock instável gera ciclos irregulares, causando erros e reinicializações."
+  },
+  {
+    "enunciado": "O que determina quantas instruções são executadas por segundo?",
+    "opcoes": [
+      "A largura do barramento de endereço",
+      "A frequência do clock e a eficiência do pipeline",
+      "A voltagem da fonte de alimentação",
+      "O tamanho do HD"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Tanto o clock quanto a arquitetura interna (pipeline, núcleos) influenciam o throughput."
+  },
+  {
+    "enunciado": "Em processadores de um só núcleo, como ocorre o processamento de múltiplas tarefas?",
+    "opcoes": [
+      "Simultaneamente em núcleos virtuais",
+      "Por meio de multitarefa cooperativa e time-sharing",
+      "Através de overclock automático",
+      "Apenas uma tarefa pode ser processada"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "O sistema operacional alterna rapidamente entre tarefas, dando impressão de paralelismo."
+  },
+  {
+    "enunciado": "Qual vantagem traz um processador multicore em relação ao single-core?",
+    "opcoes": [
+      "Clock mais baixo",
+      "Maior paralelismo real de tarefas",
+      "Menor consumo de energia sempre",
+      "Eliminação da necessidade de clock"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Múltiplos núcleos permitem executar várias tarefas ao mesmo tempo sem alternância constante."
+  },
+  {
+    "enunciado": "O que acontece internamente no processador a cada pulso de clock?",
+    "opcoes": [
+      "O HD executa um ciclo de leitura",
+      "É executada uma etapa do ciclo de instrução",
+      "A memória RAM realiza um backup",
+      "A fonte de alimentação regula a tensão"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Cada pulso de clock sincroniza uma das etapas (fetch, decode, execute, write-back)."
+  },
+  {
+    "enunciado": "Por que os pulsos do clock devem ser periódicos?",
+    "opcoes": [
+      "Para reduzir o consumo de energia",
+      "Para garantir tempos de ciclo iguais e previsíveis",
+      "Para aumentar a temperatura da CPU",
+      "Para sincronizar o HD"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "Periodicidade assegura que cada etapa do ciclo de instrução leve o mesmo tempo."
+  },
+  {
+    "enunciado": "Qual componente externo interliga-se ao clock e ao processador?",
+    "opcoes": [
+      "Memória cache",
+      "Circuito de clock",
+      "Slot PCI",
+      "Dissipador de calor"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O circuito de clock externo gera e envia pulsos ao processador para sincronização."
+  },
+  {
+    "enunciado": "Como a taxa de clock influencia a performance em tarefas sequenciais?",
+    "opcoes": [
+      "Aumenta o tempo de execução sequencial",
+      "Diminui o tempo de cada passo sequencial",
+      "Não afeta tarefas sequenciais",
+      "Só influencia tarefas paralelas"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Maior clock reduz a duração de cada etapa, acelerando o processamento sequencial."
+  },
+  {
+    "enunciado": "Quais são os três elementos necessários para a Caixa-Preta processar dados?",
+    "opcoes": [
+      "Memória cache, clock e barramento",
+      "Dados de entrada, instruções de operação e clock",
+      "Processador, placa-mãe e fonte de alimentação",
+      "Software, hardware e firmware"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A Caixa-Preta requer dados de entrada, instruções de operação e pulsos periódicos de clock."
+  },
+  {
+    "enunciado": "Como chamamos o conjunto de instruções que a Caixa-Preta executa?",
+    "opcoes": [
+      "Hardware",
+      "Programa (software)",
+      "Clock",
+      "Barramento"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Um programa é um conjunto de instruções reconhecido e executado pela Caixa-Preta."
+  },
+  {
+    "enunciado": "Qual barramento transporta dados e instruções entre processador e periféricos?",
+    "opcoes": [
+      "Address bus",
+      "Data bus",
+      "Control bus",
+      "Clock bus"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O Data bus move dados e instruções de/para o processador."
+  },
+  {
+    "enunciado": "Qual barramento é unidirecional e envia apenas endereços do processador?",
+    "opcoes": [
+      "Data bus",
+      "Address bus",
+      "Control bus",
+      "Clock bus"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O Address bus leva endereços do processador aos dispositivos, sem retorno."
+  },
+  {
+    "enunciado": "Qual barramento é bidirecional e carrega sinais de controle?",
+    "opcoes": [
+      "Data bus",
+      "Address bus",
+      "Control bus",
+      "Clock bus"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O Control bus transfere sinais de controle em ambos os sentidos."
+  },
+  {
+    "enunciado": "Em um Data bus de 16 vias, qual é a sua largura?",
+    "opcoes": [
+      "8 bits",
+      "16 bits",
+      "32 bits",
+      "64 bits"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Cada via transporta 1 bit, logo 16 vias = 16 bits de largura."
+  },
+  {
+    "enunciado": "Processadores Pentium III possuem Data bus de quantos bits?",
+    "opcoes": [
+      "32 bits",
+      "64 bits",
+      "16 bits",
+      "128 bits"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Pentium III usa Data bus de 64 bits de largura."
+  },
+  {
+    "enunciado": "Qual operação de memória é feita via Address bus quando o processador lê dados?",
+    "opcoes": [
+      "Write (escrita)",
+      "Read (leitura)",
+      "Fetch (busca)",
+      "Execute (execução)"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Na leitura, o Address bus envia o endereço a ser lido."
+  },
+  {
+    "enunciado": "Que via do Control bus envia o sinal de clock ao processador?",
+    "opcoes": [
+      "RST (reset)",
+      "IRQ (interrupção)",
+      "CLK (clock)",
+      "M/IO (memória/I-O)"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "A linha CLK leva os pulsos quadrados periódicos de clock."
+  },
+  {
+    "enunciado": "Qual sinal de controle indica que um dispositivo está ocupado?",
+    "opcoes": [
+      "RESET",
+      "BUSY",
+      "HOLD",
+      "M/IO"
+    ],
+    "correta": 1,
+    "dificuldade": "Difícil",
+    "tempo": 30,
+    "explicacao": "O sinal BUSY informa que o controller está processando um comando."
+  },
+  {
+    "enunciado": "Quais são os três blocos básicos da arquitetura interna?",
+    "opcoes": [
+      "Data bus, Address bus, Control bus",
+      "ULA, UC e Registradores Internos",
+      "Cache, RAM e ROM",
+      "Clock, Pipeline e Firmware"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A arquitetura interna genérica inclui ULA, UC e Registradores."
+  },
+  {
+    "enunciado": "Qual bloco realiza operações aritméticas e lógicas?",
+    "opcoes": [
+      "UC (Unidade de Controle)",
+      "ULA (Unidade Lógica e Aritmética)",
+      "Registradores Internos",
+      "Cache"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A ULA realiza adição, subtração, operações lógicas e rotações."
+  },
+  {
+    "enunciado": "Registradores internos de um processador de 32 bits têm largura de:",
+    "opcoes": [
+      "16 bits",
+      "32 bits",
+      "64 bits",
+      "8 bits"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Arquitetura de 32 bits define registradores internos de 32 bits."
+  },
+  {
+    "enunciado": "Qual registrador armazena o endereço da próxima instrução?",
+    "opcoes": [
+      "ACC (acumulador)",
+      "PP (ponteiro de pilha)",
+      "CP (contador de programa)",
+      "RS (registrador de status)"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "O Contador de Programa (CP) mantém o endereço da próxima instrução."
+  },
+  {
+    "enunciado": "Em pipeline de 4 estágios, quantas instruções podem estar em processamento simultâneo?",
+    "opcoes": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correta": 3,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Um pipeline de 4 estágios permite até 4 instruções sobrepostas."
+  },
+  {
+    "enunciado": "Qual benefício o pipeline traz ao processador?",
+    "opcoes": [
+      "Reduz o consumo de energia",
+      "Permite paralelismo de instruções dentro do mesmo núcleo",
+      "Aumenta a largura do barramento",
+      "Elimina a necessidade de clock"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "O pipeline inicia novas instruções antes de concluir as atuais, otimizando o uso do clock."
+  },
+  {
+    "enunciado": "Como chamamos o software de baixo nível armazenado em EEPROM na placa-mãe?",
+    "opcoes": [
+      "Sistema Operacional",
+      "Firmware (BIOS)",
+      "Driver",
+      "Aplicativo"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O BIOS é o firmware do PC, geralmente gravado em EEPROM ou flash."
+  },
+  {
+    "enunciado": "Qual rotina de software converte requisições de I/O do SO para o periférico?",
+    "opcoes": [
+      "Firmware",
+      "Driver",
+      "Pipeline",
+      "Cache"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Drivers traduzem pedidos de I/O do sistema operacional para protocolos de hardware."
+  },
+  {
+    "enunciado": "Em um sistema monoprocessador, quantas instruções são executadas simultaneamente?",
+    "opcoes": [
+      "Várias, graças ao pipeline",
+      "Apenas uma de cada vez",
+      "Duas, em dual-core",
+      "Quatro, se for quad-core"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "Num sistema single-core, o processador executa uma instrução por vez, sequencialmente."
+  },
+  {
+    "enunciado": "Qual vantagem básica de sistemas paralelos?",
+    "opcoes": [
+      "Menor custo de coordenação",
+      "Maior viabilidade econômica e paralelismo real",
+      "Eliminação do cache",
+      "Clock mais alto"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Sistemas multi-CPU permitem compartilhar recursos e executar tarefas em paralelo."
+  },
+  {
+    "enunciado": "Qual desvantagem de sistemas paralelos?",
+    "opcoes": [
+      "Programação mais simples",
+      "Menor custo de hardware",
+      "Custos extras de coordenação e complexidade no software",
+      "Clock instável"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "Sistemas paralelos exigem coordenação entre CPUs e sofisticação no desenvolvimento de software."
+  },
+  {
+    "enunciado": "O que define a profundidade do pipeline?",
+    "opcoes": [
+      "Número de registradores internos",
+      "Número de estágios que uma instrução atravessa",
+      "Largura do barramento de dados",
+      "Frequência do clock"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Profundidade é o total de estágios pelos quais instruções passam no pipeline."
+  },
+  {
+    "enunciado": "Qual bloco interno controla a sincronização de transferências?",
+    "opcoes": [
+      "ULA",
+      "UC",
+      "Registradores",
+      "Pipeline"
+    ],
+    "correta": 1,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "A Unidade de Controle (UC) gerencia e sincroniza todas as transferências de dados e instruções."
+  },
+  {
+    "enunciado": "Que tipo de informação NÃO trafega pelo Data bus?",
+    "opcoes": [
+      "Dados do usuário",
+      "Instruções",
+      "Endereços",
+      "Resultados processados"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Endereços são enviados pelo Address bus, não pelo Data bus."
+  },
+  {
+    "enunciado": "Que via do Control bus é unidirecional?",
+    "opcoes": [
+      "M/IO",
+      "RST",
+      "CLK",
+      "BUSY"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "A linha CLK do Control bus envia pulsos ao processador, mas não recebe retorno."
+  },
+  {
+    "enunciado": "O que caracteriza um sinal de controle de leitura/escrita?",
+    "opcoes": [
+      "Forma quadrada",
+      "Bidirecionalidade",
+      "Via R/W no Control bus",
+      "Via no Data bus"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 30,
+    "explicacao": "O sinal R/W no Control bus indica operação de leitura ou escrita."
+  },
+  {
+    "enunciado": "Qual unidade interna mantém flags de status do processador?",
+    "opcoes": [
+      "ACC",
+      "PP",
+      "RS (Registradores de Status)",
+      "RX"
+    ],
+    "correta": 2,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "Os registradores de status (FLAGS) armazenam condições como zero, carry e overflow."
+  },
+  {
+    "enunciado": "Por que o firmware é crítico para o boot do sistema?",
+    "opcoes": [
+      "Porque gerencia o pipeline",
+      "Porque inicializa hardware antes do SO",
+      "Porque executa cálculos lógicos",
+      "Porque armazena dados do usuário"
+    ],
+    "correta": 1,
+    "dificuldade": "Médio",
+    "tempo": 20,
+    "explicacao": "O firmware (BIOS) inicializa e configura o hardware antes de carregar o sistema operacional."
+  },
+  {
+    "enunciado": "O que garante a ordem sequencial de operações dentro da Caixa-Preta?",
+    "opcoes": [
+      "A memória RAM",
+      "O pipeline",
+      "Os pulsos periódicos do clock",
+      "O barramento de endereços"
+    ],
+    "correta": 2,
+    "dificuldade": "Fácil",
+    "tempo": 20,
+    "explicacao": "O clock externo produz pulsos que sincronizam cada etapa sequencialmente."
+  }
+
+        ]
+      } 
+    ]
+  }

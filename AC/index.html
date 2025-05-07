@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Engenharia Informática</title>
+    <link rel="stylesheet" href="../css/estilo.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <div id="app">
+        <h1>Quiz Engenharia Informática</h1>
+        <div id="categorias"></div>
+        <div id="quiz-container" style="display:none;">
+            <h2 id="categoria-nome"></h2>
+            <div id="info-pergunta">
+                <span id="progresso"></span>
+                <div class="timer">
+                    <span id="tempo-restante"></span>
+                </div>
+                <span id="pontuacao"></span>
+            </div>
+            <h2 id="pergunta-enunciado"></h2>
+            <div id="opcoes"></div>
+            <button id="reiniciar" style="display:none;">Escolher nova categoria</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="../js/script.js"></script>
+</body>
+</html>
