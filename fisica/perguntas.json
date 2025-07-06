@@ -1,240 +1,219 @@
 {
-    "categorias": [
-      {
-        "nome": "INTRODUÇÃO À FÍSICA",
-        "icone": "💻",
-        "perguntas": [
-          {
-            "enunciado": "O que estuda a Física?",
-            "opcoes": [
-              "Como funcionam os computadores.",
-              "A história da ciência.",
-              "Os fenômenos da natureza, como o som do trovão, a luz do relâmpago, os movimentos da Lua e dos objetos próximos à Terra.",
-              "As reações químicas."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "A Física estuda os fenômenos naturais em seus aspectos mais gerais, como o som, a luz, os movimentos e as forças."
-          },
-          {
-            "enunciado": "Qual é o significado da palavra Física?",
-            "opcoes": [
-              "Natureza",
-              "Energia",
-              "Movimento",
-              "Força"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "A palavra Física vem do grego *physis*, que significa 'natureza'."
-          },
-          {
-            "enunciado": "O que é Física?",
-            "opcoes": [
-              "A arte de construir máquinas.",
-              "É a ciência que estuda a natureza e seus fenômenos em seus aspectos mais gerais.",
-              "Uma ciência que apenas se relaciona com cálculos matemáticos."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "A Física descreve e prevê fenômenos naturais, buscando entender a relação entre os seres humanos e a natureza."
-          },
-          {
-            "enunciado": "Quais são os principais ramos da Física?",
-            "opcoes": [
-              "Ciência política, biologia e filosofia.",
-              "Mecânica, Termodinâmica, Óptica, Eletromagnetismo, Física Moderna.",
-              "Culinária, engenharia civil e esportes."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "A Física se divide em vários ramos, cada um focando em diferentes fenômenos e escalas."
-          },
-          {
-            "enunciado": "O que estuda a Mecânica Clássica?",
-            "opcoes": [
-              "Estudo do movimento das partículas e dos fluidos. Subdivide-se em cinemática, estática, dinâmica, fluidos e ondulatória.",
-              "Estudo da luz e da óptica.",
-              "Estudo das reações químicas."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A Mecânica Clássica trata do movimento e das forças que atuam nos corpos."
-          },
-          {
-            "enunciado": "O que estuda a Termodinâmica?",
-            "opcoes": [
-              "O estudo das leis da genética.",
-              "A composição química dos elementos.",
-              "O estudo da temperatura, do calor, seus efeitos e das propriedades dos sistemas com muitas partículas."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A Termodinâmica analisa o comportamento térmico e energético dos corpos."
-          },
-          {
-            "enunciado": "O que estuda a Óptica?",
-            "opcoes": [
-              "É o ramo da Física que estuda os fenômenos relacionados à luz.",
-              "Estuda o comportamento da eletricidade.",
-              "Analisa os movimentos dos planetas."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A Óptica analisa a propagação, reflexão, refração e dispersão da luz."
-          },
-          {
-            "enunciado": "O que estuda o Eletromagnetismo?",
-            "opcoes": [
-              "A estrutura dos átomos.",
-              "O estudo da eletricidade, do magnetismo e das ondas eletromagnéticas.",
-              "Os processos de combustão."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "Esse ramo estuda as interações entre cargas elétricas e campos magnéticos."
-          },
-          {
-            "enunciado": "O que estuda a Mecânica Quântica?",
-            "opcoes": [
-              "Os continentes e suas placas tectônicas.",
-              "A formação das galáxias.",
-              "O mundo microscópico dos átomos e partículas elementares."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A Física Quântica analisa o comportamento das partículas subatômicas."
-          },
-          {
-            "enunciado": "O que estuda a Relatividade Especial?",
-            "opcoes": [
-              "A origem da vida.",
-              "A reformulação dos conceitos de espaço, tempo e energia no estudo de partículas em alta velocidade.",
-              "As leis da genética e hereditariedade."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "Formulada por Einstein, trata da Física em altas velocidades próximas à da luz."
-          },
-          {
-            "enunciado": "O que estuda a Relatividade Geral?",
-            "opcoes": [
-              "Estudo das relações entre força gravitacional e as propriedades geométricas do espaço.",
-              "Estudo da densidade dos líquidos.",
-              "Estudo dos seres vivos no espaço."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A teoria trata da gravidade como uma deformação do espaço-tempo."
-          },
-          {
-            "enunciado": "Como são definidos todos os corpos existentes na natureza?",
-            "opcoes": [
-              "Energia.",
-              "Física.",
-              "Matéria."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 20,
-            "explicacao": "Todos os corpos são definidos como diferentes formas de matéria."
-          },
-          {
-            "enunciado": "No universo, como são constituídos todos os corpos?",
-            "opcoes": [
-              "Átomos",
-              "Moléculas",
-              "Cargas elétricas"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "Todos os corpos são formados por pequenas unidades chamadas átomos."
-          },
-          {
-            "enunciado": "Você já viu os exercícios da primeira matéria?",
-            "opcoes": [
-              "SIM",
-              "NÃO"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": ""
-          },
-          {
-            "enunciado": "Como são constituídos os átomos?",
-            "opcoes": [
-              "Apenas elétrons.",
-              "Partículas invisíveis.",
-              "Núcleo central (prótons e nêutrons) e eletrosfera (elétrons)."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "Modelo de Rutherford: núcleo com prótons e nêutrons, e eletrosfera com elétrons."
-          },
-          {
-            "enunciado": "Quais são os outros agregados que os átomos formam?",
-            "opcoes": [
-              "Cargas elétricas.",
-              "Moléculas.",
-              "Fios elétricos."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "Os átomos podem se combinar e formar moléculas."
-          },
-          {
-            "enunciado": "Como a Matemática ajuda a Física?",
-            "opcoes": [
-              "Fornecendo apenas números aleatórios.",
-              "Com uma fórmula matemática que resume um fenômeno físico.",
-              "Indicando fórmulas decorativas."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "As fórmulas facilitam a descrição e previsão dos fenômenos físicos."
-          },
-          {
-            "enunciado": "Quais são as unidades fundamentais para os nossos estudos?",
-            "opcoes": [
-              "Metro (m) e segundo (s)",
-              "Ampère e Newton",
-              "Litro e milímetro"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "Unidades fundamentais como metro e segundo são base para outras medidas."
-          },
-          {
-            "enunciado": "O que é uma unidade de medida?",
-            "opcoes": [
-              "Uma teoria científica.",
-              "Uma quantidade específica de uma grandeza física usada como padrão.",
-              "Um tipo de gráfico usado em medições."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Unidade de medida é um valor usado como referência para comparar outras medições."
-          }
-       
-      ,
+  "categorias": [
+    {
+      "nome": "INTRODUÇÃO À FÍSICA",
+      "icone": "💻",
+      "perguntas": [
+        {
+          "enunciado": "O que estuda a Física?",
+          "opcoes": [
+            "Como funcionam os computadores.",
+            "A história da ciência.",
+            "Os fenômenos da natureza, como o som do trovão, a luz do relâmpago, os movimentos da Lua e dos objetos próximos à Terra.",
+            "As reações químicas."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A Física estuda os fenômenos naturais em seus aspectos mais gerais, como o som, a luz, os movimentos e as forças."
+        },
+        {
+          "enunciado": "Qual é o significado da palavra Física?",
+          "opcoes": ["Natureza", "Energia", "Movimento", "Força"],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "A palavra Física vem do grego *physis*, que significa 'natureza'."
+        },
+        {
+          "enunciado": "O que é Física?",
+          "opcoes": [
+            "A arte de construir máquinas.",
+            "É a ciência que estuda a natureza e seus fenômenos em seus aspectos mais gerais.",
+            "Uma ciência que apenas se relaciona com cálculos matemáticos."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "A Física descreve e prevê fenômenos naturais, buscando entender a relação entre os seres humanos e a natureza."
+        },
+        {
+          "enunciado": "Quais são os principais ramos da Física?",
+          "opcoes": [
+            "Ciência política, biologia e filosofia.",
+            "Mecânica, Termodinâmica, Óptica, Eletromagnetismo, Física Moderna.",
+            "Culinária, engenharia civil e esportes."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A Física se divide em vários ramos, cada um focando em diferentes fenômenos e escalas."
+        },
+        {
+          "enunciado": "O que estuda a Mecânica Clássica?",
+          "opcoes": [
+            "Estudo do movimento das partículas e dos fluidos. Subdivide-se em cinemática, estática, dinâmica, fluidos e ondulatória.",
+            "Estudo da luz e da óptica.",
+            "Estudo das reações químicas."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A Mecânica Clássica trata do movimento e das forças que atuam nos corpos."
+        },
+        {
+          "enunciado": "O que estuda a Termodinâmica?",
+          "opcoes": [
+            "O estudo das leis da genética.",
+            "A composição química dos elementos.",
+            "O estudo da temperatura, do calor, seus efeitos e das propriedades dos sistemas com muitas partículas."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A Termodinâmica analisa o comportamento térmico e energético dos corpos."
+        },
+        {
+          "enunciado": "O que estuda a Óptica?",
+          "opcoes": [
+            "É o ramo da Física que estuda os fenômenos relacionados à luz.",
+            "Estuda o comportamento da eletricidade.",
+            "Analisa os movimentos dos planetas."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A Óptica analisa a propagação, reflexão, refração e dispersão da luz."
+        },
+        {
+          "enunciado": "O que estuda o Eletromagnetismo?",
+          "opcoes": [
+            "A estrutura dos átomos.",
+            "O estudo da eletricidade, do magnetismo e das ondas eletromagnéticas.",
+            "Os processos de combustão."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "Esse ramo estuda as interações entre cargas elétricas e campos magnéticos."
+        },
+        {
+          "enunciado": "O que estuda a Mecânica Quântica?",
+          "opcoes": [
+            "Os continentes e suas placas tectônicas.",
+            "A formação das galáxias.",
+            "O mundo microscópico dos átomos e partículas elementares."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A Física Quântica analisa o comportamento das partículas subatômicas."
+        },
+        {
+          "enunciado": "O que estuda a Relatividade Especial?",
+          "opcoes": [
+            "A origem da vida.",
+            "A reformulação dos conceitos de espaço, tempo e energia no estudo de partículas em alta velocidade.",
+            "As leis da genética e hereditariedade."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "Formulada por Einstein, trata da Física em altas velocidades próximas à da luz."
+        },
+        {
+          "enunciado": "O que estuda a Relatividade Geral?",
+          "opcoes": [
+            "Estudo das relações entre força gravitacional e as propriedades geométricas do espaço.",
+            "Estudo da densidade dos líquidos.",
+            "Estudo dos seres vivos no espaço."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A teoria trata da gravidade como uma deformação do espaço-tempo."
+        },
+        {
+          "enunciado": "Como são definidos todos os corpos existentes na natureza?",
+          "opcoes": ["Energia.", "Física.", "Matéria."],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 20,
+          "explicacao": "Todos os corpos são definidos como diferentes formas de matéria."
+        },
+        {
+          "enunciado": "No universo, como são constituídos todos os corpos?",
+          "opcoes": ["Átomos", "Moléculas", "Cargas elétricas"],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "Todos os corpos são formados por pequenas unidades chamadas átomos."
+        },
+        {
+          "enunciado": "Você já viu os exercícios da primeira matéria?",
+          "opcoes": ["SIM", "NÃO"],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": ""
+        },
+        {
+          "enunciado": "Como são constituídos os átomos?",
+          "opcoes": [
+            "Apenas elétrons.",
+            "Partículas invisíveis.",
+            "Núcleo central (prótons e nêutrons) e eletrosfera (elétrons)."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "Modelo de Rutherford: núcleo com prótons e nêutrons, e eletrosfera com elétrons."
+        },
+        {
+          "enunciado": "Quais são os outros agregados que os átomos formam?",
+          "opcoes": ["Cargas elétricas.", "Moléculas.", "Fios elétricos."],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "Os átomos podem se combinar e formar moléculas."
+        },
+        {
+          "enunciado": "Como a Matemática ajuda a Física?",
+          "opcoes": [
+            "Fornecendo apenas números aleatórios.",
+            "Com uma fórmula matemática que resume um fenômeno físico.",
+            "Indicando fórmulas decorativas."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "As fórmulas facilitam a descrição e previsão dos fenômenos físicos."
+        },
+        {
+          "enunciado": "Quais são as unidades fundamentais para os nossos estudos?",
+          "opcoes": [
+            "Metro (m) e segundo (s)",
+            "Ampère e Newton",
+            "Litro e milímetro"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "Unidades fundamentais como metro e segundo são base para outras medidas."
+        },
+        {
+          "enunciado": "O que é uma unidade de medida?",
+          "opcoes": [
+            "Uma teoria científica.",
+            "Uma quantidade específica de uma grandeza física usada como padrão.",
+            "Um tipo de gráfico usado em medições."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Unidade de medida é um valor usado como referência para comparar outras medições."
+        },
+
         {
           "enunciado": "Qual é o principal objetivo da física?",
           "opcoes": [
@@ -309,11 +288,7 @@
         },
         {
           "enunciado": "Qual instrumento é usado para medir o tempo?",
-          "opcoes": [
-            "Relógio",
-            "Régua",
-            "Termômetro"
-          ],
+          "opcoes": ["Relógio", "Régua", "Termômetro"],
           "correta": 0,
           "dificuldade": "Fácil",
           "tempo": 20,
@@ -321,11 +296,7 @@
         },
         {
           "enunciado": "Qual instrumento é usado para medir a massa?",
-          "opcoes": [
-            "Termômetro",
-            "Fita métrica",
-            "Balança"
-          ],
+          "opcoes": ["Termômetro", "Fita métrica", "Balança"],
           "correta": 2,
           "dificuldade": "Fácil",
           "tempo": 20,
@@ -333,11 +304,7 @@
         },
         {
           "enunciado": "Qual unidade é usada para medir a temperatura no Sistema Internacional?",
-          "opcoes": [
-            "Kelvin (K)",
-            "Celsius (°C)",
-            "Fahrenheit (°F)"
-          ],
+          "opcoes": ["Kelvin (K)", "Celsius (°C)", "Fahrenheit (°F)"],
           "correta": 0,
           "dificuldade": "Fácil",
           "tempo": 30,
@@ -367,1075 +334,2188 @@
           "tempo": 40,
           "explicacao": "A padronização permite que diferentes cientistas usem os mesmos padrões para medir e comparar resultados."
         }
-       ]
-      },
-      {
-        "nome": "Relatividade Restrita",
-        "icone": "💻",
-        "perguntas": [
-          {
-            "enunciado": "Do que trata a Teoria da Relatividade Restrita?",
-            "opcoes": [
-              "É uma teoria que explica a gravidade em grandes escalas.",
-              "Estuda o comportamento de sistemas físicos sob dois referenciais inerciais.",
-              "Trata apenas da dilatação do tempo.",
-              "É um modelo de partículas elementares."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "A Relatividade Restrita estuda fenômenos físicos observados em referenciais inerciais, especialmente em altas velocidades próximas à da luz."
-          },
-          {
-            "enunciado": "Qual dos seguintes é um dos postulados da Relatividade Restrita?",
-            "opcoes": [
-              "As leis físicas mudam conforme o observador acelera.",
-              "O tempo é absoluto para todos os observadores.",
-              "As leis físicas são as mesmas em todos os referenciais inerciais.",
-              "A matéria se move mais rápido que a luz no vácuo."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 50,
-            "explicacao": "O primeiro postulado afirma que as leis da física são as mesmas em todos os referenciais inerciais, ou seja, em movimento retilíneo uniforme."
-          },
-          {
-            "enunciado": "Qual é o segundo postulado da Relatividade Restrita?",
-            "opcoes": [
-              "A luz precisa de um meio para se propagar.",
-              "A velocidade da luz no vácuo depende da velocidade da fonte.",
-              "A velocidade da luz no vácuo é constante em todos os referenciais inerciais.",
-              "A luz desacelera em campos gravitacionais fracos."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 50,
-            "explicacao": "A velocidade da luz no vácuo é a mesma para todos os observadores, independentemente do movimento da fonte ou do observador."
-          },
-          {
-            "enunciado": "Qual é a velocidade da luz no vácuo?",
-            "opcoes": [
-              "300.000 m/s",
-              "1,5×10⁵ km/h",
-              "c = 3,0×10⁸ m/s",
-              "30.000 km/s"
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "A velocidade da luz no vácuo é aproximadamente 3,0×10⁸ metros por segundo."
-          },
-          {
-            "enunciado": "Como é possível medir temperaturas superiores a 1800ºC?",
-            "opcoes": [
-              "Utilizando um pirômetro óptico.",
-              "Com termômetros de mercúrio.",
-              "Com termopares comuns.",
-              "Com sensores de pressão."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "Pirômetros ópticos são usados para medir temperaturas muito elevadas, como em fornos ou metais incandescentes."
-          },
-          {
-            "enunciado": "Qual princípio físico é usado na medição de temperaturas acima de 1800ºC com pirômetros ópticos?",
-            "opcoes": [
-              "Radiação térmica emitida pelos corpos.",
-              "Dilatação dos líquidos.",
-              "Pressão do gás em um bulbo.",
-              "Reflexão da luz visível."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Pirômetros ópticos funcionam com base na radiação térmica emitida por corpos aquecidos, analisando o brilho ou a intensidade da luz."
-          },
-          {
-            "enunciado": "O que a Relatividade Restrita descreve?",
-            "opcoes": [
-              "O comportamento de corpos sob ação de forças gravitacionais.",
-              "A estrutura dos átomos.",
-              "Como o espaço e o tempo se comportam em altas velocidades próximas à da luz.",
-              "As leis da termodinâmica em corpos acelerados."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "A Relatividade Restrita descreve as transformações no espaço e no tempo que ocorrem quando um objeto se move com velocidade próxima à da luz."
-          },
-          {
-            "enunciado": "O que é dilatação do tempo na Relatividade Restrita?",
-            "opcoes": [
-              "O tempo passa mais rápido para objetos em repouso.",
-              "O tempo é igual para todos os observadores.",
-              "O tempo passa mais devagar para um objeto em movimento em relação a um observador em repouso.",
-              "O tempo acelera conforme a velocidade aumenta."
-            ],
-            "correta": 2,
-            "dificuldade": "Médio",
-            "tempo": 60,
-            "explicacao": "A dilatação do tempo significa que um relógio em movimento é visto como passando mais devagar por um observador em repouso."
-          },
-          {
-            "enunciado": "O que é contração do espaço segundo a Relatividade Restrita?",
-            "opcoes": [
-              "Os objetos aumentam de tamanho ao se moverem rapidamente.",
-              "O comprimento de um objeto em movimento parece diminuir ao longo da direção do movimento.",
-              "A largura de um objeto se contrai em qualquer direção.",
-              "O espaço se curva em torno do objeto."
-            ],
-            "correta": 1,
-            "dificuldade": "Médio",
-            "tempo": 60,
-            "explicacao": "Um objeto que se move a velocidades próximas à da luz sofre contração do comprimento na direção do movimento, do ponto de vista de um observador externo."
-          },
-          {
-            "enunciado": "A massa de um corpo varia com a velocidade?",
-            "opcoes": [
-              "Sim, a massa diminui com o aumento da velocidade.",
-              "Sim, a massa aumenta com a velocidade.",
-              "Não, a massa é constante em qualquer situação.",
-              "Só varia se houver aceleração."
-            ],
-            "correta": 1,
-            "dificuldade": "Médio",
-            "tempo": 60,
-            "explicacao": "Na relatividade, a massa relativística aumenta com a velocidade do corpo em relação ao observador."
-          },
-          {
-            "enunciado": "Qual equação famosa expressa a equivalência entre massa e energia?",
-            "opcoes": [
-              "E = mc²",
-              "F = ma",
-              "E = hv",
-              "V = IR"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "A equação E = mc², proposta por Einstein, mostra que massa e energia são equivalentes."
-          },
-          {
-            "enunciado": "A Relatividade Restrita é aplicável em quais situações?",
-            "opcoes": [
-              "Em qualquer situação com gravidade envolvida.",
-              "Apenas para objetos em repouso.",
-              "Para objetos que se movem com velocidades constantes (sem aceleração).",
-              "Apenas dentro de campos magnéticos."
-            ],
-            "correta": 2,
-            "dificuldade": "Médio",
-            "tempo": 50,
-            "explicacao": "A Relatividade Restrita trata de sistemas inerciais, ou seja, sem aceleração."
-          },
-          {
-            "enunciado": "O que acontece com o tempo em velocidades próximas à da luz?",
-            "opcoes": [
-              "O tempo acelera.",
-              "O tempo permanece inalterado.",
-              "O tempo se dilata, passando mais devagar.",
-              "O tempo regride."
-            ],
-            "correta": 2,
-            "dificuldade": "Médio",
-            "tempo": 40,
-            "explicacao": "A dilatação temporal é um dos efeitos previstos pela Relatividade Restrita."
-          },
-          {
-            "enunciado": "A Teoria da Relatividade foi proposta por qual cientista?",
-            "opcoes": [
-              "Isaac Newton",
-              "Niels Bohr",
-              "Albert Einstein",
-              "Stephen Hawking"
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 30,
-            "explicacao": "Albert Einstein publicou a Teoria da Relatividade Restrita em 1905."
-          },
-          {
-            "enunciado": "Qual experimento comprovou a constância da velocidade da luz?",
-            "opcoes": [
-              "Experimento de Rutherford",
-              "Experimento de Young",
-              "Experimento de Michelson-Morley",
-              "Experimento de Cavendish"
-            ],
-            "correta": 2,
-            "dificuldade": "Difícil",
-            "tempo": 60,
-            "explicacao": "O experimento de Michelson-Morley mostrou que a velocidade da luz é constante em qualquer direção, mesmo em movimento."
-          },
-          {
-            "enunciado": "Como o tempo de vida de partículas rápidas se comporta segundo a Relatividade?",
-            "opcoes": [
-              "Diminui rapidamente.",
-              "É o mesmo que em repouso.",
-              "Aumenta devido à dilatação do tempo.",
-              "Desaparece."
-            ],
-            "correta": 2,
-            "dificuldade": "Difícil",
-            "tempo": 50,
-            "explicacao": "Experimentos com múons mostram que, ao se moverem a altas velocidades, sua vida útil é prolongada em relação ao tempo próprio."
-          },
-          {
-            "enunciado": "Qual conceito é abolido na Relatividade Restrita?",
-            "opcoes": [
-              "A conservação da energia.",
-              "A simultaneidade absoluta de eventos.",
-              "A inércia.",
-              "O espaço tridimensional."
-            ],
-            "correta": 1,
-            "dificuldade": "Difícil",
-            "tempo": 50,
-            "explicacao": "Eventos simultâneos para um observador podem não ser para outro, o que elimina a ideia de simultaneidade absoluta."
-          },
-          {
-            "enunciado": "O que é o tempo próprio de um corpo?",
-            "opcoes": [
-              "O tempo medido em outro referencial.",
-              "O tempo que ele leva para atingir a luz.",
-              "O tempo medido no referencial em que o corpo está em repouso.",
-              "O tempo padrão universal."
-            ],
-            "correta": 2,
-            "dificuldade": "Médio",
-            "tempo": 40,
-            "explicacao": "Tempo próprio é o intervalo medido no referencial em que o objeto está em repouso."
-          },
-          {
-            "enunciado": "A velocidade da luz pode ser ultrapassada por um objeto com massa?",
-            "opcoes": [
-              "Sim, com propulsão suficiente.",
-              "Não, pois isso exigiria energia infinita.",
-              "Sim, mas apenas no vácuo.",
-              "Apenas se for um fóton."
-            ],
-            "correta": 1,
-            "dificuldade": "Médio",
-            "tempo": 40,
-            "explicacao": "Objetos com massa não podem atingir nem ultrapassar a velocidade da luz, pois isso exigiria energia infinita."
-          },
-          {
-            "enunciado": "O que são referenciais inerciais?",
-            "opcoes": [
-              "Sistemas em rotação.",
-              "Sistemas acelerados.",
-              "Sistemas em movimento retilíneo uniforme ou em repouso.",
-              "Sistemas em queda livre."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 40,
-            "explicacao": "Referenciais inerciais são aqueles que não sofrem aceleração — fundamentais para aplicar a Relatividade Restrita."
-          }
-        ]
-      }
-      
-      ,
-      {
-        "nome": "Movimento Ondulatório",
-        "icone": "🌊",
-        "perguntas": [
-          {
-            "enunciado": "O que é movimento ondulatório?",
-            "opcoes": [
-              "É a propagação de uma perturbação em um meio, transportando energia sem transportar matéria.",
-              "É o movimento de rotação de um corpo em torno de um ponto fixo.",
-              "É o deslocamento de partículas com troca de calor.",
-              "É a movimentação de elétrons em um fio condutor."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 90,
-            "explicacao": "O movimento ondulatório consiste na propagação de energia através de um meio (ou no vácuo, no caso de ondas eletromagnéticas), sem o transporte de matéria."
-          },
-          {
-            "enunciado": "O que significa 'ondulatório' na Física?",
-            "opcoes": [
-              "Relacionado a movimentos curvilíneos.",
-              "Relacionado à propagação de ondas e vibrações.",
-              "Relacionado à transferência de calor por condução.",
-              "Relacionado ao movimento retilíneo uniforme."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "'Ondulatório' se refere ao comportamento de sistemas que se propagam em forma de ondas, como o som, a luz ou as ondas na água."
-          },
-          {
-            "enunciado": "O que é movimento?",
-            "opcoes": [
-              "É qualquer mudança de posição de um corpo ao longo do tempo em relação a um referencial.",
-              "É a permanência de um objeto em repouso.",
-              "É a troca de calor entre dois corpos.",
-              "É a força exercida por um corpo sobre outro."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Movimento é a variação da posição de um corpo ao longo do tempo em relação a um referencial."
-          },
-          {
-            "enunciado": "O que é uma onda?",
-            "opcoes": [
-              "É uma vibração que transporta energia de um ponto a outro, sem transporte de matéria.",
-              "É a colisão entre duas partículas.",
-              "É o deslocamento de matéria com variação de temperatura.",
-              "É o fluxo contínuo de carga elétrica em um circuito."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Ondas são perturbações que se propagam em um meio (ou no vácuo, no caso das eletromagnéticas), transportando energia."
-          },
-          {
-            "enunciado": "Como se classificam as ondas?",
-            "opcoes": [
-              "Ondas planas e curvas.",
-              "Ondas lentas e rápidas.",
-              "Ondas mecânicas e eletromagnéticas; longitudinais e transversais.",
-              "Ondas horizontais e verticais."
-            ],
-            "correta": 2,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "As ondas podem ser classificadas quanto à natureza (mecânicas ou eletromagnéticas) e quanto à direção de propagação (longitudinais ou transversais)."
-          },
-          {
-            "enunciado": "Quais são exemplos de ondas longitudinais?",
-            "opcoes": [
-              "Ondas sonoras e ondas em molas.",
-              "Ondas de luz e micro-ondas.",
-              "Ondas na superfície da água.",
-              "Ondas de rádio e televisão."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Ondas longitudinais têm direção de vibração paralela à direção de propagação. Exemplos: som e ondas em molas."
-          },
-          {
-            "enunciado": "Quais são exemplos de ondas transversais?",
-            "opcoes": [
-              "Ondas sonoras e sísmicas.",
-              "Ondas em cordas e ondas de luz.",
-              "Ondas mecânicas e gravitacionais.",
-              "Ondas de pressão e calor."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Ondas transversais têm vibração perpendicular à direção de propagação. Exemplos: ondas em cordas e ondas de luz (eletromagnéticas)."
-          },
-          
-  {
-    "enunciado": "Qual é a unidade de medida da frequência no Sistema Internacional?",
-    "opcoes": [
-      "Hertz (Hz)",
-      "Joule (J)",
-      "Newton (N)",
-      "Metro por segundo (m/s)"
-    ],
-    "correta": 0,
-    "dificuldade": "Fácil",
-    "tempo": 50,
-    "explicacao": "A frequência é medida em Hertz (Hz), que representa o número de ciclos por segundo."
-  },
-  {
-    "enunciado": "O que é comprimento de onda?",
-    "opcoes": [
-      "É o tempo necessário para uma onda completar um ciclo.",
-      "É a distância entre dois pontos em fase de uma onda.",
-      "É a altura da crista da onda.",
-      "É a quantidade de energia da onda."
-    ],
-    "correta": 1,
-    "dificuldade": "Fácil",
-    "tempo": 60,
-    "explicacao": "Comprimento de onda é a distância entre dois pontos consecutivos da onda em fase, como duas cristas ou dois vales."
-  },
-  {
-    "enunciado": "Qual é a equação fundamental da ondulatória?",
-    "opcoes": [
-      "v = m × a",
-      "v = f × λ",
-      "F = m × g",
-      "E = m × c²"
-    ],
-    "correta": 1,
-    "dificuldade": "Média",
-    "tempo": 60,
-    "explicacao": "A equação fundamental da ondulatória é v = f × λ, onde v é a velocidade da onda, f a frequência e λ o comprimento de onda."
-  },
-  {
-    "enunciado": "O que é a amplitude de uma onda?",
-    "opcoes": [
-      "É a velocidade da onda.",
-      "É a distância entre duas cristas.",
-      "É a altura máxima da onda em relação ao ponto de equilíbrio.",
-      "É o tempo de propagação."
-    ],
-    "correta": 2,
-    "dificuldade": "Fácil",
-    "tempo": 50,
-    "explicacao": "Amplitude é a altura máxima da onda em relação ao ponto de equilíbrio, relacionada à energia da onda."
-  },
-  {
-    "enunciado": "O que ocorre com a frequência de uma onda quando ela muda de meio?",
-    "opcoes": [
-      "A frequência diminui.",
-      "A frequência aumenta.",
-      "A frequência permanece constante.",
-      "A frequência se torna zero."
-    ],
-    "correta": 2,
-    "dificuldade": "Média",
-    "tempo": 60,
-    "explicacao": "Quando uma onda muda de meio, sua velocidade e comprimento de onda podem mudar, mas a frequência permanece constante."
-  },
-  {
-    "enunciado": "O que é ressonância?",
-    "opcoes": [
-      "A absorção total de uma onda pelo meio.",
-      "A colisão entre duas ondas.",
-      "A amplificação de uma oscilação quando a frequência de excitação coincide com a frequência natural.",
-      "A mudança de direção de uma onda."
-    ],
-    "correta": 2,
-    "dificuldade": "Média",
-    "tempo": 70,
-    "explicacao": "Ressonância ocorre quando um sistema oscila com grande amplitude por estar sendo excitado com sua frequência natural."
-  },
-  {
-    "enunciado": "O que é reflexão de onda?",
-    "opcoes": [
-      "É quando a onda muda de direção ao passar de um meio para outro.",
-      "É quando a onda é absorvida totalmente pelo meio.",
-      "É quando a onda retorna ao encontrar um obstáculo.",
-      "É quando a onda interfere com outra."
-    ],
-    "correta": 2,
-    "dificuldade": "Fácil",
-    "tempo": 60,
-    "explicacao": "Reflexão é o fenômeno em que a onda retorna ao seu meio original ao atingir uma barreira."
-  },
-  {
-    "enunciado": "O que é refração de onda?",
-    "opcoes": [
-      "É a mudança de direção e velocidade da onda ao mudar de meio.",
-      "É o retorno da onda ao meio original.",
-      "É o cancelamento da onda.",
-      "É o aumento da amplitude da onda."
-    ],
-    "correta": 0,
-    "dificuldade": "Média",
-    "tempo": 60,
-    "explicacao": "Refração é quando a onda muda de meio e sofre alteração na velocidade e direção."
-  },
-  {
-    "enunciado": "O que é difração de onda?",
-    "opcoes": [
-      "É a reflexão da onda em uma superfície.",
-      "É a interferência entre duas ondas.",
-      "É a mudança da velocidade da onda.",
-      "É o desvio da onda ao passar por uma fenda ou obstáculo."
-    ],
-    "correta": 3,
-    "dificuldade": "Média",
-    "tempo": 60,
-    "explicacao": "Difração é o fenômeno em que a onda contorna obstáculos ou se propaga após passar por fendas estreitas."
-  },
-  {
-    "enunciado": "O que é interferência construtiva?",
-    "opcoes": [
-      "Quando duas ondas se anulam completamente.",
-      "Quando duas ondas se encontram e se reforçam, aumentando a amplitude.",
-      "Quando a onda é refletida.",
-      "Quando a onda muda de frequência."
-    ],
-    "correta": 1,
-    "dificuldade": "Fácil",
-    "tempo": 60,
-    "explicacao": "Interferência construtiva ocorre quando ondas em fase se somam, resultando em uma onda com maior amplitude."
-  },
-  {
-    "enunciado": "Qual das alternativas representa uma onda mecânica?",
-    "opcoes": [
-      "Ondas de luz",
-      "Ondas de rádio",
-      "Ondas sonoras",
-      "Micro-ondas"
-    ],
-    "correta": 2,
-    "dificuldade": "Fácil",
-    "tempo": 50,
-    "explicacao": "Ondas mecânicas, como o som, precisam de um meio material para se propagar."
-  },
-  {
-    "enunciado": "O que é uma onda estacionária?",
-    "opcoes": [
-      "É uma onda que se propaga indefinidamente em linha reta.",
-      "É uma onda que se propaga em meios condutores.",
-      "É uma onda resultante da interferência entre duas ondas de mesma frequência e amplitude em sentidos opostos.",
-      "É uma onda com velocidade nula."
-    ],
-    "correta": 2,
-    "dificuldade": "Difícil",
-    "tempo": 70,
-    "explicacao": "Onda estacionária é formada pela interferência entre duas ondas idênticas propagando-se em sentidos opostos, gerando nós e ventres fixos."
-  },
-  {
-    "enunciado": "Em que meio as ondas sonoras se propagam mais rapidamente?",
-    "opcoes": [
-      "No vácuo",
-      "No ar",
-      "Na água",
-      "Nos sólidos"
-    ],
-    "correta": 3,
-    "dificuldade": "Média",
-    "tempo": 60,
-    "explicacao": "As ondas sonoras se propagam mais rapidamente nos sólidos, pois as partículas estão mais próximas, facilitando a transmissão da vibração."
-  }
-        ]
-      },
-      {
-        "nome": "Radiação Eletromagnética",
-        "icone": "📡",
-        "perguntas": [
-          {
-            "enunciado": "O que é radiação eletromagnética?",
-            "opcoes": [
-              "É a propagação de campos elétrico e magnético oscilantes que transportam energia pelo espaço.",
-              "É o fluxo de partículas carregadas emitidas por materiais radioativos.",
-              "É a transmissão de energia apenas em meios materiais.",
-              "É o movimento de elétrons em um condutor elétrico."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Radiação eletromagnética é composta por ondas de campo elétrico e magnético que se propagam no vácuo ou em meios materiais, transportando energia."
-          },
-          {
-            "enunciado": "Quais das afirmações estão corretas sobre ondas eletromagnéticas?",
-            "opcoes": [
-              "Elas não precisam de meio para se propagar e viajam à velocidade da luz no vácuo.",
-              "Quanto maior a frequência, menor o comprimento de onda e maior a energia da radiação.",
-              "Elas são sempre ionizantes, independentemente da frequência.",
-              "Elas só se propagam em meios condutores."
-            ],
-            "correta": 1,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Ondas eletromagnéticas não precisam de meio material, viajam à c ≈ 3×10⁸ m/s no vácuo, e E = h·f mostra que maior frequência implica maior energia."
-          },
-          {
-            "enunciado": "Em quais aplicações encontramos radiação eletromagnética?",
-            "opcoes": [
-              "Micro-ondas em fornos, raios X em exames médicos, ondas de rádio em comunicação.",
-              "Som ultrasônico em limpeza, correntes de convecção em líquidos, calor sensível em superfícies.",
-              "Feixes de partículas alfa em terapia, ondas sísmicas em geofísica, correntes de Foucault em metais.",
-              "Campos gravitacionais em satélites, correntes elétricas em circuitos, fluxo de ar em turbinas."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Radiação eletromagnética é usada em diversas áreas, como micro-ondas para aquecimento, raios X para diagnóstico e ondas de rádio para transmissão de dados."
-          },
-          {
-            "enunciado": "Qual é a unidade de medida da intensidade de radiação eletromagnética no SI?",
-            "opcoes": [
-              "Watt por metro quadrado (W/m²)",
-              "Joule por segundo (J/s)",
-              "Tesla (T)",
-              "Coulomb (C)"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 90,
-            "explicacao": "A intensidade (fluxo) de radiação eletromagnética é medida em W/m², indicando a potência por área recebida."
-          },
-          {
-            "enunciado": "Qual grandeza física está diretamente relacionada à frequência da radiação eletromagnética?",
-            "opcoes": [
-              "Comprimento de onda (λ)",
-              "Massa (m)",
-              "Temperatura (T)",
-              "Pressão (p)"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Frequência e comprimento de onda são inversamente proporcionais: v = λ·f, onde v é a velocidade da onda."
-          },
-          {
-            "enunciado": "Como varia a energia de um fóton com a frequência?",
-            "opcoes": [
-              "E = h · f, onde h é a constante de Planck e f a frequência.",
-              "E = m · c², onde m é a massa do fóton.",
-              "E = k · T, onde k é a constante de Boltzmann.",
-              "E = q · V, onde q é a carga e V a voltagem."
-            ],
-            "correta": 0,
-            "dificuldade": "Médio",
-            "tempo": 60,
-            "explicacao": "A energia de um fóton é dada por E = h·f, relacionando diretamente a frequência com a energia transportada."
-          },
-          {
-            "enunciado": "Qual faixa do espectro eletromagnético possui maior comprimento de onda?",
-            "opcoes": [
-              "Ondas de rádio",
-              "Micro-ondas",
-              "Luz visível",
-              "Raios gama"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Ondas de rádio ocupam a faixa de menores frequências e maiores comprimentos de onda do espectro eletromagnético."
-          },
-          {
-            "enunciado": "Qual faixa do espectro eletromagnético possui maior energia por fóton?",
-            "opcoes": [
-              "Raios gama",
-              "Ondas de rádio",
-              "Micro-ondas",
-              "Infravermelho"
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "Raios gama têm as maiores frequências e, consequentemente, maior energia por fóton no espectro."
-          },
-          {
-            "enunciado": "O que é efeito fotoelétrico?",
-            "opcoes": [
-              "Emissão de elétrons por um material quando iluminado por radiação de frequência suficiente.",
-              "Reflexão total interna da luz em meios dielétricos.",
-              "Absorção de energia por moléculas na forma de calor.",
-              "Difração de ondas ao passar por uma fenda estreita."
-            ],
-            "correta": 0,
-            "dificuldade": "Médio",
-            "tempo": 70,
-            "explicacao": "No efeito fotoelétrico, fótons com energia ≥ trabalho de saída ejetam elétrons de uma superfície metálica."
-          },
-          {
-            "enunciado": "Por que o Sol emite radiação eletromagnética em várias frequências?",
-            "opcoes": [
-              "Porque sua alta temperatura faz com que os elétrons vibrem em múltiplas escalas de energia.",
-              "Porque é composto apenas por hidrogênio.",
-              "Porque possui um campo magnético uniforme.",
-              "Porque reflete a radiação recebida de outras estrelas."
-            ],
-            "correta": 0,
-            "dificuldade": "Médio",
-            "tempo": 80,
-            "explicacao": "O corpo negro solar emite espectro contínuo de radiação eletromagnética devido à sua temperatura elevada e às transições atômicas internas."
-          },
-          {
-            "enunciado": "Como a atmosfera terrestre afeta a radiação eletromagnética solar?",
-            "opcoes": [
-              "Absorve parte da radiação ultravioleta e infravermelha, deixando passar principalmente a luz visível.",
-              "Bloqueia completamente todas as frequências acima de 100 GHz.",
-              "Reflete toda a radiação solar de volta ao espaço.",
-              "Amplifica as micro-ondas recebidas do sol."
-            ],
-            "correta": 0,
-            "dificuldade": "Médio",
-            "tempo": 70,
-            "explicacao": "A atmosfera filtra grande parte do UV e IR, permitindo principalmente a passagem da luz visível, essencial para a vida."
-          },
-         
-            {
-              "enunciado": "Qual é a principal característica das ondas eletromagnéticas?",
-              "opcoes": [
-                "Elas transportam energia sem a necessidade de um meio material.",
-                "Elas necessitam de um meio sólido para se propagar.",
-                "Elas têm apenas um campo elétrico e não magnético.",
-                "Elas se propagam apenas em líquidos."
-              ],
-              "correta": 0,
-              "dificuldade": "Fácil",
-              "tempo": 60,
-              "explicacao": "As ondas eletromagnéticas podem se propagar no vácuo, ou seja, não precisam de um meio material para transportar energia."
-            },
-            {
-              "enunciado": "Qual a velocidade de propagação das ondas eletromagnéticas no vácuo?",
-              "opcoes": [
-                "3×10⁸ m/s",
-                "1×10⁶ m/s",
-                "1×10⁸ m/s",
-                "3×10⁴ m/s"
-              ],
-              "correta": 0,
-              "dificuldade": "Fácil",
-              "tempo": 30,
-              "explicacao": "A velocidade das ondas eletromagnéticas no vácuo é a velocidade da luz, que é aproximadamente 3×10⁸ metros por segundo."
-            },
-            {
-              "enunciado": "Qual das alternativas descreve a relação entre frequência e comprimento de onda de uma onda eletromagnética?",
-              "opcoes": [
-                "Frequência e comprimento de onda são diretamente proporcionais.",
-                "Frequência e comprimento de onda são inversamente proporcionais.",
-                "Frequência e comprimento de onda não têm relação.",
-                "A frequência é igual ao comprimento de onda."
-              ],
-              "correta": 1,
-              "dificuldade": "Fácil",
-              "tempo": 60,
-              "explicacao": "De acordo com a equação v = λ·f, a frequência e o comprimento de onda são inversamente proporcionais."
-            },
-            {
-              "enunciado": "O que são os raios X?",
-              "opcoes": [
-                "São radiações eletromagnéticas com alta frequência e alta energia.",
-                "São radiações de baixa frequência usadas para comunicação.",
-                "São radiações térmicas que aquecem os objetos.",
-                "São ondas mecânicas usadas em terapias."
-              ],
-              "correta": 0,
-              "dificuldade": "Médio",
-              "tempo": 70,
-              "explicacao": "Os raios X são radiações eletromagnéticas de alta frequência, usadas em exames médicos e diagnóstico por imagem."
-            },
-            {
-              "enunciado": "Qual é a diferença entre radiação ionizante e não ionizante?",
-              "opcoes": [
-                "Radiação ionizante possui energia suficiente para remover elétrons de átomos, enquanto a não ionizante não tem essa capacidade.",
-                "Radiação ionizante se propaga mais lentamente que a não ionizante.",
-                "Radiação não ionizante é mais rápida do que a ionizante.",
-                "Radiação ionizante é visível a olho nu, enquanto a não ionizante não é."
-              ],
-              "correta": 0,
-              "dificuldade": "Médio",
-              "tempo": 80,
-              "explicacao": "A radiação ionizante tem energia suficiente para ionizar átomos, enquanto a não ionizante não é capaz de realizar esse processo."
-            },
-            {
-              "enunciado": "Qual é o principal uso das micro-ondas?",
-              "opcoes": [
-                "Aquecimento de alimentos e comunicação via satélite.",
-                "Análise de materiais na indústria.",
-                "Transmissão de sinais de rádio.",
-                "Geração de energia elétrica em usinas."
-              ],
-              "correta": 0,
-              "dificuldade": "Fácil",
-              "tempo": 60,
-              "explicacao": "As micro-ondas são usadas para aquecer alimentos e para comunicação via satélites e redes de comunicação."
-            },
-            {
-              "enunciado": "Em que parte do espectro eletromagnético estão as ondas usadas por televisores e celulares?",
-              "opcoes": [
-                "Ondas de rádio e micro-ondas.",
-                "Raios X e ultravioleta.",
-                "Luz visível e infravermelho.",
-                "Raios gama e radiação cósmica."
-              ],
-              "correta": 0,
-              "dificuldade": "Fácil",
-              "tempo": 60,
-              "explicacao": "Televisores e celulares usam ondas de rádio e micro-ondas para a transmissão de sinais e dados."
-            },
-            {
-              "enunciado": "O que caracteriza as ondas gama?",
-              "opcoes": [
-                "São ondas eletromagnéticas com a maior frequência e a maior energia.",
-                "São ondas de baixa frequência e alta capacidade de penetração.",
-                "São ondas que não podem atravessar o espaço.",
-                "São ondas usadas em micro-ondas e para aquecer alimentos."
-              ],
-              "correta": 0,
-              "dificuldade": "Médio",
-              "tempo": 70,
-              "explicacao": "As ondas gama têm a maior frequência e, consequentemente, a maior energia no espectro eletromagnético."
-            },
-            {
-              "enunciado": "Qual é a principal diferença entre luz visível e radiação infravermelha?",
-              "opcoes": [
-                "Luz visível tem maior frequência e energia que a radiação infravermelha.",
-                "Radiação infravermelha é mais energética que a luz visível.",
-                "Luz visível é usada para aquecer alimentos, enquanto a infravermelha é para comunicação.",
-                "Radiação infravermelha é visível ao olho humano, enquanto a luz visível não é."
-              ],
-              "correta": 0,
-              "dificuldade": "Fácil",
-              "tempo": 60,
-              "explicacao": "A luz visível possui maior frequência e energia comparada à radiação infravermelha, que é usada em dispositivos de aquecimento."
-            },
-            {
-              "enunciado": "Qual é o efeito da radiação ultravioleta sobre a pele humana?",
-              "opcoes": [
-                "Pode causar queimaduras solares e aumentar o risco de câncer de pele.",
-                "Melhora a produção de colágeno e mantém a pele saudável.",
-                "Não tem efeitos, pois é absorvida pela camada de ozônio.",
-                "É benéfica para a vitamina D, mas não tem outros efeitos."
-              ],
-              "correta": 0,
-              "dificuldade": "Médio",
-              "tempo": 70,
-              "explicacao": "A radiação UV pode causar danos à pele, como queimaduras solares e aumento do risco de câncer de pele devido à sua capacidade de ionizar células."
-            }
-        ]
-      },
-      {
-        "nome": "O Espectro Eletromagnético",
-        "icone": "📡",
-        "perguntas": [
-          {
-            "enunciado": "O que é o espectro eletromagnético?",
-            "opcoes": [
-              "É o conjunto de todas as ondas eletromagnéticas, organizadas por frequência e comprimento de onda.",
-              "É o espectro de luz visível que o olho humano pode perceber.",
-              "É a radiação que atravessa materiais sólidos.",
-              "É uma forma de radiação que se propaga somente em meios materiais."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "O espectro eletromagnético inclui todas as ondas eletromagnéticas, que variam em frequência e comprimento de onda, desde ondas de rádio até raios gama."
-          },
-          {
-            "enunciado": "Quais são os tipos de ondas eletromagnéticas no espectro?",
-            "opcoes": [
-              "Ondas de rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios X e raios gama.",
-              "Ondas sonoras, micro-ondas, ultravioleta, luz visível, raios X e rádio.",
-              "Raios cósmicos, luz visível, micro-ondas e ondas mecânicas.",
-              "Som, luz visível, infravermelho e raios gama."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "O espectro eletromagnético é composto por várias categorias de ondas, que incluem desde as de rádio, micro-ondas, até os raios gama, com diferentes comprimentos de onda e frequências."
-          },
-          {
-            "enunciado": "Qual é a característica principal das ondas do espectro eletromagnético?",
-            "opcoes": [
-              "Elas têm diferentes comprimentos de onda e frequências.",
-              "Elas são todas visíveis a olho nu.",
-              "Elas só se propagam em líquidos.",
-              "Elas necessitam de um meio material para se propagar."
-            ],
-            "correta": 0,
-            "dificuldade": "Médio",
-            "tempo": 60,
-            "explicacao": "As ondas eletromagnéticas variam em comprimento de onda e frequência, o que determina suas diferentes propriedades e aplicações, como na comunicação ou no diagnóstico médico."
-          },
-          {
-            "enunciado": "Qual é a ordem crescente das ondas do espectro eletromagnético em termos de comprimento de onda?",
-            "opcoes": [
-              "Raios gama, raios X, ultravioleta, luz visível, infravermelho, micro-ondas, ondas de rádio.",
-              "Ondas de rádio, micro-ondas, luz visível, infravermelho, ultravioleta, raios X, raios gama.",
-              "Micro-ondas, ondas de rádio, raios X, infravermelho, luz visível, raios gama, ultravioleta.",
-              "Luz visível, micro-ondas, raios X, infravermelho, ondas de rádio, raios gama, ultravioleta."
-            ],
-            "correta": 1,
-            "dificuldade": "Médio",
-            "tempo": 90,
-            "explicacao": "As ondas de rádio têm o maior comprimento de onda, enquanto os raios gama possuem o menor comprimento de onda, sendo os mais energéticos."
-          },
-          {
-            "enunciado": "O que distingue as ondas de rádio das micro-ondas?",
-            "opcoes": [
-              "As micro-ondas têm uma frequência maior e comprimento de onda menor do que as ondas de rádio.",
-              "As ondas de rádio têm maior energia que as micro-ondas.",
-              "As micro-ondas não podem ser usadas para comunicação, mas as ondas de rádio podem.",
-              "Ambas têm o mesmo comprimento de onda."
-            ],
-            "correta": 0,
-            "dificuldade": "Fácil",
-            "tempo": 60,
-            "explicacao": "As micro-ondas têm maior frequência e menor comprimento de onda em comparação com as ondas de rádio. Isso as torna mais adequadas para certas aplicações, como radar e aquecimento de alimentos."
-          },
-          
-    {  "enunciado": "O que é a luz visível no espectro eletromagnético?",
-      "opcoes": [
-        "São as ondas que o olho humano consegue perceber.",
-        "É a radiação que se propaga somente em materiais sólidos.",
-        "É uma onda eletromagnética de altíssima frequência.",
-        "São ondas invisíveis ao olho humano."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "A luz visível faz parte do espectro eletromagnético e é a faixa de radiação que nossos olhos conseguem perceber, com cores variando de vermelho a violeta."
+      ]
     },
     {
-      "enunciado": "Qual das afirmações é verdadeira sobre os raios X?",
-      "opcoes": [
-        "Eles têm uma frequência maior e um comprimento de onda menor do que a luz visível.",
-        "Eles têm um comprimento de onda maior que as micro-ondas.",
-        "Eles podem atravessar o corpo humano, sendo usados em exames médicos.",
-        "São mais lentos que as ondas de rádio."
-      ],
-      "correta": 2,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "Os raios X possuem alta frequência e podem atravessar o corpo humano, sendo utilizados em imagens médicas para detectar fraturas e outros problemas."
+      "nome": "Relatividade Restrita",
+      "icone": "💻",
+      "perguntas": [
+        {
+          "enunciado": "Do que trata a Teoria da Relatividade Restrita?",
+          "opcoes": [
+            "É uma teoria que explica a gravidade em grandes escalas.",
+            "Estuda o comportamento de sistemas físicos sob dois referenciais inerciais.",
+            "Trata apenas da dilatação do tempo.",
+            "É um modelo de partículas elementares."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A Relatividade Restrita estuda fenômenos físicos observados em referenciais inerciais, especialmente em altas velocidades próximas à da luz."
+        },
+        {
+          "enunciado": "Qual dos seguintes é um dos postulados da Relatividade Restrita?",
+          "opcoes": [
+            "As leis físicas mudam conforme o observador acelera.",
+            "O tempo é absoluto para todos os observadores.",
+            "As leis físicas são as mesmas em todos os referenciais inerciais.",
+            "A matéria se move mais rápido que a luz no vácuo."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 50,
+          "explicacao": "O primeiro postulado afirma que as leis da física são as mesmas em todos os referenciais inerciais, ou seja, em movimento retilíneo uniforme."
+        },
+        {
+          "enunciado": "Qual é o segundo postulado da Relatividade Restrita?",
+          "opcoes": [
+            "A luz precisa de um meio para se propagar.",
+            "A velocidade da luz no vácuo depende da velocidade da fonte.",
+            "A velocidade da luz no vácuo é constante em todos os referenciais inerciais.",
+            "A luz desacelera em campos gravitacionais fracos."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 50,
+          "explicacao": "A velocidade da luz no vácuo é a mesma para todos os observadores, independentemente do movimento da fonte ou do observador."
+        },
+        {
+          "enunciado": "Qual é a velocidade da luz no vácuo?",
+          "opcoes": [
+            "300.000 m/s",
+            "1,5×10⁵ km/h",
+            "c = 3,0×10⁸ m/s",
+            "30.000 km/s"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "A velocidade da luz no vácuo é aproximadamente 3,0×10⁸ metros por segundo."
+        },
+        {
+          "enunciado": "Como é possível medir temperaturas superiores a 1800ºC?",
+          "opcoes": [
+            "Utilizando um pirômetro óptico.",
+            "Com termômetros de mercúrio.",
+            "Com termopares comuns.",
+            "Com sensores de pressão."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "Pirômetros ópticos são usados para medir temperaturas muito elevadas, como em fornos ou metais incandescentes."
+        },
+        {
+          "enunciado": "Qual princípio físico é usado na medição de temperaturas acima de 1800ºC com pirômetros ópticos?",
+          "opcoes": [
+            "Radiação térmica emitida pelos corpos.",
+            "Dilatação dos líquidos.",
+            "Pressão do gás em um bulbo.",
+            "Reflexão da luz visível."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Pirômetros ópticos funcionam com base na radiação térmica emitida por corpos aquecidos, analisando o brilho ou a intensidade da luz."
+        },
+        {
+          "enunciado": "O que a Relatividade Restrita descreve?",
+          "opcoes": [
+            "O comportamento de corpos sob ação de forças gravitacionais.",
+            "A estrutura dos átomos.",
+            "Como o espaço e o tempo se comportam em altas velocidades próximas à da luz.",
+            "As leis da termodinâmica em corpos acelerados."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A Relatividade Restrita descreve as transformações no espaço e no tempo que ocorrem quando um objeto se move com velocidade próxima à da luz."
+        },
+        {
+          "enunciado": "O que é dilatação do tempo na Relatividade Restrita?",
+          "opcoes": [
+            "O tempo passa mais rápido para objetos em repouso.",
+            "O tempo é igual para todos os observadores.",
+            "O tempo passa mais devagar para um objeto em movimento em relação a um observador em repouso.",
+            "O tempo acelera conforme a velocidade aumenta."
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "A dilatação do tempo significa que um relógio em movimento é visto como passando mais devagar por um observador em repouso."
+        },
+        {
+          "enunciado": "O que é contração do espaço segundo a Relatividade Restrita?",
+          "opcoes": [
+            "Os objetos aumentam de tamanho ao se moverem rapidamente.",
+            "O comprimento de um objeto em movimento parece diminuir ao longo da direção do movimento.",
+            "A largura de um objeto se contrai em qualquer direção.",
+            "O espaço se curva em torno do objeto."
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "Um objeto que se move a velocidades próximas à da luz sofre contração do comprimento na direção do movimento, do ponto de vista de um observador externo."
+        },
+        {
+          "enunciado": "A massa de um corpo varia com a velocidade?",
+          "opcoes": [
+            "Sim, a massa diminui com o aumento da velocidade.",
+            "Sim, a massa aumenta com a velocidade.",
+            "Não, a massa é constante em qualquer situação.",
+            "Só varia se houver aceleração."
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "Na relatividade, a massa relativística aumenta com a velocidade do corpo em relação ao observador."
+        },
+        {
+          "enunciado": "Qual equação famosa expressa a equivalência entre massa e energia?",
+          "opcoes": ["E = mc²", "F = ma", "E = hv", "V = IR"],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "A equação E = mc², proposta por Einstein, mostra que massa e energia são equivalentes."
+        },
+        {
+          "enunciado": "A Relatividade Restrita é aplicável em quais situações?",
+          "opcoes": [
+            "Em qualquer situação com gravidade envolvida.",
+            "Apenas para objetos em repouso.",
+            "Para objetos que se movem com velocidades constantes (sem aceleração).",
+            "Apenas dentro de campos magnéticos."
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 50,
+          "explicacao": "A Relatividade Restrita trata de sistemas inerciais, ou seja, sem aceleração."
+        },
+        {
+          "enunciado": "O que acontece com o tempo em velocidades próximas à da luz?",
+          "opcoes": [
+            "O tempo acelera.",
+            "O tempo permanece inalterado.",
+            "O tempo se dilata, passando mais devagar.",
+            "O tempo regride."
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 40,
+          "explicacao": "A dilatação temporal é um dos efeitos previstos pela Relatividade Restrita."
+        },
+        {
+          "enunciado": "A Teoria da Relatividade foi proposta por qual cientista?",
+          "opcoes": [
+            "Isaac Newton",
+            "Niels Bohr",
+            "Albert Einstein",
+            "Stephen Hawking"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "Albert Einstein publicou a Teoria da Relatividade Restrita em 1905."
+        },
+        {
+          "enunciado": "Qual experimento comprovou a constância da velocidade da luz?",
+          "opcoes": [
+            "Experimento de Rutherford",
+            "Experimento de Young",
+            "Experimento de Michelson-Morley",
+            "Experimento de Cavendish"
+          ],
+          "correta": 2,
+          "dificuldade": "Difícil",
+          "tempo": 60,
+          "explicacao": "O experimento de Michelson-Morley mostrou que a velocidade da luz é constante em qualquer direção, mesmo em movimento."
+        },
+        {
+          "enunciado": "Como o tempo de vida de partículas rápidas se comporta segundo a Relatividade?",
+          "opcoes": [
+            "Diminui rapidamente.",
+            "É o mesmo que em repouso.",
+            "Aumenta devido à dilatação do tempo.",
+            "Desaparece."
+          ],
+          "correta": 2,
+          "dificuldade": "Difícil",
+          "tempo": 50,
+          "explicacao": "Experimentos com múons mostram que, ao se moverem a altas velocidades, sua vida útil é prolongada em relação ao tempo próprio."
+        },
+        {
+          "enunciado": "Qual conceito é abolido na Relatividade Restrita?",
+          "opcoes": [
+            "A conservação da energia.",
+            "A simultaneidade absoluta de eventos.",
+            "A inércia.",
+            "O espaço tridimensional."
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 50,
+          "explicacao": "Eventos simultâneos para um observador podem não ser para outro, o que elimina a ideia de simultaneidade absoluta."
+        },
+        {
+          "enunciado": "O que é o tempo próprio de um corpo?",
+          "opcoes": [
+            "O tempo medido em outro referencial.",
+            "O tempo que ele leva para atingir a luz.",
+            "O tempo medido no referencial em que o corpo está em repouso.",
+            "O tempo padrão universal."
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 40,
+          "explicacao": "Tempo próprio é o intervalo medido no referencial em que o objeto está em repouso."
+        },
+        {
+          "enunciado": "A velocidade da luz pode ser ultrapassada por um objeto com massa?",
+          "opcoes": [
+            "Sim, com propulsão suficiente.",
+            "Não, pois isso exigiria energia infinita.",
+            "Sim, mas apenas no vácuo.",
+            "Apenas se for um fóton."
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 40,
+          "explicacao": "Objetos com massa não podem atingir nem ultrapassar a velocidade da luz, pois isso exigiria energia infinita."
+        },
+        {
+          "enunciado": "O que são referenciais inerciais?",
+          "opcoes": [
+            "Sistemas em rotação.",
+            "Sistemas acelerados.",
+            "Sistemas em movimento retilíneo uniforme ou em repouso.",
+            "Sistemas em queda livre."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 40,
+          "explicacao": "Referenciais inerciais são aqueles que não sofrem aceleração — fundamentais para aplicar a Relatividade Restrita."
+        }
+      ]
+    },
+
+    {
+      "nome": "Movimento Ondulatório",
+      "icone": "🌊",
+      "perguntas": [
+        {
+          "enunciado": "O que é movimento ondulatório?",
+          "opcoes": [
+            "É a propagação de uma perturbação em um meio, transportando energia sem transportar matéria.",
+            "É o movimento de rotação de um corpo em torno de um ponto fixo.",
+            "É o deslocamento de partículas com troca de calor.",
+            "É a movimentação de elétrons em um fio condutor."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 90,
+          "explicacao": "O movimento ondulatório consiste na propagação de energia através de um meio (ou no vácuo, no caso de ondas eletromagnéticas), sem o transporte de matéria."
+        },
+        {
+          "enunciado": "O que significa 'ondulatório' na Física?",
+          "opcoes": [
+            "Relacionado a movimentos curvilíneos.",
+            "Relacionado à propagação de ondas e vibrações.",
+            "Relacionado à transferência de calor por condução.",
+            "Relacionado ao movimento retilíneo uniforme."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "'Ondulatório' se refere ao comportamento de sistemas que se propagam em forma de ondas, como o som, a luz ou as ondas na água."
+        },
+        {
+          "enunciado": "O que é movimento?",
+          "opcoes": [
+            "É qualquer mudança de posição de um corpo ao longo do tempo em relação a um referencial.",
+            "É a permanência de um objeto em repouso.",
+            "É a troca de calor entre dois corpos.",
+            "É a força exercida por um corpo sobre outro."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Movimento é a variação da posição de um corpo ao longo do tempo em relação a um referencial."
+        },
+        {
+          "enunciado": "O que é uma onda?",
+          "opcoes": [
+            "É uma vibração que transporta energia de um ponto a outro, sem transporte de matéria.",
+            "É a colisão entre duas partículas.",
+            "É o deslocamento de matéria com variação de temperatura.",
+            "É o fluxo contínuo de carga elétrica em um circuito."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Ondas são perturbações que se propagam em um meio (ou no vácuo, no caso das eletromagnéticas), transportando energia."
+        },
+        {
+          "enunciado": "Como se classificam as ondas?",
+          "opcoes": [
+            "Ondas planas e curvas.",
+            "Ondas lentas e rápidas.",
+            "Ondas mecânicas e eletromagnéticas; longitudinais e transversais.",
+            "Ondas horizontais e verticais."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As ondas podem ser classificadas quanto à natureza (mecânicas ou eletromagnéticas) e quanto à direção de propagação (longitudinais ou transversais)."
+        },
+        {
+          "enunciado": "Quais são exemplos de ondas longitudinais?",
+          "opcoes": [
+            "Ondas sonoras e ondas em molas.",
+            "Ondas de luz e micro-ondas.",
+            "Ondas na superfície da água.",
+            "Ondas de rádio e televisão."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Ondas longitudinais têm direção de vibração paralela à direção de propagação. Exemplos: som e ondas em molas."
+        },
+        {
+          "enunciado": "Quais são exemplos de ondas transversais?",
+          "opcoes": [
+            "Ondas sonoras e sísmicas.",
+            "Ondas em cordas e ondas de luz.",
+            "Ondas mecânicas e gravitacionais.",
+            "Ondas de pressão e calor."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Ondas transversais têm vibração perpendicular à direção de propagação. Exemplos: ondas em cordas e ondas de luz (eletromagnéticas)."
+        },
+
+        {
+          "enunciado": "Qual é a unidade de medida da frequência no Sistema Internacional?",
+          "opcoes": [
+            "Hertz (Hz)",
+            "Joule (J)",
+            "Newton (N)",
+            "Metro por segundo (m/s)"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 50,
+          "explicacao": "A frequência é medida em Hertz (Hz), que representa o número de ciclos por segundo."
+        },
+        {
+          "enunciado": "O que é comprimento de onda?",
+          "opcoes": [
+            "É o tempo necessário para uma onda completar um ciclo.",
+            "É a distância entre dois pontos em fase de uma onda.",
+            "É a altura da crista da onda.",
+            "É a quantidade de energia da onda."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Comprimento de onda é a distância entre dois pontos consecutivos da onda em fase, como duas cristas ou dois vales."
+        },
+        {
+          "enunciado": "Qual é a equação fundamental da ondulatória?",
+          "opcoes": ["v = m × a", "v = f × λ", "F = m × g", "E = m × c²"],
+          "correta": 1,
+          "dificuldade": "Média",
+          "tempo": 60,
+          "explicacao": "A equação fundamental da ondulatória é v = f × λ, onde v é a velocidade da onda, f a frequência e λ o comprimento de onda."
+        },
+        {
+          "enunciado": "O que é a amplitude de uma onda?",
+          "opcoes": [
+            "É a velocidade da onda.",
+            "É a distância entre duas cristas.",
+            "É a altura máxima da onda em relação ao ponto de equilíbrio.",
+            "É o tempo de propagação."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 50,
+          "explicacao": "Amplitude é a altura máxima da onda em relação ao ponto de equilíbrio, relacionada à energia da onda."
+        },
+        {
+          "enunciado": "O que ocorre com a frequência de uma onda quando ela muda de meio?",
+          "opcoes": [
+            "A frequência diminui.",
+            "A frequência aumenta.",
+            "A frequência permanece constante.",
+            "A frequência se torna zero."
+          ],
+          "correta": 2,
+          "dificuldade": "Média",
+          "tempo": 60,
+          "explicacao": "Quando uma onda muda de meio, sua velocidade e comprimento de onda podem mudar, mas a frequência permanece constante."
+        },
+        {
+          "enunciado": "O que é ressonância?",
+          "opcoes": [
+            "A absorção total de uma onda pelo meio.",
+            "A colisão entre duas ondas.",
+            "A amplificação de uma oscilação quando a frequência de excitação coincide com a frequência natural.",
+            "A mudança de direção de uma onda."
+          ],
+          "correta": 2,
+          "dificuldade": "Média",
+          "tempo": 70,
+          "explicacao": "Ressonância ocorre quando um sistema oscila com grande amplitude por estar sendo excitado com sua frequência natural."
+        },
+        {
+          "enunciado": "O que é reflexão de onda?",
+          "opcoes": [
+            "É quando a onda muda de direção ao passar de um meio para outro.",
+            "É quando a onda é absorvida totalmente pelo meio.",
+            "É quando a onda retorna ao encontrar um obstáculo.",
+            "É quando a onda interfere com outra."
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Reflexão é o fenômeno em que a onda retorna ao seu meio original ao atingir uma barreira."
+        },
+        {
+          "enunciado": "O que é refração de onda?",
+          "opcoes": [
+            "É a mudança de direção e velocidade da onda ao mudar de meio.",
+            "É o retorno da onda ao meio original.",
+            "É o cancelamento da onda.",
+            "É o aumento da amplitude da onda."
+          ],
+          "correta": 0,
+          "dificuldade": "Média",
+          "tempo": 60,
+          "explicacao": "Refração é quando a onda muda de meio e sofre alteração na velocidade e direção."
+        },
+        {
+          "enunciado": "O que é difração de onda?",
+          "opcoes": [
+            "É a reflexão da onda em uma superfície.",
+            "É a interferência entre duas ondas.",
+            "É a mudança da velocidade da onda.",
+            "É o desvio da onda ao passar por uma fenda ou obstáculo."
+          ],
+          "correta": 3,
+          "dificuldade": "Média",
+          "tempo": 60,
+          "explicacao": "Difração é o fenômeno em que a onda contorna obstáculos ou se propaga após passar por fendas estreitas."
+        },
+        {
+          "enunciado": "O que é interferência construtiva?",
+          "opcoes": [
+            "Quando duas ondas se anulam completamente.",
+            "Quando duas ondas se encontram e se reforçam, aumentando a amplitude.",
+            "Quando a onda é refletida.",
+            "Quando a onda muda de frequência."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Interferência construtiva ocorre quando ondas em fase se somam, resultando em uma onda com maior amplitude."
+        },
+        {
+          "enunciado": "Qual das alternativas representa uma onda mecânica?",
+          "opcoes": [
+            "Ondas de luz",
+            "Ondas de rádio",
+            "Ondas sonoras",
+            "Micro-ondas"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 50,
+          "explicacao": "Ondas mecânicas, como o som, precisam de um meio material para se propagar."
+        },
+        {
+          "enunciado": "O que é uma onda estacionária?",
+          "opcoes": [
+            "É uma onda que se propaga indefinidamente em linha reta.",
+            "É uma onda que se propaga em meios condutores.",
+            "É uma onda resultante da interferência entre duas ondas de mesma frequência e amplitude em sentidos opostos.",
+            "É uma onda com velocidade nula."
+          ],
+          "correta": 2,
+          "dificuldade": "Difícil",
+          "tempo": 70,
+          "explicacao": "Onda estacionária é formada pela interferência entre duas ondas idênticas propagando-se em sentidos opostos, gerando nós e ventres fixos."
+        },
+        {
+          "enunciado": "Em que meio as ondas sonoras se propagam mais rapidamente?",
+          "opcoes": ["No vácuo", "No ar", "Na água", "Nos sólidos"],
+          "correta": 3,
+          "dificuldade": "Média",
+          "tempo": 60,
+          "explicacao": "As ondas sonoras se propagam mais rapidamente nos sólidos, pois as partículas estão mais próximas, facilitando a transmissão da vibração."
+        }
+      ]
     },
     {
-      "enunciado": "O que é a frequência das ondas eletromagnéticas?",
-      "opcoes": [
-        "É o número de ondas que passam por um ponto em um segundo.",
-        "É a distância entre o pico de uma onda e o pico da próxima.",
-        "É o tempo que uma onda leva para percorrer um ciclo completo.",
-        "É a energia que uma onda carrega."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "A frequência é a quantidade de ciclos que uma onda completa em um segundo, e é medida em Hertz (Hz). Quanto maior a frequência, maior a energia da onda."
+      "nome": "Radiação Eletromagnética",
+      "icone": "📡",
+      "perguntas": [
+        {
+          "enunciado": "O que é radiação eletromagnética?",
+          "opcoes": [
+            "É a propagação de campos elétrico e magnético oscilantes que transportam energia pelo espaço.",
+            "É o fluxo de partículas carregadas emitidas por materiais radioativos.",
+            "É a transmissão de energia apenas em meios materiais.",
+            "É o movimento de elétrons em um condutor elétrico."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Radiação eletromagnética é composta por ondas de campo elétrico e magnético que se propagam no vácuo ou em meios materiais, transportando energia."
+        },
+        {
+          "enunciado": "Quais das afirmações estão corretas sobre ondas eletromagnéticas?",
+          "opcoes": [
+            "Elas não precisam de meio para se propagar e viajam à velocidade da luz no vácuo.",
+            "Quanto maior a frequência, menor o comprimento de onda e maior a energia da radiação.",
+            "Elas são sempre ionizantes, independentemente da frequência.",
+            "Elas só se propagam em meios condutores."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Ondas eletromagnéticas não precisam de meio material, viajam à c ≈ 3×10⁸ m/s no vácuo, e E = h·f mostra que maior frequência implica maior energia."
+        },
+        {
+          "enunciado": "Em quais aplicações encontramos radiação eletromagnética?",
+          "opcoes": [
+            "Micro-ondas em fornos, raios X em exames médicos, ondas de rádio em comunicação.",
+            "Som ultrasônico em limpeza, correntes de convecção em líquidos, calor sensível em superfícies.",
+            "Feixes de partículas alfa em terapia, ondas sísmicas em geofísica, correntes de Foucault em metais.",
+            "Campos gravitacionais em satélites, correntes elétricas em circuitos, fluxo de ar em turbinas."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Radiação eletromagnética é usada em diversas áreas, como micro-ondas para aquecimento, raios X para diagnóstico e ondas de rádio para transmissão de dados."
+        },
+        {
+          "enunciado": "Qual é a unidade de medida da intensidade de radiação eletromagnética no SI?",
+          "opcoes": [
+            "Watt por metro quadrado (W/m²)",
+            "Joule por segundo (J/s)",
+            "Tesla (T)",
+            "Coulomb (C)"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 90,
+          "explicacao": "A intensidade (fluxo) de radiação eletromagnética é medida em W/m², indicando a potência por área recebida."
+        },
+        {
+          "enunciado": "Qual grandeza física está diretamente relacionada à frequência da radiação eletromagnética?",
+          "opcoes": [
+            "Comprimento de onda (λ)",
+            "Massa (m)",
+            "Temperatura (T)",
+            "Pressão (p)"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Frequência e comprimento de onda são inversamente proporcionais: v = λ·f, onde v é a velocidade da onda."
+        },
+        {
+          "enunciado": "Como varia a energia de um fóton com a frequência?",
+          "opcoes": [
+            "E = h · f, onde h é a constante de Planck e f a frequência.",
+            "E = m · c², onde m é a massa do fóton.",
+            "E = k · T, onde k é a constante de Boltzmann.",
+            "E = q · V, onde q é a carga e V a voltagem."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "A energia de um fóton é dada por E = h·f, relacionando diretamente a frequência com a energia transportada."
+        },
+        {
+          "enunciado": "Qual faixa do espectro eletromagnético possui maior comprimento de onda?",
+          "opcoes": [
+            "Ondas de rádio",
+            "Micro-ondas",
+            "Luz visível",
+            "Raios gama"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Ondas de rádio ocupam a faixa de menores frequências e maiores comprimentos de onda do espectro eletromagnético."
+        },
+        {
+          "enunciado": "Qual faixa do espectro eletromagnético possui maior energia por fóton?",
+          "opcoes": [
+            "Raios gama",
+            "Ondas de rádio",
+            "Micro-ondas",
+            "Infravermelho"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Raios gama têm as maiores frequências e, consequentemente, maior energia por fóton no espectro."
+        },
+        {
+          "enunciado": "O que é efeito fotoelétrico?",
+          "opcoes": [
+            "Emissão de elétrons por um material quando iluminado por radiação de frequência suficiente.",
+            "Reflexão total interna da luz em meios dielétricos.",
+            "Absorção de energia por moléculas na forma de calor.",
+            "Difração de ondas ao passar por uma fenda estreita."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 70,
+          "explicacao": "No efeito fotoelétrico, fótons com energia ≥ trabalho de saída ejetam elétrons de uma superfície metálica."
+        },
+        {
+          "enunciado": "Por que o Sol emite radiação eletromagnética em várias frequências?",
+          "opcoes": [
+            "Porque sua alta temperatura faz com que os elétrons vibrem em múltiplas escalas de energia.",
+            "Porque é composto apenas por hidrogênio.",
+            "Porque possui um campo magnético uniforme.",
+            "Porque reflete a radiação recebida de outras estrelas."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 80,
+          "explicacao": "O corpo negro solar emite espectro contínuo de radiação eletromagnética devido à sua temperatura elevada e às transições atômicas internas."
+        },
+        {
+          "enunciado": "Como a atmosfera terrestre afeta a radiação eletromagnética solar?",
+          "opcoes": [
+            "Absorve parte da radiação ultravioleta e infravermelha, deixando passar principalmente a luz visível.",
+            "Bloqueia completamente todas as frequências acima de 100 GHz.",
+            "Reflete toda a radiação solar de volta ao espaço.",
+            "Amplifica as micro-ondas recebidas do sol."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 70,
+          "explicacao": "A atmosfera filtra grande parte do UV e IR, permitindo principalmente a passagem da luz visível, essencial para a vida."
+        },
+
+        {
+          "enunciado": "Qual é a principal característica das ondas eletromagnéticas?",
+          "opcoes": [
+            "Elas transportam energia sem a necessidade de um meio material.",
+            "Elas necessitam de um meio sólido para se propagar.",
+            "Elas têm apenas um campo elétrico e não magnético.",
+            "Elas se propagam apenas em líquidos."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As ondas eletromagnéticas podem se propagar no vácuo, ou seja, não precisam de um meio material para transportar energia."
+        },
+        {
+          "enunciado": "Qual a velocidade de propagação das ondas eletromagnéticas no vácuo?",
+          "opcoes": ["3×10⁸ m/s", "1×10⁶ m/s", "1×10⁸ m/s", "3×10⁴ m/s"],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "A velocidade das ondas eletromagnéticas no vácuo é a velocidade da luz, que é aproximadamente 3×10⁸ metros por segundo."
+        },
+        {
+          "enunciado": "Qual das alternativas descreve a relação entre frequência e comprimento de onda de uma onda eletromagnética?",
+          "opcoes": [
+            "Frequência e comprimento de onda são diretamente proporcionais.",
+            "Frequência e comprimento de onda são inversamente proporcionais.",
+            "Frequência e comprimento de onda não têm relação.",
+            "A frequência é igual ao comprimento de onda."
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "De acordo com a equação v = λ·f, a frequência e o comprimento de onda são inversamente proporcionais."
+        },
+        {
+          "enunciado": "O que são os raios X?",
+          "opcoes": [
+            "São radiações eletromagnéticas com alta frequência e alta energia.",
+            "São radiações de baixa frequência usadas para comunicação.",
+            "São radiações térmicas que aquecem os objetos.",
+            "São ondas mecânicas usadas em terapias."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 70,
+          "explicacao": "Os raios X são radiações eletromagnéticas de alta frequência, usadas em exames médicos e diagnóstico por imagem."
+        },
+        {
+          "enunciado": "Qual é a diferença entre radiação ionizante e não ionizante?",
+          "opcoes": [
+            "Radiação ionizante possui energia suficiente para remover elétrons de átomos, enquanto a não ionizante não tem essa capacidade.",
+            "Radiação ionizante se propaga mais lentamente que a não ionizante.",
+            "Radiação não ionizante é mais rápida do que a ionizante.",
+            "Radiação ionizante é visível a olho nu, enquanto a não ionizante não é."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 80,
+          "explicacao": "A radiação ionizante tem energia suficiente para ionizar átomos, enquanto a não ionizante não é capaz de realizar esse processo."
+        },
+        {
+          "enunciado": "Qual é o principal uso das micro-ondas?",
+          "opcoes": [
+            "Aquecimento de alimentos e comunicação via satélite.",
+            "Análise de materiais na indústria.",
+            "Transmissão de sinais de rádio.",
+            "Geração de energia elétrica em usinas."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As micro-ondas são usadas para aquecer alimentos e para comunicação via satélites e redes de comunicação."
+        },
+        {
+          "enunciado": "Em que parte do espectro eletromagnético estão as ondas usadas por televisores e celulares?",
+          "opcoes": [
+            "Ondas de rádio e micro-ondas.",
+            "Raios X e ultravioleta.",
+            "Luz visível e infravermelho.",
+            "Raios gama e radiação cósmica."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Televisores e celulares usam ondas de rádio e micro-ondas para a transmissão de sinais e dados."
+        },
+        {
+          "enunciado": "O que caracteriza as ondas gama?",
+          "opcoes": [
+            "São ondas eletromagnéticas com a maior frequência e a maior energia.",
+            "São ondas de baixa frequência e alta capacidade de penetração.",
+            "São ondas que não podem atravessar o espaço.",
+            "São ondas usadas em micro-ondas e para aquecer alimentos."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 70,
+          "explicacao": "As ondas gama têm a maior frequência e, consequentemente, a maior energia no espectro eletromagnético."
+        },
+        {
+          "enunciado": "Qual é a principal diferença entre luz visível e radiação infravermelha?",
+          "opcoes": [
+            "Luz visível tem maior frequência e energia que a radiação infravermelha.",
+            "Radiação infravermelha é mais energética que a luz visível.",
+            "Luz visível é usada para aquecer alimentos, enquanto a infravermelha é para comunicação.",
+            "Radiação infravermelha é visível ao olho humano, enquanto a luz visível não é."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A luz visível possui maior frequência e energia comparada à radiação infravermelha, que é usada em dispositivos de aquecimento."
+        },
+        {
+          "enunciado": "Qual é o efeito da radiação ultravioleta sobre a pele humana?",
+          "opcoes": [
+            "Pode causar queimaduras solares e aumentar o risco de câncer de pele.",
+            "Melhora a produção de colágeno e mantém a pele saudável.",
+            "Não tem efeitos, pois é absorvida pela camada de ozônio.",
+            "É benéfica para a vitamina D, mas não tem outros efeitos."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 70,
+          "explicacao": "A radiação UV pode causar danos à pele, como queimaduras solares e aumento do risco de câncer de pele devido à sua capacidade de ionizar células."
+        }
+      ]
     },
     {
-      "enunciado": "Como as micro-ondas são usadas no cotidiano?",
-      "opcoes": [
-        "Para aquecer alimentos em fornos de micro-ondas.",
-        "Para gerar imagens de raios X.",
-        "Para comunicação via satélite.",
-        "Para detecção de movimento."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "As micro-ondas são utilizadas em fornos para aquecer alimentos, pois suas frequências são facilmente absorvidas pela água e gordura."
+      "nome": "O Espectro Eletromagnético",
+      "icone": "📡",
+      "perguntas": [
+        {
+          "enunciado": "O que é o espectro eletromagnético?",
+          "opcoes": [
+            "É o conjunto de todas as ondas eletromagnéticas, organizadas por frequência e comprimento de onda.",
+            "É o espectro de luz visível que o olho humano pode perceber.",
+            "É a radiação que atravessa materiais sólidos.",
+            "É uma forma de radiação que se propaga somente em meios materiais."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O espectro eletromagnético inclui todas as ondas eletromagnéticas, que variam em frequência e comprimento de onda, desde ondas de rádio até raios gama."
+        },
+        {
+          "enunciado": "Quais são os tipos de ondas eletromagnéticas no espectro?",
+          "opcoes": [
+            "Ondas de rádio, micro-ondas, infravermelho, luz visível, ultravioleta, raios X e raios gama.",
+            "Ondas sonoras, micro-ondas, ultravioleta, luz visível, raios X e rádio.",
+            "Raios cósmicos, luz visível, micro-ondas e ondas mecânicas.",
+            "Som, luz visível, infravermelho e raios gama."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O espectro eletromagnético é composto por várias categorias de ondas, que incluem desde as de rádio, micro-ondas, até os raios gama, com diferentes comprimentos de onda e frequências."
+        },
+        {
+          "enunciado": "Qual é a característica principal das ondas do espectro eletromagnético?",
+          "opcoes": [
+            "Elas têm diferentes comprimentos de onda e frequências.",
+            "Elas são todas visíveis a olho nu.",
+            "Elas só se propagam em líquidos.",
+            "Elas necessitam de um meio material para se propagar."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "As ondas eletromagnéticas variam em comprimento de onda e frequência, o que determina suas diferentes propriedades e aplicações, como na comunicação ou no diagnóstico médico."
+        },
+        {
+          "enunciado": "Qual é a ordem crescente das ondas do espectro eletromagnético em termos de comprimento de onda?",
+          "opcoes": [
+            "Raios gama, raios X, ultravioleta, luz visível, infravermelho, micro-ondas, ondas de rádio.",
+            "Ondas de rádio, micro-ondas, luz visível, infravermelho, ultravioleta, raios X, raios gama.",
+            "Micro-ondas, ondas de rádio, raios X, infravermelho, luz visível, raios gama, ultravioleta.",
+            "Luz visível, micro-ondas, raios X, infravermelho, ondas de rádio, raios gama, ultravioleta."
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "As ondas de rádio têm o maior comprimento de onda, enquanto os raios gama possuem o menor comprimento de onda, sendo os mais energéticos."
+        },
+        {
+          "enunciado": "O que distingue as ondas de rádio das micro-ondas?",
+          "opcoes": [
+            "As micro-ondas têm uma frequência maior e comprimento de onda menor do que as ondas de rádio.",
+            "As ondas de rádio têm maior energia que as micro-ondas.",
+            "As micro-ondas não podem ser usadas para comunicação, mas as ondas de rádio podem.",
+            "Ambas têm o mesmo comprimento de onda."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As micro-ondas têm maior frequência e menor comprimento de onda em comparação com as ondas de rádio. Isso as torna mais adequadas para certas aplicações, como radar e aquecimento de alimentos."
+        },
+
+        {
+          "enunciado": "O que é a luz visível no espectro eletromagnético?",
+          "opcoes": [
+            "São as ondas que o olho humano consegue perceber.",
+            "É a radiação que se propaga somente em materiais sólidos.",
+            "É uma onda eletromagnética de altíssima frequência.",
+            "São ondas invisíveis ao olho humano."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A luz visível faz parte do espectro eletromagnético e é a faixa de radiação que nossos olhos conseguem perceber, com cores variando de vermelho a violeta."
+        },
+        {
+          "enunciado": "Qual das afirmações é verdadeira sobre os raios X?",
+          "opcoes": [
+            "Eles têm uma frequência maior e um comprimento de onda menor do que a luz visível.",
+            "Eles têm um comprimento de onda maior que as micro-ondas.",
+            "Eles podem atravessar o corpo humano, sendo usados em exames médicos.",
+            "São mais lentos que as ondas de rádio."
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "Os raios X possuem alta frequência e podem atravessar o corpo humano, sendo utilizados em imagens médicas para detectar fraturas e outros problemas."
+        },
+        {
+          "enunciado": "O que é a frequência das ondas eletromagnéticas?",
+          "opcoes": [
+            "É o número de ondas que passam por um ponto em um segundo.",
+            "É a distância entre o pico de uma onda e o pico da próxima.",
+            "É o tempo que uma onda leva para percorrer um ciclo completo.",
+            "É a energia que uma onda carrega."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A frequência é a quantidade de ciclos que uma onda completa em um segundo, e é medida em Hertz (Hz). Quanto maior a frequência, maior a energia da onda."
+        },
+        {
+          "enunciado": "Como as micro-ondas são usadas no cotidiano?",
+          "opcoes": [
+            "Para aquecer alimentos em fornos de micro-ondas.",
+            "Para gerar imagens de raios X.",
+            "Para comunicação via satélite.",
+            "Para detecção de movimento."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As micro-ondas são utilizadas em fornos para aquecer alimentos, pois suas frequências são facilmente absorvidas pela água e gordura."
+        },
+        {
+          "enunciado": "Qual é a aplicação dos raios gama?",
+          "opcoes": [
+            "Tratamento de câncer por radioterapia.",
+            "Comunicação via satélite.",
+            "Aquecer alimentos.",
+            "Detecção de objetos a grandes distâncias."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "Os raios gama são usados em radioterapia para destruir células cancerígenas, devido à sua alta energia."
+        },
+        {
+          "enunciado": "O que caracteriza as ondas de rádio?",
+          "opcoes": [
+            "São ondas com comprimento de onda muito longo e baixa frequência.",
+            "São ondas que viajam apenas em materiais sólidos.",
+            "São mais energéticas que os raios X.",
+            "Têm comprimento de onda muito curto e alta frequência."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As ondas de rádio têm comprimento de onda longo e baixa frequência, sendo utilizadas para transmissão de rádio, televisão e comunicação sem fio."
+        },
+        {
+          "enunciado": "O que ocorre com o comprimento de onda quando a frequência de uma onda eletromagnética aumenta?",
+          "opcoes": [
+            "O comprimento de onda diminui.",
+            "O comprimento de onda aumenta.",
+            "O comprimento de onda permanece o mesmo.",
+            "A onda se torna mais fraca."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "Quando a frequência de uma onda aumenta, o comprimento de onda diminui, o que implica que a onda carrega mais energia."
+        },
+        {
+          "enunciado": "Qual é a principal diferença entre as ondas longitudinais e transversais?",
+          "opcoes": [
+            "As ondas longitudinais movem-se paralelamente à direção da propagação, enquanto as transversais movem-se perpendicularmente.",
+            "As ondas longitudinais têm maior frequência do que as transversais.",
+            "As ondas longitudinais não transmitem energia.",
+            "As ondas transversais são mais lentas do que as longitudinais."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "As ondas longitudinais se movem na mesma direção da propagação, enquanto as transversais se movem perpendicularmente a essa direção."
+        },
+        {
+          "enunciado": "Qual é a relação entre a energia e a frequência de uma onda eletromagnética?",
+          "opcoes": [
+            "Quanto maior a frequência, maior a energia.",
+            "Quanto menor a frequência, maior a energia.",
+            "A energia e a frequência não estão relacionadas.",
+            "A energia depende apenas do comprimento de onda."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "A energia de uma onda é diretamente proporcional à sua frequência. Ou seja, quanto maior a frequência, maior a energia da onda."
+        },
+        {
+          "enunciado": "Qual é a aplicação das ondas ultravioleta?",
+          "opcoes": [
+            "São usadas para esterilização e desinfecção.",
+            "São usadas para aquecer alimentos.",
+            "São usadas para comunicação por satélite.",
+            "São usadas para produzir energia elétrica."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "As ondas ultravioleta têm propriedades germicidas, sendo usadas em processos de esterilização e desinfecção, além de serem absorvidas pela pele para produção de vitamina D."
+        },
+        {
+          "enunciado": "O que é o comprimento de onda?",
+          "opcoes": [
+            "É a distância entre dois picos consecutivos de uma onda.",
+            "É a velocidade com que a onda se propaga.",
+            "É a quantidade de ciclos por segundo.",
+            "É a energia transmitida pela onda."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O comprimento de onda é a distância entre dois picos consecutivos de uma onda, sendo inversamente proporcional à frequência."
+        },
+        {
+          "enunciado": "Qual é a velocidade da luz no vácuo?",
+          "opcoes": [
+            "3,0 x 10^8 m/s.",
+            "3,0 x 10^6 m/s.",
+            "1,0 x 10^6 m/s.",
+            "3,0 x 10^10 m/s."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 30,
+          "explicacao": "A velocidade da luz no vácuo é aproximadamente 3,0 x 10^8 metros por segundo."
+        },
+        {
+          "enunciado": "As micro-ondas são usadas em:",
+          "opcoes": [
+            "Fornos de micro-ondas e radares.",
+            "Radioterapia e esterilização de instrumentos.",
+            "Transmissões de sinais de TV e rádio.",
+            "Detecção de ondas de rádio."
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As micro-ondas são amplamente usadas em fornos para aquecer alimentos e em radares para detecção de objetos."
+        },
+        {
+          "enunciado": "O que é a radiação de corpo negro?",
+          "opcoes": [
+            "É a radiação emitida por qualquer objeto que absorva toda a radiação que incide sobre ele.",
+            "É a radiação emitida apenas pelos raios X.",
+            "É a radiação que não pode ser detectada pelos instrumentos modernos.",
+            "É a radiação que se propaga exclusivamente através de campos magnéticos."
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 60,
+          "explicacao": "A radiação de corpo negro é a radiação emitida por um objeto ideal que absorve toda a radiação que incide sobre ele e emite radiação em todas as frequências."
+        }
+      ]
     },
     {
-      "enunciado": "Qual é a aplicação dos raios gama?",
-      "opcoes": [
-        "Tratamento de câncer por radioterapia.",
-        "Comunicação via satélite.",
-        "Aquecer alimentos.",
-        "Detecção de objetos a grandes distâncias."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "Os raios gama são usados em radioterapia para destruir células cancerígenas, devido à sua alta energia."
+      "nome": "FÍSICA PRÉ-QUÂNTICA:\nEFEITO FOTOELÉTRICO, RADIAÇÃO DO CORPO NEGRO E EFEITO COMPTON",
+      "icone": "📡",
+      "perguntas": [
+        {
+          "enunciado": "O que é um corpo negro?",
+          "opcoes": [
+            "Um objeto que reflete toda a radiação que recebe",
+            "Um objeto teórico que absorve toda a radiação e a emite conforme a temperatura",
+            "Um material que só emite luz visível",
+            "Um corpo que emite radiação apenas no ultravioleta"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Um corpo negro é um objeto ideal que absorve toda a radiação incidente e, quando aquecido, emite radiação com espectro dependente apenas de sua temperatura."
+        },
+        {
+          "enunciado": "Qual problema da física clássica é conhecido como 'catástrofe do ultravioleta'?",
+          "opcoes": [
+            "Previsão de energia infinita em altas frequências para um corpo negro",
+            "Impossibilidade de explicar a refração da luz",
+            "Falha ao descrever o movimento dos elétrons nos átomos",
+            "Incapacidade de prever o ponto de fusão de metais"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A catástrofe do ultravioleta é a previsão clássica de que a radiação emitida por um corpo negro tenderia ao infinito em frequências altas, o que não ocorre experimentalmente."
+        },
+        {
+          "enunciado": "Quem propôs a solução quântica para o problema da radiação do corpo negro?",
+          "opcoes": [
+            "Albert Einstein",
+            "Max Planck",
+            "Arthur Compton",
+            "James Maxwell"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Em 1900, Max Planck introduziu a ideia de quantização da energia para resolver a discrepância entre teoria clássica e os dados experimentais do corpo negro."
+        },
+        {
+          "enunciado": "Qual a fórmula que relaciona energia (E) e frequência (f) de um fóton?",
+          "opcoes": ["E = m·c²", "E = h·f", "E = k·T", "E = p·λ"],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A relação E = h·f expressa a energia de um fóton, onde h é a constante de Planck e f a frequência da radiação."
+        },
+        {
+          "enunciado": "O que é efeito fotoelétrico?",
+          "opcoes": [
+            "Emissão de elétrons de um metal quando exposto à luz de frequência suficientemente alta",
+            "Espalhamento de fótons por elétrons livres",
+            "Emissão de radiação infravermelha por um corpo quente",
+            "Reflexão total interna da luz em um meio óptico"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O efeito fotoelétrico ocorre quando elétrons são ejetados de um metal devido à incidência de luz com frequência acima de um valor limite."
+        },
+        {
+          "enunciado": "Quem observou pela primeira vez faíscas elétricas induzidas por luz ultravioleta em metais?",
+          "opcoes": ["Lenard", "Hertz", "Planck", "Compton"],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Em 1887, Heinrich Hertz notou que luz ultravioleta podia induzir faíscas elétricas ao incidir sobre superfícies metálicas."
+        },
+        {
+          "enunciado": "O que Lenard descobriu sobre o efeito fotoelétrico?",
+          "opcoes": [
+            "Que a intensidade da luz determina a energia dos elétrons ejetados",
+            "Que a frequência da luz é o fator determinante para a emissão de elétrons",
+            "Que o tempo de exposição é o principal fator",
+            "Que o efeito ocorre apenas em metais alcalinos"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Philipp Lenard demonstrou que somente a frequência da luz, não a intensidade, determina se elétrons são emitidos de um metal."
+        },
+        {
+          "enunciado": "Por que a explicação clássica do efeito fotoelétrico falhava?",
+          "opcoes": [
+            "Previa emissão de elétrons mesmo sem luz",
+            "Não considerava a massa dos elétrons",
+            "Sugeriria aumento infinito de energia com frequência alta",
+            "Não previa dependência de frequência mínima para emissão"
+          ],
+          "correta": 3,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A teoria ondulatória clássica não previa a existência de frequência mínima para ejetar elétrons, o que contradizia os experimentos."
+        },
+        {
+          "enunciado": "Como Einstein explicou o efeito fotoelétrico?",
+          "opcoes": [
+            "Usando a teoria da relatividade restrita",
+            "Tratando a luz como ondas contínuas",
+            "Introduzindo o conceito de fóton com energia E = h·f",
+            "Aplicando a mecânica newtoniana aos elétrons"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Einstein propôs que a luz é composta de fótons, cada um com energia E = h·f, explicando assim o comportamento observado no efeito fotoelétrico."
+        },
+        {
+          "enunciado": "O que é a função trabalho de um material?",
+          "opcoes": [
+            "Energia mínima para remover um elétron da superfície do material",
+            "Energia máxima emitida pelo material quando aquecido",
+            "Frequência mínima da luz que o material pode refletir",
+            "Quantidade de fótons absorvidos por segundo"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A função trabalho é a quantidade de energia que um fóton deve fornecer para liberar um elétron do material."
+        },
+        {
+          "enunciado": "O que caracteriza a emissão instantânea de elétrons no efeito fotoelétrico?",
+          "opcoes": [
+            "Acúmulo de energia antes da emissão",
+            "Dependência linear da intensidade da luz",
+            "Liberação imediata quando f ≥ f₀",
+            "Retardo de milissegundos entre luz e emissão"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Os elétrons são emitidos imediatamente se a frequência da luz for igual ou maior que a frequência de corte, sem necessidade de acumular energia."
+        },
+        {
+          "enunciado": "Qual propriedade NÃO se aplica aos fótons?",
+          "opcoes": [
+            "Não têm massa de repouso",
+            "Transportam momento linear",
+            "Movem-se à velocidade da luz no vácuo",
+            "Possuem carga elétrica"
+          ],
+          "correta": 3,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Os fótons são partículas sem massa de repouso e sem carga elétrica, mas transportam energia e momento linear."
+        },
+        {
+          "enunciado": "Qual fenômeno prefigura o caráter corpuscular da luz além do efeito fotoelétrico?",
+          "opcoes": [
+            "Interferência",
+            "Difração",
+            "Efeito Compton",
+            "Polarização"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "O efeito Compton mostrou que a luz, ao colidir com elétrons, comporta-se como partícula, sofrendo mudança de comprimento de onda."
+        },
+        {
+          "enunciado": "O que descreve o efeito Compton?",
+          "opcoes": [
+            "Emissão de elétrons por radiação ultravioleta",
+            "Absorção total de radiação por um corpo negro",
+            "Espalhamento de raios X com aumento de comprimento de onda",
+            "Interferência de duas fontes luminosas"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "No efeito Compton, raios X espalhados por elétrons livres têm comprimento de onda maior que o incidente."
+        },
+        {
+          "enunciado": "Quem explicou o efeito Compton e recebeu o Nobel por isso?",
+          "opcoes": [
+            "Max Planck",
+            "Albert Einstein",
+            "Arthur Compton",
+            "Niels Bohr"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Arthur H. Compton explicou o espalhamento inelástico de raios X por elétrons livres em 1923 e ganhou o Nobel em 1927."
+        },
+        {
+          "enunciado": "Qual é a expressão para o deslocamento do comprimento de onda no efeito Compton (Δλ)?",
+          "opcoes": [
+            "Δλ = h / (mₑ·c)",
+            "Δλ = (h / mₑ·c) (1 – cos θ)",
+            "Δλ = h·f / c",
+            "Δλ = λ′ – λ₀ = h·c / E"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "A fórmula Δλ = (h / mₑ·c)(1 – cos θ) descreve a variação de comprimento de onda em função do ângulo de espalhamento."
+        },
+        {
+          "enunciado": "No efeito Compton, o que representa θ?",
+          "opcoes": [
+            "Frequência do fóton incidente",
+            "Ângulo entre fóton espalhado e direção incidente",
+            "Tempo de interação fóton-elétron",
+            "Diferença de energia antes e depois"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "θ é o ângulo entre a direção original do fóton incidente e a direção do fóton espalhado após a colisão."
+        },
+        {
+          "enunciado": "Por que o efeito Compton não pode ser explicado pela teoria ondulatória clássica?",
+          "opcoes": [
+            "Porque prevê aumento de frequência em vez de diminuição",
+            "Porque não considera transferência de momento",
+            "Porque só vale para luz visível",
+            "Porque não envolve elétrons"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A teoria clássica de ondas não prevê transferência de momento que altere o comprimento de onda da radiação espalhada."
+        },
+        {
+          "enunciado": "O que é quantização da energia?",
+          "opcoes": [
+            "Energia que varia continuamente com a temperatura",
+            "Energia liberada em pacotes discretos chamados quanta",
+            "Energia proporcional ao quadrado da frequência",
+            "Energia que só existe em sistemas clássicos"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Quantização significa que a energia só pode ser emitida ou absorvida em valores discretos (quanta)."
+        },
+        {
+          "enunciado": "Qual a importância histórica dos fenômenos pré-quânticos?",
+          "opcoes": [
+            "Confirmaram todas as leis da física clássica",
+            "Mostraram limitações da física clássica e deram origem à quântica",
+            "Substituíram a relatividade",
+            "Forneceram apenas curiosidades sem aplicação prática"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Radiação do corpo negro, efeito fotoelétrico e Compton revelaram falhas na física clássica e impulsionaram o desenvolvimento da mecânica quântica."
+        },
+        {
+          "enunciado": "Qual fenômeno explica o funcionamento de células solares?",
+          "opcoes": [
+            "Radiação do corpo negro",
+            "Efeito Compton",
+            "Efeito fotoelétrico",
+            "Catástrofe do ultravioleta"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Células fotovoltaicas usam o efeito fotoelétrico para converter luz em corrente elétrica."
+        },
+        {
+          "enunciado": "Qual fenômeno quântico está por trás de lasers?",
+          "opcoes": [
+            "Emissão estimulada de fótons",
+            "Efeito Compton",
+            "Catástrofe do ultravioleta",
+            "Espalhamento Rayleigh"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Lasers operam por emissão estimulada de fótons, um processo quântico relacionado à existência de níveis discretos de energia."
+        },
+        {
+          "enunciado": "Qual lei descreve a mudança do pico de emissão de um corpo negro com a temperatura?",
+          "opcoes": [
+            "Lei de Stefan–Boltzmann",
+            "Lei de Wien",
+            "Lei de Boyle–Mariotte",
+            "Lei de Planck"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A lei de Wien indica que o comprimento de onda do pico de emissão de um corpo negro é inversamente proporcional à temperatura."
+        },
+        {
+          "enunciado": "O que prevê a Lei de Stefan–Boltzmann?",
+          "opcoes": [
+            "Energia total emitida por um corpo negro é proporcional a T⁴",
+            "Comprimento de onda do pico é inversamente proporcional à T",
+            "Energia de um fóton é h·f",
+            "Frequência de corte no fotoelétrico"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A lei de Stefan–Boltzmann afirma que a potência total emitida por unidade de área de um corpo negro é proporcional à quarta potência de sua temperatura."
+        },
+        {
+          "enunciado": "Como a física pré-quântica influenciou tecnologias modernas?",
+          "opcoes": [
+            "Apenas melhorou a mecânica newtoniana",
+            "Permitindo funções de transistores, lasers e células solares",
+            "Substituiu completamente a termodinâmica",
+            "Apenas teve impacto teórico, sem aplicações"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Os fenômenos pré-quânticos fundamentam dispositivos como transistores, lasers e células solares, essenciais na tecnologia atual."
+        },
+        {
+          "enunciado": "Compare energia contínua (clássica) e energia quantizada (quântica).",
+          "opcoes": [
+            "A contínua permite apenas valores inteiros, a quantizada é infinita",
+            "A contínua varia sem restrições, a quantizada ocorre em pacotes discretos",
+            "Ambas são idênticas em sistemas macroscópicos",
+            "Nenhuma relação com radiação do corpo negro"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Na visão clássica a energia varia continuamente; na quântica, energia só é emitida ou absorvida em pacotes (quanta)."
+        },
+        {
+          "enunciado": "Por que a descoberta do fóton foi essencial para a física moderna?",
+          "opcoes": [
+            "Porque substituiu o elétron como partícula fundamental",
+            "Porque unificou eletromagnetismo e gravitação",
+            "Porque comprovou a dualidade onda-partícula da luz",
+            "Porque permitiu medir a velocidade da luz"
+          ],
+          "correta": 2,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "O conceito de fóton mostrou que a luz tem natureza dupla, comportando-se como onda e partícula, fundamento da mecânica quântica."
+        },
+        {
+          "enunciado": "Qual experimento demonstra interferência, revelando o caráter ondulatório da luz?",
+          "opcoes": [
+            "Dupla fenda de Young",
+            "Fotoelétrico de Einstein",
+            "Efeito Compton",
+            "Catástrofe do ultravioleta"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O experimento de Young mostrou padrões de interferência que só podem ser explicados considerando a luz como onda."
+        },
+        {
+          "enunciado": "O que a curva espectral de Planck representa?",
+          "opcoes": [
+            "Distribuição de energia de um corpo negro em função da frequência",
+            "Variação da massa de um corpo com a temperatura",
+            "Relação entre comprimento de onda e intensidade sonora",
+            "Mudança de energia potencial em um campo gravitacional"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A curva espectral de Planck mostra como a energia emitida por um corpo negro se distribui ao longo de diferentes frequências."
+        },
+        {
+          "enunciado": "Como o efeito fotoelétrico contribuiu para o Prêmio Nobel de Einstein?",
+          "opcoes": [
+            "Por confirmar a teoria da relatividade geral",
+            "Por explicar o movimento browniano",
+            "Por fornecer evidências da quantização da luz",
+            "Por descobrir o elétron"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Einstein recebeu o Nobel em 1921 por explicar o efeito fotoelétrico, demonstrando o caráter quantizado da luz."
+        },
+        {
+          "enunciado": "Qual fenômeno quântico foi evidenciado pela fórmula E = h·f?",
+          "opcoes": [
+            "Efeito Compton",
+            "Radiação do corpo negro",
+            "Emissão estimulada de fótons",
+            "Catástrofe do ultravioleta"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "A fórmula de Planck E = h·f surgiu para descrever a distribuição de energia emitida por um corpo negro."
+        },
+        {
+          "enunciado": "O que demonstra a dualidade onda-partícula?",
+          "opcoes": [
+            "Que fótons têm massa de repouso",
+            "Que luz pode exibir padrões de interferência e espalhamento quântico",
+            "Que elétrons não têm momento linear",
+            "Que a gravidade afeta apenas matéria"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A dualidade onda-partícula significa que a luz pode se comportar como onda (interferência) e partícula (efeito fotoelétrico, Compton)."
+        },
+        {
+          "enunciado": "Por que a radiação de corpo negro é um espectro contínuo?",
+          "opcoes": [
+            "Porque há energias quantizadas fixas",
+            "Porque cada átomo emite apenas uma frequência",
+            "Porque a distribuição de energia cobre todas as frequências de forma contínua",
+            "Porque corpos negros refletem toda a luz"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A radiação emitida por um corpo negro preenche continuamente o espectro, variando com a temperatura e cobrindo todas as frequências."
+        },
+        {
+          "enunciado": "Como os estudos pré-quânticos mudaram nossa compreensão da matéria?",
+          "opcoes": [
+            "Mostrando que energia e matéria são contínuas",
+            "Revelando que certas propriedades só emergem em escalas microscópicas",
+            "Confirmando todas as previsões da física newtoniana",
+            "Mostrando que elétrons são imutáveis"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Os fenômenos pré-quânticos mostraram que em escalas microscópicas a energia não é contínua e há comportamento corpuscular da luz."
+        }
+      ]
     },
     {
-      "enunciado": "O que caracteriza as ondas de rádio?",
-      "opcoes": [
-        "São ondas com comprimento de onda muito longo e baixa frequência.",
-        "São ondas que viajam apenas em materiais sólidos.",
-        "São mais energéticas que os raios X.",
-        "Têm comprimento de onda muito curto e alta frequência."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "As ondas de rádio têm comprimento de onda longo e baixa frequência, sendo utilizadas para transmissão de rádio, televisão e comunicação sem fio."
+      "nome": "O FOTÃO: DUALIDADE ONDA-PARTÍCULA, PROPRIEDADES E APLICAÇÕES",
+      "icone": "💡",
+      "perguntas": [
+        {
+          "enunciado": "O que é um fóton?",
+          "opcoes": [
+            "Uma partícula com massa de repouso igual a zero que carrega energia e momento",
+            "Uma onda eletromagnética contínua",
+            "Um elétron excitado em átomo",
+            "Uma partícula com carga positiva"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O fóton é o quantum do campo eletromagnético, sem massa de repouso e sem carga, que transporta energia E = h·ν e momento p = h/λ."
+        },
+        {
+          "enunciado": "Qual relação expressa a energia de um fóton?",
+          "opcoes": ["E = m·c²", "E = h·ν", "E = k·T", "E = p·c"],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Einstein mostrou que cada fóton possui energia proporcional à frequência da luz: E = h·ν, onde h é a constante de Planck."
+        },
+        {
+          "enunciado": "Quem introduziu o conceito de quantum de energia para explicar a radiação do corpo negro?",
+          "opcoes": [
+            "Albert Einstein",
+            "Max Planck",
+            "Arthur Compton",
+            "Isaac Newton"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Em 1900, Max Planck propôs que a energia trocada entre matéria e radiação vinha em pacotes discretos (quanta) para ajustar o espectro do corpo negro."
+        },
+        {
+          "enunciado": "Como Einstein interpretou o quantum de Planck em 1905?",
+          "opcoes": [
+            "Como uma simples ferramenta matemática",
+            "Como partículas reais de luz chamadas fótons",
+            "Como ondas estacionárias",
+            "Como vibrações no éter"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Einstein propôs que esses quanta eram partículas de luz — fótons — capazes de transferir energia de modo discreto no efeito fotoelétrico."
+        },
+        {
+          "enunciado": "Qual experimento demonstrou o caráter ondulatório da luz?",
+          "opcoes": [
+            "Efeito fotoelétrico",
+            "Experimento de Young de dupla fenda",
+            "Efeito Compton",
+            "Radiografia de raios X"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O experimento de Thomas Young em 1802 mostrou padrões de interferência típicos de ondas ao passar luz por duas fendas."
+        },
+        {
+          "enunciado": "O que o efeito fotoelétrico prova sobre a luz?",
+          "opcoes": [
+            "Que ela é apenas onda",
+            "Que a energia é emitida em pacotes discretos (fótons)",
+            "Que elétrons têm massa variável",
+            "Que a luz viaja mais rápido em metais"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "No efeito fotoelétrico, elétrons são ejetados de um metal apenas se a frequência da luz exceder um limite, indicando quantização da energia."
+        },
+        {
+          "enunciado": "Qual é a definição de função trabalho (Φ) em fotoemissão?",
+          "opcoes": [
+            "Energia máxima dos elétrons ejetados",
+            "Energia mínima necessária para remover um elétron da superfície",
+            "Frequência mínima de luz refletida",
+            "Momento linear do fóton incidente"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A função trabalho é a energia mínima que o fóton deve transferir para liberar um elétron de um metal."
+        },
+        {
+          "enunciado": "Por que a intensidade da luz não altera a energia dos elétrons fotoejetados?",
+          "opcoes": [
+            "Porque a intensidade depende da frequência",
+            "Porque cada fóton transfere energia h·ν, independente do número de fótons",
+            "Porque elétrons não reagem à intensidade",
+            "Porque função trabalho varia com intensidade"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A energia máxima dos elétrons depende da frequência de cada fóton (E = h·ν), não da intensidade (número de fótons)."
+        },
+        {
+          "enunciado": "Qual fenômeno ilustra a transferência de momento de fótons a elétrons?",
+          "opcoes": [
+            "Difração",
+            "Efeito Compton",
+            "Interferência",
+            "Polarização"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "No efeito Compton, fótons de raios X transferem momento a elétrons livres, aumentando o comprimento de onda da radiação espalhada."
+        },
+        {
+          "enunciado": "Quem recebeu o Nobel por explicar o efeito Compton?",
+          "opcoes": [
+            "Max Planck",
+            "Niels Bohr",
+            "Arthur H. Compton",
+            "Ernest Rutherford"
+          ],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Arthur H. Compton ganhou o Nobel de Física em 1927 por demonstrar o espalhamento inelástico de fótons em elétrons."
+        },
+        {
+          "enunciado": "Qual a fórmula do deslocamento de comprimento de onda no efeito Compton?",
+          "opcoes": [
+            "Δλ = h / (mₑ·c)",
+            "Δλ = (h / mₑ·c)(1 – cos θ)",
+            "Δλ = h·ν / c",
+            "Δλ = λ₂ – λ₁ = p·c"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "A variação de comprimento de onda é Δλ = (h / mₑ·c)(1 – cos θ), dependendo do ângulo θ entre fóton incident e espalhado."
+        },
+        {
+          "enunciado": "O que representa o spin 1 do fóton?",
+          "opcoes": [
+            "Dois estados de helicidade (polarização circular)",
+            "Três estados de polarização",
+            "Massa de repouso não nula",
+            "Carga elétrica variável"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Como partícula sem massa, o fóton exibe apenas dois estados de helicidade, correspondendo à polarização circular direita ou esquerda."
+        },
+        {
+          "enunciado": "Por que o fóton não tem massa de repouso?",
+          "opcoes": [
+            "Porque só existe dentro de átomos",
+            "Para se propagar à velocidade da luz no vácuo",
+            "Porque não transporta energia",
+            "Porque tem carga elétrica"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Partículas com massa de repouso não podem atingir c; o fóton, por viajar sempre a c, deve ter massa de repouso zero."
+        },
+        {
+          "enunciado": "Qual tecnologia usa o efeito fotoelétrico para converter luz em eletricidade?",
+          "opcoes": ["Laser", "Célula fotovoltaica", "Interferômetro", "LIDAR"],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Células solares fotovoltaicas usam o efeito fotoelétrico em semicondutores para gerar corrente elétrica a partir de luz."
+        },
+        {
+          "enunciado": "Como a polarização do fóton é usada em criptografia quântica?",
+          "opcoes": [
+            "Para acelerar fótons",
+            "Para codificar bits em estados de polarização ortogonais",
+            "Para alterar massa de repouso",
+            "Para criar interferência destrutiva"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Protocolos como BB84 codificam informações em polarizações lineares ou circulares de fótons, garantindo segurança quântica."
+        },
+        {
+          "enunciado": "Qual lei relaciona a potência total emitida por um corpo negro à temperatura?",
+          "opcoes": [
+            "Lei de Wien",
+            "Lei de Stefan–Boltzmann",
+            "Lei de Planck",
+            "Lei de Boyle"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A lei de Stefan–Boltzmann afirma que a radiação total por área de um corpo negro é proporcional a T⁴."
+        },
+        {
+          "enunciado": "O que diz a lei de Wien sobre o pico espectral?",
+          "opcoes": [
+            "λₘₐₓ·T = constante",
+            "E = h·ν",
+            "p = h/λ",
+            "Δλ = (h / mₑ·c)(1 – cos θ)"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A lei de Wien estabelece que o comprimento de onda no qual a emissão de um corpo negro é máxima é inversamente proporcional à temperatura (λₘₐₓ = b/T)."
+        },
+        {
+          "enunciado": "Por que a radiação de corpo negro é contínua?",
+          "opcoes": [
+            "Porque emite só um comprimento de onda",
+            "Porque cobre todas as frequências de forma contínua conforme T",
+            "Porque fótons não seguem quantização",
+            "Porque só ocorre no vácuo"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "O espectro de corpo negro preenche continuamente todas as frequências, variando a intensidade conforme a temperatura."
+        },
+        {
+          "enunciado": "Qual é a estatística obedecida pelos fótons?",
+          "opcoes": [
+            "Fermi–Dirac",
+            "Bose–Einstein",
+            "Maxwell–Boltzmann",
+            "Gibbs"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Como bósons, os fótons seguem a estatística de Bose–Einstein, permitindo múltiplos fótons no mesmo estado quântico."
+        },
+        {
+          "enunciado": "O que é interferometria de Mach–Zehnder?",
+          "opcoes": [
+            "Técnica de espalhamento Compton",
+            "Experimento de dupla fenda com laser",
+            "Interferômetro que divide e recombina feixes de fótons",
+            "Tipo de célula solar"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "O interferômetro de Mach–Zehnder usa divisores de feixe para criar e recombinar caminhos ópticos, gerando padrões de interferência."
+        },
+        {
+          "enunciado": "Qual aplicação biomédica explora a polarização de fótons?",
+          "opcoes": [
+            "Tomografia por coerência óptica",
+            "Ressonância magnética",
+            "Ultrassom",
+            "Raio‑X"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A tomografia por coerência óptica (OCT) usa interferência de fótons polarizados para gerar imagens de alta resolução de tecidos."
+        },
+        {
+          "enunciado": "O que é conversão paramétrica espontânea?",
+          "opcoes": [
+            "Efeito fotoelétrico em semicondutores",
+            "Geração de pares de fótons em cristais não lineares",
+            "Espalhamento elástico de fótons",
+            "Absorção total em corpo negro"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Em cristais não lineares, um fóton de alta energia pode gerar dois fótons emaranhados de menor energia."
+        },
+        {
+          "enunciado": "Como fótons emaranhados são usados em metrologia?",
+          "opcoes": [
+            "Para medir massa de repouso",
+            "Para ultrapassar o limite de shot‑noise em medições de fase",
+            "Para refratar luz em fibra",
+            "Para resfriar átomos"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Estados emaranhados permitem medições de fase com precisão acima do limite quântico padrão, úteis em relógios ópticos."
+        },
+        {
+          "enunciado": "Por que o estudo do fóton é crucial para a computação quântica?",
+          "opcoes": [
+            "Porque fótons têm massa alta",
+            "Porque podem transportar qubits em longas distâncias",
+            "Porque seguem estatística de Fermi",
+            "Porque não interagem com matéria"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Fótons em estados quânticos de polarização ou fase são excelentes portadores de qubits em redes de comunicação quântica."
+        },
+        {
+          "enunciado": "Qual fenômeno confirma a natureza corpuscular e ondulatória da luz simultaneamente?",
+          "opcoes": [
+            "Efeito Compton",
+            "Espalhamento Rayleigh",
+            "Experimento de dupla fenda com fótons individuais",
+            "Catástrofe do ultravioleta"
+          ],
+          "correta": 2,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Disparando fótons individualmente em uma dupla fenda, observa‑se acumulação de padrão de interferência, revelando dualidade."
+        },
+        {
+          "enunciado": "Como os fótons são gerados em um laser?",
+          "opcoes": [
+            "Emissão espontânea apenas",
+            "Emissão estimulada a partir de átomos excitados",
+            "Efeito fotoelétrico em semicondutores",
+            "Espalhamento Compton"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Lasers operam por emissão estimulada: um fóton incidente induz um átomo excitado a emitir outro fóton em fase."
+        },
+        {
+          "enunciado": "Qual vantagem a fibra óptica oferece pelo uso de fótons?",
+          "opcoes": [
+            "Alta atenuação",
+            "Grande imunidade a interferências eletromagnéticas",
+            "Limitação de banda estreita",
+            "Necessidade de repetidores frequentes"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Fótons guiados por reflexão interna total em fibras sofrem pouca perda e não são afetados por sinais elétricos externos."
+        },
+        {
+          "enunciado": "O que caracteriza um corpo negro ideal?",
+          "opcoes": [
+            "Reflete toda radiação incidente",
+            "Absorve e reemite radiação conforme sua temperatura",
+            "Emite só luz visível",
+            "Transmite toda radiação"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Um corpo negro ideal absorve totalmente a radiação e emite espectro dependente apenas da temperatura."
+        },
+        {
+          "enunciado": "Qual instrumento usa fótons para mapeamento 3D por tempo de voo?",
+          "opcoes": [
+            "Microscópio eletrônico",
+            "LIDAR",
+            "Espectrômetro de massa",
+            "Osciloscópio"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "LIDAR mede o tempo de voo de pulsos de laser (fótons) refletidos para construir mapas tridimensionais."
+        },
+        {
+          "enunciado": "Qual propriedade do fóton é explorada em relógios ópticos de alta precisão?",
+          "opcoes": [
+            "Massa de repouso nula",
+            "Frequência de transição atômica estável",
+            "Carga elétrica",
+            "Spin variável"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Relógios ópticos usam frequências de transição atômica medidas por fótons de laser para alcançar precisão de 10⁻¹⁸ s."
+        }
+      ]
     },
     {
-      "enunciado": "O que ocorre com o comprimento de onda quando a frequência de uma onda eletromagnética aumenta?",
-      "opcoes": [
-        "O comprimento de onda diminui.",
-        "O comprimento de onda aumenta.",
-        "O comprimento de onda permanece o mesmo.",
-        "A onda se torna mais fraca."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "Quando a frequência de uma onda aumenta, o comprimento de onda diminui, o que implica que a onda carrega mais energia."
-    },
-    {
-      "enunciado": "Qual é a principal diferença entre as ondas longitudinais e transversais?",
-      "opcoes": [
-        "As ondas longitudinais movem-se paralelamente à direção da propagação, enquanto as transversais movem-se perpendicularmente.",
-        "As ondas longitudinais têm maior frequência do que as transversais.",
-        "As ondas longitudinais não transmitem energia.",
-        "As ondas transversais são mais lentas do que as longitudinais."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "As ondas longitudinais se movem na mesma direção da propagação, enquanto as transversais se movem perpendicularmente a essa direção."
-    },
-    {
-      "enunciado": "Qual é a relação entre a energia e a frequência de uma onda eletromagnética?",
-      "opcoes": [
-        "Quanto maior a frequência, maior a energia.",
-        "Quanto menor a frequência, maior a energia.",
-        "A energia e a frequência não estão relacionadas.",
-        "A energia depende apenas do comprimento de onda."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "A energia de uma onda é diretamente proporcional à sua frequência. Ou seja, quanto maior a frequência, maior a energia da onda."
-    },
-    {
-      "enunciado": "Qual é a aplicação das ondas ultravioleta?",
-      "opcoes": [
-        "São usadas para esterilização e desinfecção.",
-        "São usadas para aquecer alimentos.",
-        "São usadas para comunicação por satélite.",
-        "São usadas para produzir energia elétrica."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "As ondas ultravioleta têm propriedades germicidas, sendo usadas em processos de esterilização e desinfecção, além de serem absorvidas pela pele para produção de vitamina D."
-    },
-    {
-      "enunciado": "O que é o comprimento de onda?",
-      "opcoes": [
-        "É a distância entre dois picos consecutivos de uma onda.",
-        "É a velocidade com que a onda se propaga.",
-        "É a quantidade de ciclos por segundo.",
-        "É a energia transmitida pela onda."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "O comprimento de onda é a distância entre dois picos consecutivos de uma onda, sendo inversamente proporcional à frequência."
-    },
-    {
-      "enunciado": "Qual é a velocidade da luz no vácuo?",
-      "opcoes": [
-        "3,0 x 10^8 m/s.",
-        "3,0 x 10^6 m/s.",
-        "1,0 x 10^6 m/s.",
-        "3,0 x 10^10 m/s."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 30,
-      "explicacao": "A velocidade da luz no vácuo é aproximadamente 3,0 x 10^8 metros por segundo."
-    },
-    {
-      "enunciado": "As micro-ondas são usadas em:",
-      "opcoes": [
-        "Fornos de micro-ondas e radares.",
-        "Radioterapia e esterilização de instrumentos.",
-        "Transmissões de sinais de TV e rádio.",
-        "Detecção de ondas de rádio."
-      ],
-      "correta": 0,
-      "dificuldade": "Fácil",
-      "tempo": 60,
-      "explicacao": "As micro-ondas são amplamente usadas em fornos para aquecer alimentos e em radares para detecção de objetos."
-    },
-    {
-      "enunciado": "O que é a radiação de corpo negro?",
-      "opcoes": [
-        "É a radiação emitida por qualquer objeto que absorva toda a radiação que incide sobre ele.",
-        "É a radiação emitida apenas pelos raios X.",
-        "É a radiação que não pode ser detectada pelos instrumentos modernos.",
-        "É a radiação que se propaga exclusivamente através de campos magnéticos."
-      ],
-      "correta": 0,
-      "dificuldade": "Médio",
-      "tempo": 60,
-      "explicacao": "A radiação de corpo negro é a radiação emitida por um objeto ideal que absorve toda a radiação que incide sobre ele e emite radiação em todas as frequências."
+      "nome": "MODELOS ATÔMICOS E EXPERIMENTOS FUNDAMENTAIS",
+      "icone": "⚛️",
+      "perguntas": [
+        {
+          "enunciado": "Qual foi o principal problema do modelo atômico de Rutherford?",
+          "opcoes": [
+            "Não explicava as linhas espectrais discretas",
+            "Não previa o núcleo atômico",
+            "Não considerava a existência de elétrons",
+            "Não explicava a carga do núcleo"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O modelo de Rutherford não explicava por que os átomos emitiam apenas certas frequências de luz, resultando em linhas espectrais discretas."
+        },
+        {
+          "enunciado": "Quem propôs, em 1913, o primeiro modelo atômico baseado em postulados quânticos?",
+          "opcoes": [
+            "Albert Einstein",
+            "Niels Bohr",
+            "Max Planck",
+            "Ernest Rutherford"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Em 1913, Niels Bohr combinou ideias clássicas e quânticas para explicar as linhas espectrais do hidrogênio."
+        },
+        {
+          "enunciado": "Qual é o significado do número quântico principal n no modelo de Bohr?",
+          "opcoes": [
+            "Quantidade de prótons no núcleo",
+            "Índice da órbita eletrônica e nível de energia",
+            "Momento angular do elétron",
+            "Massa reduzida do elétron"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O número n indica a órbita permitida e está diretamente ligado à energia do elétron no átomo de Bohr."
+        },
+        {
+          "enunciado": "Qual fórmula dá o raio das órbitas permitidas no átomo de Bohr?",
+          "opcoes": [
+            "r_n = n·a₀",
+            "r_n = n²·a₀",
+            "r_n = a₀ / n",
+            "r_n = √n·a₀"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "O raio da órbita n é dado por r_n = n²·a₀, onde a₀ é o raio de Bohr para n=1."
+        },
+        {
+          "enunciado": "Quantos postulados formam o modelo de Bohr original?",
+          "opcoes": ["2", "3", "4", "5"],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Bohr estabeleceu quatro postulados que uniam mecânica clássica e quantização do momento angular."
+        },
+        {
+          "enunciado": "Qual é a definição de função trabalho (Φ) no contexto da fotoemissão atômica?",
+          "opcoes": [
+            "Energia mínima para excitar os elétrons internos",
+            "Energia para remover um elétron da superfície",
+            "Energia liberada na transição eletrônica",
+            "Energia máxima de ligação nuclear"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A função trabalho é a energia mínima que um elétron precisa receber para escapar da superfície do metal."
+        },
+        {
+          "enunciado": "Qual experimento comprovou a quantização de energia em átomos de mercúrio?",
+          "opcoes": [
+            "Experimento de Millikan",
+            "Experimento de Franck-Hertz",
+            "Experimento de Davisson-Germer",
+            "Experimento de Young"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Franck e Hertz mostraram picos de corrente periódicos a cada 4,9 eV, evidenciando níveis discretos de energia."
+        },
+        {
+          "enunciado": "Qual era o gás utilizado no tubo de descarga do experimento de Franck-Hertz?",
+          "opcoes": ["Hélio", "Argônio", "Mercúrio", "Neônio"],
+          "correta": 2,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "O tubo de Franck-Hertz continha vapor de mercúrio, cujos átomos absorviam energia de 4,9 eV."
+        },
+        {
+          "enunciado": "Em que ano Franck e Hertz realizaram seu experimento?",
+          "opcoes": ["1905", "1914", "1922", "1930"],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A experiência de Franck-Hertz foi conduzida em 1914, confirmando as previsões de Bohr."
+        },
+        {
+          "enunciado": "O que acontece com a corrente no coletor quando a voltagem atinge 4,9 eV no experimento de Franck-Hertz?",
+          "opcoes": [
+            "Aumenta abruptamente",
+            "Diminui abruptamente",
+            "Permanece constante",
+            "Oscila rapidamente"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Ao colidir inelasticamente a 4,9 eV, elétrons perdem energia e não chegam ao coletor, reduzindo a corrente."
+        },
+        {
+          "enunciado": "Qual fenômeno explica as raias espectrais do hidrogênio?",
+          "opcoes": [
+            "Transições eletrônicas entre níveis quantizados",
+            "Espalhamento elastico de elétrons",
+            "Radiação contínua do corpo negro",
+            "Efeito Compton"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "As linhas surgem quando elétrons saltam entre órbitas quantizadas emitindo ou absorvendo fótons de energia específica."
+        },
+        {
+          "enunciado": "Quem formulou empiricamente a lei que descreve as séries espectrais do hidrogênio?",
+          "opcoes": [
+            "Johann Balmer",
+            "James Franck",
+            "Max Planck",
+            "Ernest Rutherford"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Em 1885, Balmer achou a fórmula simples que relacionava comprimento de onda e número de série para hidrogênio."
+        },
+        {
+          "enunciado": "Qual constante aparece na fórmula de Balmer para o comprimento de onda λ_n?",
+          "opcoes": [
+            "Constante de Stefan–Boltzmann",
+            "Número de Rydberg",
+            "Constante de Planck",
+            "Constante de Coulomb"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A fórmula de Rydberg generaliza a de Balmer usando a constante RH, que vale ≈0,0010968 Å⁻¹."
+        },
+        {
+          "enunciado": "Qual série espectral corresponde ao ultravioleta no átomo de hidrogênio?",
+          "opcoes": ["Balmer", "Lyman", "Paschen", "Brackett"],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "A série de Lyman (n_f=1) está no ultravioleta, enquanto Balmer (n_f=2) é visível."
+        },
+        {
+          "enunciado": "Na série de Paschen, qual é o valor de n_f?",
+          "opcoes": ["1", "2", "3", "4"],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Paschen corresponde a n_f=3 e suas transições caem no infravermelho."
+        },
+        {
+          "enunciado": "Qual postulado de Bohr afirma que elétrons em órbitas permitidas não emitem radiação?",
+          "opcoes": [
+            "Primeiro postulado",
+            "Segundo postulado",
+            "Terceiro postulado",
+            "Quarto postulado"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "O terceiro postulado estabelece que, enquanto em órbita estacionária, o elétron não irradia energia."
+        },
+        {
+          "enunciado": "De que forma Bohr justificou quantitativamente as séries espectrais?",
+          "opcoes": [
+            "Usando eletrodinâmica clássica",
+            "Com a fórmula empírica de Rydberg e seus postulados",
+            "Através do efeito Compton",
+            "Por experimentos de difração"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "Bohr derivou a fórmula de Rydberg combinando seus postulados com as condições de quantização do momento angular."
+        },
+        {
+          "enunciado": "Qual experimento histórico revelou linhas escuras no espectro solar, base para espectroscopia atômica?",
+          "opcoes": [
+            "Young",
+            "Wollaston-Fraunhofer",
+            "Compton",
+            "Franck-Hertz"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "William Wollaston e Joseph von Fraunhofer observaram as linhas de absorção no espectro solar no início do século XIX."
+        },
+        {
+          "enunciado": "Qual fenômeno foi explicado por Max Planck para resolver a catástrofe do ultravioleta?",
+          "opcoes": [
+            "Quantização de energia em pacotes (quanta)",
+            "Teoria da relatividade",
+            "Espalhamento de elétrons",
+            "Polarização da luz"
+          ],
+          "correta": 0,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Planck postulou que a energia era emitida/absorvida em pacotes discretos E=h·f para ajustar o espectro do corpo negro."
+        },
+        {
+          "enunciado": "Como se chama o valor de energia de excitação do mercúrio no experimento de Franck-Hertz?",
+          "opcoes": ["2,3 eV", "4,9 eV", "6,6 eV", "10,2 eV"],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Os elétrons precisam de 4,9 eV para excitar átomos de mercúrio do estado fundamental ao primeiro estado excitado."
+        },
+        {
+          "enunciado": "Qual é o princípio físico por trás da espectroscopia atômica?",
+          "opcoes": [
+            "Interferência de ondas sonoras",
+            "Emissão e absorção de fótons em quantidades discretas",
+            "Polarização de partículas carregadas",
+            "Reflexão total interna"
+          ],
+          "correta": 1,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Espectroscopia baseia-se na emissão/absorção de fótons quando elétrons saltam entre níveis quantizados."
+        },
+        {
+          "enunciado": "Por que o modelo de Bohr só se aplica a átomos com um elétron?",
+          "opcoes": [
+            "Porque considera apenas força nuclear",
+            "Porque ignora correlações eletrônicas",
+            "Porque não quantiza o momento angular",
+            "Porque usa a constante de Rydberg"
+          ],
+          "correta": 1,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "O modelo de Bohr não leva em conta interações entre vários elétrons, sendo restrito a sistemas de um único elétron."
+        },
+        {
+          "enunciado": "Quem generalizou a órbita circular de Bohr para órbita elíptica em 1916?",
+          "opcoes": [
+            "Arnold Sommerfeld",
+            "Max Planck",
+            "Erwin Schrödinger",
+            "Louis de Broglie"
+          ],
+          "correta": 0,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Sommerfeld introduziu subníveis e órbitas elípticas para explicar o afino fino nas linhas espectrais."
+        },
+        {
+          "enunciado": "Qual teoria substituiu e expandiu o modelo de Bohr nos anos 1920?",
+          "opcoes": [
+            "Teoria das cordas",
+            "Mecânica quântica ondulatória",
+            "Teoria da relatividade geral",
+            "Teoria cinética dos gases"
+          ],
+          "correta": 1,
+          "dificuldade": "Fácil",
+          "tempo": 60,
+          "explicacao": "Schrödinger e Heisenberg desenvolveram a mecânica quântica ondulatória e matricial, superando o modelo de Bohr."
+        },
+        {
+          "enunciado": "Qual é a principal limitação experimental do modelo de Rutherford corrigida por Bohr?",
+          "opcoes": [
+            "Explicar o espalhamento de partículas alfa",
+            "Prever frequências espectrais corretas",
+            "Explicar a estabilidade dos elétrons em órbita",
+            "Determinar o raio nuclear"
+          ],
+          "correta": 2,
+          "dificuldade": "Médio",
+          "tempo": 90,
+          "explicacao": "Bohr impediu o colapso atômico ao propor órbitas estacionárias em que elétrons não irradiam energia."
+        },
+        {
+          "enunciado": "Qual expressão relaciona energia e número de onda na espectroscopia de átomos?",
+          "opcoes": ["E = h·c·ν̃", "E = m·c²", "E = k·T", "E = p·λ"],
+          "correta": 0,
+          "dificuldade": "Difícil",
+          "tempo": 120,
+          "explicacao": "A energia do fóton é E = h·ν e como ν = c·ν̃, temos E = h·c·ν̃, onde ν̃ é o número de onda."
+        }
+      ]
     }
-        ]
-      }
-          ]
-  }
+  ]
+}
